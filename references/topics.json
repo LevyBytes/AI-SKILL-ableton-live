@@ -2,706 +2,89 @@
   "schema_version": 1,
   "topics": [
     {
-      "topic": "Welcome To Live, First Steps",
-      "file": "references/12.md",
-      "summary": "Reference: Welcome To Live, First Steps.",
-      "keywords": [
-        "welcome-to-live-first-steps",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Concepts (part 1)",
-      "file": "references/live-concepts.md",
-      "summary": "Reference: Live Concepts (part 1).",
-      "keywords": [
-        "live-concepts-part-1",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Concepts (part 2)",
-      "file": "references/live-concepts-2.md",
-      "summary": "Reference: Live Concepts (part 2).",
-      "keywords": [
-        "live-concepts-part-2",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Working With The Browser (part 1)",
-      "file": "references/working-with-the-browser.md",
-      "summary": "Reference: Working With The Browser (part 1).",
-      "keywords": [
-        "working-with-the-browser-part-1",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Working With The Browser (part 2)",
-      "file": "references/working-with-the-browser-2.md",
-      "summary": "Reference: Working With The Browser (part 2).",
-      "keywords": [
-        "working-with-the-browser-part-2",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Working With The Browser (part 3)",
-      "file": "references/working-with-the-browser-3.md",
-      "summary": "Reference: Working With The Browser (part 3).",
-      "keywords": [
-        "working-with-the-browser-part-3",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Managing Files And Sets (part 1)",
-      "file": "references/managing-files-and-sets.md",
-      "summary": "Reference: Managing Files And Sets (part 1).",
-      "keywords": [
-        "managing-files-and-sets-part-1",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Managing Files And Sets (part 2)",
-      "file": "references/managing-files-and-sets-2.md",
-      "summary": "Reference: Managing Files And Sets (part 2).",
-      "keywords": [
-        "managing-files-and-sets-part-2",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Arrangement View (part 1)",
-      "file": "references/arrangement-view.md",
-      "summary": "Reference: Arrangement View (part 1).",
-      "keywords": [
-        "arrangement-view-part-1",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Arrangement View (part 2)",
-      "file": "references/arrangement-view-2.md",
-      "summary": "Reference: Arrangement View (part 2).",
-      "keywords": [
-        "arrangement-view-part-2",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Session View",
-      "file": "references/session-view.md",
-      "summary": "Reference: Session View.",
-      "keywords": [
-        "session-view",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Clip View (part 1)",
-      "file": "references/clip-view.md",
-      "summary": "Reference: Clip View (part 1).",
-      "keywords": [
-        "clip-view-part-1",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Clip View (part 2)",
-      "file": "references/clip-view-2.md",
-      "summary": "Reference: Clip View (part 2).",
-      "keywords": [
-        "clip-view-part-2",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Audio Clips Tempo And Warping (part 1)",
-      "file": "references/audio-clips-tempo-and-warping.md",
-      "summary": "Reference: Audio Clips Tempo And Warping (part 1).",
-      "keywords": [
-        "audio-clips-tempo-and-warping-part-1",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Audio Clips Tempo And Warping (part 2)",
-      "file": "references/audio-clips-tempo-and-warping-2.md",
-      "summary": "Reference: Audio Clips Tempo And Warping (part 2).",
-      "keywords": [
-        "audio-clips-tempo-and-warping-part-2",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Editing Midi (part 1)",
-      "file": "references/editing-midi.md",
-      "summary": "Reference: Editing Midi (part 1).",
-      "keywords": [
-        "editing-midi-part-1",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Editing Midi (part 2)",
-      "file": "references/editing-midi-2.md",
-      "summary": "Reference: Editing Midi (part 2).",
-      "keywords": [
-        "editing-midi-part-2",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Editing Midi (part 3)",
-      "file": "references/editing-midi-3.md",
-      "summary": "Reference: Editing Midi (part 3).",
-      "keywords": [
-        "editing-midi-part-3",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Midi Tools (part 1)",
-      "file": "references/midi-tools.md",
-      "summary": "Reference: Midi Tools (part 1).",
-      "keywords": [
-        "midi-tools-part-1",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Midi Tools (part 2)",
-      "file": "references/midi-tools-2.md",
-      "summary": "Reference: Midi Tools (part 2).",
-      "keywords": [
-        "midi-tools-part-2",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Editing Mpe, Converting Audio To Midi",
-      "file": "references/12-2.md",
-      "summary": "Reference: Editing Mpe, Converting Audio To Midi.",
-      "keywords": [
-        "editing-mpe-converting-audio-to-midi",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Using Grooves, Using Tuning Systems",
-      "file": "references/12-3.md",
-      "summary": "Reference: Using Grooves, Using Tuning Systems.",
-      "keywords": [
-        "using-grooves-using-tuning-systems",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Launching Clips",
-      "file": "references/launching-clips.md",
-      "summary": "Reference: Launching Clips.",
-      "keywords": [
-        "launching-clips",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Routing And I O (part 1)",
-      "file": "references/routing-and-i-o.md",
-      "summary": "Reference: Routing And I O (part 1).",
-      "keywords": [
-        "routing-and-i-o-part-1",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Routing And I O (part 2)",
-      "file": "references/routing-and-i-o-2.md",
-      "summary": "Reference: Routing And I O (part 2).",
-      "keywords": [
-        "routing-and-i-o-part-2",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Mixing",
-      "file": "references/mixing.md",
-      "summary": "Reference: Mixing.",
-      "keywords": [
-        "mixing",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Recording New Clips",
-      "file": "references/recording-new-clips.md",
-      "summary": "Reference: Recording New Clips.",
-      "keywords": [
-        "recording-new-clips",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Bounce To Audio, Comping",
-      "file": "references/12-4.md",
-      "summary": "Reference: Bounce To Audio, Comping.",
-      "keywords": [
-        "bounce-to-audio-comping",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Stem Separation",
-      "file": "references/stem-separation.md",
-      "summary": "Reference: Stem Separation.",
-      "keywords": [
-        "stem-separation",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Working With Instruments And Effects (part 1)",
-      "file": "references/working-with-instruments-and-effects.md",
-      "summary": "Reference: Working With Instruments And Effects (part 1).",
-      "keywords": [
-        "working-with-instruments-and-effects-part-1",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Working With Instruments And Effects (part 2)",
-      "file": "references/working-with-instruments-and-effects-2.md",
-      "summary": "Reference: Working With Instruments And Effects (part 2).",
-      "keywords": [
-        "working-with-instruments-and-effects-part-2",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Instrument Drum And Effect Racks (part 1)",
-      "file": "references/instrument-drum-and-effect-racks.md",
-      "summary": "Reference: Instrument Drum And Effect Racks (part 1).",
-      "keywords": [
-        "instrument-drum-and-effect-racks-part-1",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Instrument Drum And Effect Racks (part 2)",
-      "file": "references/instrument-drum-and-effect-racks-2.md",
-      "summary": "Reference: Instrument Drum And Effect Racks (part 2).",
-      "keywords": [
-        "instrument-drum-and-effect-racks-part-2",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Automation And Editing Envelopes",
-      "file": "references/automation-and-editing-envelopes.md",
-      "summary": "Reference: Automation And Editing Envelopes.",
-      "keywords": [
-        "automation-and-editing-envelopes",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Clip Envelopes",
-      "file": "references/clip-envelopes.md",
-      "summary": "Reference: Clip Envelopes.",
-      "keywords": [
-        "clip-envelopes",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Working With Video",
-      "file": "references/working-with-video.md",
-      "summary": "Reference: Working With Video.",
-      "keywords": [
-        "working-with-video",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Audio Effect Reference (part 1)",
-      "file": "references/live-audio-effect-reference.md",
-      "summary": "Reference: Live Audio Effect Reference (part 1).",
-      "keywords": [
-        "live-audio-effect-reference-part-1",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Audio Effect Reference (part 2)",
-      "file": "references/live-audio-effect-reference-2.md",
-      "summary": "Reference: Live Audio Effect Reference (part 2).",
-      "keywords": [
-        "live-audio-effect-reference-part-2",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Audio Effect Reference (part 3)",
-      "file": "references/live-audio-effect-reference-3.md",
-      "summary": "Reference: Live Audio Effect Reference (part 3).",
-      "keywords": [
-        "live-audio-effect-reference-part-3",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Audio Effect Reference (part 4)",
-      "file": "references/live-audio-effect-reference-4.md",
-      "summary": "Reference: Live Audio Effect Reference (part 4).",
-      "keywords": [
-        "live-audio-effect-reference-part-4",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Audio Effect Reference (part 5)",
-      "file": "references/live-audio-effect-reference-5.md",
-      "summary": "Reference: Live Audio Effect Reference (part 5).",
-      "keywords": [
-        "live-audio-effect-reference-part-5",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Audio Effect Reference (part 6)",
-      "file": "references/live-audio-effect-reference-6.md",
-      "summary": "Reference: Live Audio Effect Reference (part 6).",
-      "keywords": [
-        "live-audio-effect-reference-part-6",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Audio Effect Reference (part 7)",
-      "file": "references/live-audio-effect-reference-7.md",
-      "summary": "Reference: Live Audio Effect Reference (part 7).",
-      "keywords": [
-        "live-audio-effect-reference-part-7",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Audio Effect Reference (part 8)",
-      "file": "references/live-audio-effect-reference-8.md",
-      "summary": "Reference: Live Audio Effect Reference (part 8).",
-      "keywords": [
-        "live-audio-effect-reference-part-8",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Audio Effect Reference (part 9)",
-      "file": "references/live-audio-effect-reference-9.md",
-      "summary": "Reference: Live Audio Effect Reference (part 9).",
-      "keywords": [
-        "live-audio-effect-reference-part-9",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Audio Effect Reference (part 10)",
-      "file": "references/live-audio-effect-reference-10.md",
-      "summary": "Reference: Live Audio Effect Reference (part 10).",
-      "keywords": [
-        "live-audio-effect-reference-part-10",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Audio Effect Reference (part 11)",
-      "file": "references/live-audio-effect-reference-11.md",
-      "summary": "Reference: Live Audio Effect Reference (part 11).",
-      "keywords": [
-        "live-audio-effect-reference-part-11",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Midi Effect Reference",
-      "file": "references/live-midi-effect-reference.md",
-      "summary": "Reference: Live Midi Effect Reference.",
-      "keywords": [
-        "live-midi-effect-reference",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Instrument Reference (part 1)",
-      "file": "references/live-instrument-reference.md",
-      "summary": "Reference: Live Instrument Reference (part 1).",
-      "keywords": [
-        "live-instrument-reference-part-1",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Instrument Reference (part 2)",
-      "file": "references/live-instrument-reference-2.md",
-      "summary": "Reference: Live Instrument Reference (part 2).",
-      "keywords": [
-        "live-instrument-reference-part-2",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Instrument Reference (part 3)",
-      "file": "references/live-instrument-reference-3.md",
-      "summary": "Reference: Live Instrument Reference (part 3).",
-      "keywords": [
-        "live-instrument-reference-part-3",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Instrument Reference (part 4)",
-      "file": "references/live-instrument-reference-4.md",
-      "summary": "Reference: Live Instrument Reference (part 4).",
-      "keywords": [
-        "live-instrument-reference-part-4",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Instrument Reference (part 5)",
-      "file": "references/live-instrument-reference-5.md",
-      "summary": "Reference: Live Instrument Reference (part 5).",
-      "keywords": [
-        "live-instrument-reference-part-5",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Instrument Reference (part 6)",
-      "file": "references/live-instrument-reference-6.md",
-      "summary": "Reference: Live Instrument Reference (part 6).",
-      "keywords": [
-        "live-instrument-reference-part-6",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Instrument Reference (part 7)",
-      "file": "references/live-instrument-reference-7.md",
-      "summary": "Reference: Live Instrument Reference (part 7).",
-      "keywords": [
-        "live-instrument-reference-part-7",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Instrument Reference (part 8)",
-      "file": "references/live-instrument-reference-8.md",
-      "summary": "Reference: Live Instrument Reference (part 8).",
-      "keywords": [
-        "live-instrument-reference-part-8",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Instrument Reference (part 9)",
-      "file": "references/live-instrument-reference-9.md",
-      "summary": "Reference: Live Instrument Reference (part 9).",
-      "keywords": [
-        "live-instrument-reference-part-9",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Instrument Reference (part 10)",
-      "file": "references/live-instrument-reference-10.md",
-      "summary": "Reference: Live Instrument Reference (part 10).",
-      "keywords": [
-        "live-instrument-reference-part-10",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Instrument Reference (part 11)",
-      "file": "references/live-instrument-reference-11.md",
-      "summary": "Reference: Live Instrument Reference (part 11).",
-      "keywords": [
-        "live-instrument-reference-part-11",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Max For Live",
-      "file": "references/max-for-live.md",
-      "summary": "Reference: Max For Live.",
-      "keywords": [
-        "max-for-live",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Max For Live Devices (part 1)",
-      "file": "references/max-for-live-devices.md",
-      "summary": "Reference: Max For Live Devices (part 1).",
-      "keywords": [
-        "max-for-live-devices-part-1",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Max For Live Devices (part 2)",
-      "file": "references/max-for-live-devices-2.md",
-      "summary": "Reference: Max For Live Devices (part 2).",
-      "keywords": [
-        "max-for-live-devices-part-2",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Midi And Key Remote Control",
-      "file": "references/midi-and-key-remote-control.md",
-      "summary": "Reference: Midi And Key Remote Control.",
-      "keywords": [
-        "midi-and-key-remote-control",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Using Push 1 (part 1)",
-      "file": "references/using-push-1.md",
-      "summary": "Reference: Using Push 1 (part 1).",
-      "keywords": [
-        "using-push-1-part-1",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Using Push 1 (part 2)",
-      "file": "references/using-push-1-2.md",
-      "summary": "Reference: Using Push 1 (part 2).",
-      "keywords": [
-        "using-push-1-part-2",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Using Push 1 (part 3)",
-      "file": "references/using-push-1-3.md",
-      "summary": "Reference: Using Push 1 (part 3).",
-      "keywords": [
-        "using-push-1-part-3",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Using Push 2 (part 1)",
-      "file": "references/using-push-2.md",
-      "summary": "Reference: Using Push 2 (part 1).",
-      "keywords": [
-        "using-push-2-part-1",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Using Push 2 (part 2)",
-      "file": "references/using-push-2-2.md",
-      "summary": "Reference: Using Push 2 (part 2).",
-      "keywords": [
-        "using-push-2-part-2",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Using Push 2 (part 3)",
-      "file": "references/using-push-2-3.md",
-      "summary": "Reference: Using Push 2 (part 3).",
-      "keywords": [
-        "using-push-2-part-3",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Using Push 2 (part 4)",
-      "file": "references/using-push-2-4.md",
-      "summary": "Reference: Using Push 2 (part 4).",
-      "keywords": [
-        "using-push-2-part-4",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Synchronizing With Link Tempo Follower And Midi",
-      "file": "references/synchronizing-with-link-tempo-follower-and-midi.md",
-      "summary": "Reference: Synchronizing With Link Tempo Follower And Midi.",
-      "keywords": [
-        "synchronizing-with-link-tempo-follower-and-midi",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Computer Audio Resources And Strategies",
-      "file": "references/computer-audio-resources-and-strategies.md",
-      "summary": "Reference: Computer Audio Resources And Strategies.",
-      "keywords": [
-        "computer-audio-resources-and-strategies",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Audio Fact Sheet",
-      "file": "references/audio-fact-sheet.md",
-      "summary": "Reference: Audio Fact Sheet.",
-      "keywords": [
-        "audio-fact-sheet",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Midi Fact Sheet",
-      "file": "references/midi-fact-sheet.md",
-      "summary": "Reference: Midi Fact Sheet.",
-      "keywords": [
-        "midi-fact-sheet",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Accessibility And Keyboard Navigation",
-      "file": "references/accessibility-and-keyboard-navigation.md",
-      "summary": "Reference: Accessibility And Keyboard Navigation.",
-      "keywords": [
-        "accessibility-and-keyboard-navigation",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Keyboard Shortcuts (part 1)",
-      "file": "references/live-keyboard-shortcuts.md",
-      "summary": "Reference: Live Keyboard Shortcuts (part 1).",
-      "keywords": [
-        "live-keyboard-shortcuts-part-1",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Live Keyboard Shortcuts (part 2)",
-      "file": "references/live-keyboard-shortcuts-2.md",
-      "summary": "Reference: Live Keyboard Shortcuts (part 2).",
-      "keywords": [
-        "live-keyboard-shortcuts-part-2",
-        "reference"
-      ]
-    },
-    {
-      "topic": "Credits",
-      "file": "references/credits.md",
-      "summary": "Reference: Credits.",
-      "keywords": [
-        "credits",
-        "reference"
-      ]
-    }
+      "topic": "Getting started and navigation",
+      "file": "references/topics-getting-started-and-navigation.json",
+      "summary": "Open when setting up Live, navigating its views, finding shortcuts, or using accessibility features.",
+      "keywords": ["Getting started and navigation"]},
+    {
+      "topic": "Browser and project files",
+      "file": "references/topics-browser-and-project-files.json",
+      "summary": "Open when finding sounds and Packs, browsing libraries, or managing Live Sets and project files.",
+      "keywords": ["Browser and project files"]},
+    {
+      "topic": "Arrangement and clip performance",
+      "file": "references/topics-arrangement-and-clip-performance.json",
+      "summary": "Open when arranging clips on the timeline, performing with Session clips, or configuring clip launch behavior.",
+      "keywords": ["Arrangement and clip performance"]},
+    {
+      "topic": "Audio clips and editing",
+      "file": "references/topics-audio-clips-and-editing.json",
+      "summary": "Open when editing audio clips, warping recordings, separating stems, or aligning video and audio.",
+      "keywords": ["Audio clips and editing"]},
+    {
+      "topic": "MIDI notes and expression",
+      "file": "references/topics-midi-notes-and-expression.json",
+      "summary": "Open when editing MIDI notes, applying MIDI tools or effects, or configuring MPE, grooves, and tuning.",
+      "keywords": ["MIDI notes and expression"]},
+    {
+      "topic": "Recording, routing, and mixing",
+      "file": "references/topics-recording-routing-and-mixing.json",
+      "summary": "Open when recording performances, routing audio or MIDI, building a comp, or mixing tracks.",
+      "keywords": ["Recording, routing, and mixing"]},
+    {
+      "topic": "Devices, racks, and plug-ins",
+      "file": "references/topics-devices-racks-and-plug-ins.json",
+      "summary": "Open when adding devices or plug-ins, building Racks, or mapping Macro Controls.",
+      "keywords": ["Devices, racks, and plug-ins"]},
+    {
+      "topic": "Automation and modulation",
+      "file": "references/topics-automation-and-modulation.json",
+      "summary": "Open when recording or editing automation, or modulating parameters with clip envelopes.",
+      "keywords": ["Automation and modulation"]},
+    {
+      "topic": "Audio effects",
+      "file": "references/topics-audio-effects.json",
+      "summary": "Open when selecting or configuring a built-in Live audio effect.",
+      "keywords": ["Audio effects"]},
+    {
+      "topic": "Instruments and sound design",
+      "file": "references/topics-instruments-and-sound-design.json",
+      "summary": "Open when configuring a built-in Live instrument or designing a synthesizer or sampler sound.",
+      "keywords": ["Instruments and sound design"]},
+    {
+      "topic": "Max for Live",
+      "file": "references/topics-max-for-live.json",
+      "summary": "Open when setting up, editing, or using Max for Live devices and MIDI Tools.",
+      "keywords": ["Max for Live"]},
+    {
+      "topic": "Controllers and synchronization",
+      "file": "references/topics-controllers-and-synchronization.json",
+      "summary": "Open when mapping external controllers or synchronizing Live with other devices and applications.",
+      "keywords": ["Controllers and synchronization"]},
+    {
+      "topic": "Push 1",
+      "file": "references/topics-push-1.json",
+      "summary": "Open when playing, sequencing, recording, or controlling Live with Push 1.",
+      "keywords": ["Push 1"]},
+    {
+      "topic": "Push 2",
+      "file": "references/topics-push-2.json",
+      "summary": "Open when playing, sequencing, editing samples, or controlling Live with Push 2.",
+      "keywords": ["Push 2"]},
+    {
+      "topic": "Performance and signal integrity",
+      "file": "references/topics-performance-and-signal-integrity.json",
+      "summary": "Open when diagnosing CPU load, audio dropouts, signal changes, MIDI latency, or timing jitter.",
+      "keywords": ["Performance and signal integrity"]},
+    {
+      "topic": "Manual attribution",
+      "file": "references/topics-manual-attribution.json",
+      "summary": "Open when checking the manual contributors, copyright, version, or licensing notice.",
+      "keywords": ["Manual attribution"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
   ]
 }

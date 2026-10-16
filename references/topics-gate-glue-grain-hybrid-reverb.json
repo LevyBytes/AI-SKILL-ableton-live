@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Gate Glue Grain Hybrid Reverb Routes",
+      "file": "references/gate-glue-grain-hybrid-reverb-routes.md",
+      "summary": "Open when choosing references for Gate Glue Grain Hybrid Reverb in Ableton Live.",
+      "keywords": ["Gate Glue Grain Hybrid Reverb Routes", "Ableton Live"]},
+    {
+      "topic": "Filter Delay Controls",
+      "file": "references/filter-delay-controls.md",
+      "summary": "Open when you need guidance on Filter Delay Controls in Ableton Live.",
+      "keywords": ["Filter Delay Controls", "Ableton Live"]},
+    {
+      "topic": "Gate And Glue Compressor",
+      "file": "references/gate-and-glue-compressor.md",
+      "summary": "Open when you need guidance on Gate And Glue Compressor in Ableton Live.",
+      "keywords": ["Gate And Glue Compressor", "Ableton Live"]},
+    {
+      "topic": "Glue Compressor Sidechain",
+      "file": "references/glue-compressor-sidechain.md",
+      "summary": "Open when you need guidance on Glue Compressor Sidechain in Ableton Live.",
+      "keywords": ["Glue Compressor Sidechain", "Ableton Live"]},
+    {
+      "topic": "Glue Compressor Oversampling",
+      "file": "references/glue-compressor-oversampling.md",
+      "summary": "Open when you need guidance on Glue Compressor Oversampling in Ableton Live.",
+      "keywords": ["Glue Compressor Oversampling", "Ableton Live"]},
+    {
+      "topic": "Grain Delay And Hybrid Reverb",
+      "file": "references/grain-delay-and-hybrid-reverb.md",
+      "summary": "Open when you need guidance on Grain Delay And Hybrid Reverb in Ableton Live.",
+      "keywords": ["Grain Delay And Hybrid Reverb", "Ableton Live"]},
+    {
+      "topic": "Hybrid Reverb Routing And Engines",
+      "file": "references/hybrid-reverb-routing-and-engines.md",
+      "summary": "Open when you need guidance on Hybrid Reverb Routing And Engines in Ableton Live.",
+      "keywords": ["Hybrid Reverb Routing And Engines", "Ableton Live"]},
+    {
+      "topic": "Hybrid Reverb Dark Hall And Quartz",
+      "file": "references/hybrid-reverb-dark-hall-and-quartz.md",
+      "summary": "Open when you need guidance on Hybrid Reverb Dark Hall And Quartz in Ableton Live.",
+      "keywords": ["Hybrid Reverb Dark Hall And Quartz", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

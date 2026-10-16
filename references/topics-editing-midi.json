@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Editing MIDI",
+      "file": "references/editing-midi.md",
+      "summary": "Open when you need guidance on Editing MIDI in Ableton Live.",
+      "keywords": ["Editing MIDI", "Ableton Live"]},
+    {
+      "topic": "MIDI Editing Overview",
+      "file": "references/midi-editing-overview.md",
+      "summary": "Open when you need guidance on MIDI Editing Overview in Ableton Live.",
+      "keywords": ["MIDI Editing Overview", "Ableton Live"]},
+    {
+      "topic": "MIDI Note Editor Layout And Navigation",
+      "file": "references/midi-note-editor-layout-and-navigation.md",
+      "summary": "Open when you need guidance on MIDI Note Editor Layout And Navigation in Ableton Live.",
+      "keywords": ["MIDI Note Editor Layout And Navigation", "Ableton Live"]},
+    {
+      "topic": "MIDI Grid Snapping And Playback",
+      "file": "references/midi-grid-snapping-and-playback.md",
+      "summary": "Open when you need guidance on MIDI Grid Snapping And Playback in Ableton Live.",
+      "keywords": ["MIDI Grid Snapping And Playback", "Ableton Live"]},
+    {
+      "topic": "MIDI Clip Creation",
+      "file": "references/midi-clip-creation.md",
+      "summary": "Open when you need guidance on MIDI Clip Creation in Ableton Live.",
+      "keywords": ["MIDI Clip Creation", "Ableton Live"]},
+    {
+      "topic": "MIDI Note Drawing And Preview",
+      "file": "references/midi-note-drawing-and-preview.md",
+      "summary": "Open when you need guidance on MIDI Note Drawing And Preview in Ableton Live.",
+      "keywords": ["MIDI Note Drawing And Preview", "Ableton Live"]},
+    {
+      "topic": "MIDI Note Editing Overview",
+      "file": "references/midi-note-editing-overview.md",
+      "summary": "Open when you need guidance on MIDI Note Editing Overview in Ableton Live.",
+      "keywords": ["MIDI Note Editing Overview", "Ableton Live"]},
+    {
+      "topic": "MIDI Note Selection Movement And Length",
+      "file": "references/midi-note-selection-movement-and-length.md",
+      "summary": "Open when you need guidance on MIDI Note Selection Movement And Length in Ableton Live.",
+      "keywords": ["MIDI Note Selection Movement And Length", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

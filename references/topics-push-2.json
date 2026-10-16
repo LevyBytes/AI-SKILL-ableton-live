@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Push 2 Setup And Playing",
+      "file": "references/topics-push-two-setup-and-playing.json",
+      "summary": "Open when setting up Push 2, browsing sounds, playing and recording drums or melodies, or beginning melodic step sequencing.",
+      "keywords": ["Push 2 Setup And Playing", "Ableton Live"]},
+    {
+      "topic": "Push 2 Sequencing Samples And Device",
+      "file": "references/topics-push-two-sequencing-samples-and-device.json",
+      "summary": "Open when sequencing melodies on Push 2, editing samples in Classic, One-Shot, or Slicing mode, or managing devices.",
+      "keywords": ["Push 2 Sequencing Samples And Device", "Ableton Live"]},
+    {
+      "topic": "Push 2 Mixing Automation And Session",
+      "file": "references/topics-push-two-mixing-automation-and-session.json",
+      "summary": "Open when mixing tracks and Racks on Push 2, recording or sequencing automation, using Clip Mode, or configuring hardware settings.",
+      "keywords": ["Push 2 Mixing Automation And Session", "Ableton Live"]},
+    {
+      "topic": "Push 2 Buttons Transport And Footswitches",
+      "file": "references/push-two-buttons-transport-and-footswitches.md",
+      "summary": "Open when you need guidance on Push 2 Buttons Transport And Footswitches in Ableton Live.",
+      "keywords": ["Push 2 Buttons Transport And Footswitches", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

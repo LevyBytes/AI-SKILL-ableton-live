@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Bouncing And Comping Routes",
+      "file": "references/bouncing-and-comping-routes.md",
+      "summary": "Open when choosing references for Bouncing And Comping in Ableton Live.",
+      "keywords": ["Bouncing And Comping Routes", "Ableton Live"]},
+    {
+      "topic": "Bounce To Audio Overview",
+      "file": "references/bounce-to-audio-overview.md",
+      "summary": "Open when you need guidance on Bounce To Audio Overview in Ableton Live.",
+      "keywords": ["Bounce To Audio Overview", "Ableton Live"]},
+    {
+      "topic": "Track And Group Audio Bouncing",
+      "file": "references/track-and-group-audio-bouncing.md",
+      "summary": "Open when you need guidance on Track And Group Audio Bouncing in Ableton Live.",
+      "keywords": ["Track And Group Audio Bouncing", "Ableton Live"]},
+    {
+      "topic": "Comping Overview",
+      "file": "references/comping-overview.md",
+      "summary": "Open when you need guidance on Comping Overview in Ableton Live.",
+      "keywords": ["Comping Overview", "Ableton Live"]},
+    {
+      "topic": "Comping Take Lanes And Selection",
+      "file": "references/comping-take-lanes-and-selection.md",
+      "summary": "Open when you need guidance on Comping Take Lanes And Selection in Ableton Live.",
+      "keywords": ["Comping Take Lanes And Selection", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

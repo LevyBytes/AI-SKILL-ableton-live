@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "MIDI Note Operations Routes",
+      "file": "references/midi-note-operations-routes.md",
+      "summary": "Open when choosing references for MIDI Note Operations in Ableton Live.",
+      "keywords": ["MIDI Note Operations Routes", "Ableton Live"]},
+    {
+      "topic": "MIDI Note Selection Movement And Length",
+      "file": "references/midi-note-selection-movement-and-length.md",
+      "summary": "Open when you need guidance on MIDI Note Selection Movement And Length in Ableton Live.",
+      "keywords": ["MIDI Note Selection Movement And Length", "Ableton Live"]},
+    {
+      "topic": "MIDI Note Stretch And Deactivation",
+      "file": "references/midi-note-stretch-and-deactivation.md",
+      "summary": "Open when you need guidance on MIDI Note Stretch And Deactivation in Ableton Live.",
+      "keywords": ["MIDI Note Stretch And Deactivation", "Ableton Live"]},
+    {
+      "topic": "MIDI Note Split Chop And Join",
+      "file": "references/midi-note-split-chop-and-join.md",
+      "summary": "Open when you need guidance on MIDI Note Split Chop And Join in Ableton Live.",
+      "keywords": ["MIDI Note Split Chop And Join", "Ableton Live"]},
+    {
+      "topic": "MIDI Pitch Time Utilities Overview",
+      "file": "references/midi-pitch-time-utilities-overview.md",
+      "summary": "Open when you need guidance on MIDI Pitch Time Utilities Overview in Ableton Live.",
+      "keywords": ["MIDI Pitch Time Utilities Overview", "Ableton Live"]},
+    {
+      "topic": "MIDI Pitch Time Transformations",
+      "file": "references/midi-pitch-time-transformations.md",
+      "summary": "Open when you need guidance on MIDI Pitch Time Transformations in Ableton Live.",
+      "keywords": ["MIDI Pitch Time Transformations", "Ableton Live"]},
+    {
+      "topic": "MIDI Tools Quantization And Velocity",
+      "file": "references/midi-tools-quantization-and-velocity.md",
+      "summary": "Open when you need guidance on MIDI Tools Quantization And Velocity in Ableton Live.",
+      "keywords": ["MIDI Tools Quantization And Velocity", "Ableton Live"]},
+    {
+      "topic": "MIDI Velocity Drawing And Note Off",
+      "file": "references/midi-velocity-drawing-and-note-off.md",
+      "summary": "Open when you need guidance on MIDI Velocity Drawing And Note Off in Ableton Live.",
+      "keywords": ["MIDI Velocity Drawing And Note Off", "Ableton Live"]},
+    {
+      "topic": "MIDI Note Probability Editing",
+      "file": "references/midi-note-probability-editing.md",
+      "summary": "Open when you need guidance on MIDI Note Probability Editing in Ableton Live.",
+      "keywords": ["MIDI Note Probability Editing", "Ableton Live"]},
+    {
+      "topic": "MIDI Note Probability Groups",
+      "file": "references/midi-note-probability-groups.md",
+      "summary": "Open when you need guidance on MIDI Note Probability Groups in Ableton Live.",
+      "keywords": ["MIDI Note Probability Groups", "Ableton Live"]},
+    {
+      "topic": "MIDI Folding And Scales",
+      "file": "references/midi-folding-and-scales.md",
+      "summary": "Open when you need guidance on MIDI Folding And Scales in Ableton Live.",
+      "keywords": ["MIDI Folding And Scales", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

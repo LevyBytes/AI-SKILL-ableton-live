@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Synchronizing With Link Tempo Follower And MIDI",
+      "file": "references/synchronizing-with-link-tempo-follower-and-midi.md",
+      "summary": "Open when you need guidance on Synchronizing With Link Tempo Follower And MIDI in Ableton Live.",
+      "keywords": ["Synchronizing With Link Tempo Follower And MIDI", "Ableton Live"]},
+    {
+      "topic": "Link Tempo And MIDI Sync Overview",
+      "file": "references/link-tempo-and-midi-sync-overview.md",
+      "summary": "Open when you need guidance on Link Tempo And MIDI Sync Overview in Ableton Live.",
+      "keywords": ["Link Tempo And MIDI Sync Overview", "Ableton Live"]},
+    {
+      "topic": "Link Synchronization Overview",
+      "file": "references/link-synchronization-overview.md",
+      "summary": "Open when you need guidance on Link Synchronization Overview in Ableton Live.",
+      "keywords": ["Link Synchronization Overview", "Ableton Live"]},
+    {
+      "topic": "Link Setup Sync And Audio",
+      "file": "references/link-setup-sync-and-audio.md",
+      "summary": "Open when you need guidance on Link Setup Sync And Audio in Ableton Live.",
+      "keywords": ["Link Setup Sync And Audio", "Ableton Live"]},
+    {
+      "topic": "Tempo Follower Overview",
+      "file": "references/tempo-follower-overview.md",
+      "summary": "Open when you need guidance on Tempo Follower Overview in Ableton Live.",
+      "keywords": ["Tempo Follower Overview", "Ableton Live"]},
+    {
+      "topic": "Tempo Follower Input Setup",
+      "file": "references/tempo-follower-input-setup.md",
+      "summary": "Open when you need guidance on Tempo Follower Input Setup in Ableton Live.",
+      "keywords": ["Tempo Follower Input Setup", "Ableton Live"]},
+    {
+      "topic": "MIDI Synchronization Overview",
+      "file": "references/midi-synchronization-overview.md",
+      "summary": "Open when you need guidance on MIDI Synchronization Overview in Ableton Live.",
+      "keywords": ["MIDI Synchronization Overview", "Ableton Live"]},
+    {
+      "topic": "External MIDI Leader And Follower Sync",
+      "file": "references/external-midi-leader-and-follower-sync.md",
+      "summary": "Open when you need guidance on External MIDI Leader And Follower Sync in Ableton Live.",
+      "keywords": ["External MIDI Leader And Follower Sync", "Ableton Live"]},
+    {
+      "topic": "MIDI Timecode Input Options",
+      "file": "references/midi-timecode-input-options.md",
+      "summary": "Open when you need guidance on MIDI Timecode Input Options in Ableton Live.",
+      "keywords": ["MIDI Timecode Input Options", "Ableton Live"]},
+    {
+      "topic": "MIDI Sync Delay Compensation",
+      "file": "references/midi-sync-delay-compensation.md",
+      "summary": "Open when you need guidance on MIDI Sync Delay Compensation in Ableton Live.",
+      "keywords": ["MIDI Sync Delay Compensation", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

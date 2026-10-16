@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Arrangement View (part 1)",
+      "file": "references/topics-arrangement-view.json",
+      "summary": "Open when navigating the Arrangement timeline, placing clips, setting locators and loops, or editing fades and crossfades.",
+      "keywords": ["arrangement-view-part-1", "reference"]},
+    {
+      "topic": "Arrangement Editing",
+      "file": "references/topics-arrangement-editing.json",
+      "summary": "Open when changing the editing grid, inserting or deleting time, splitting or consolidating clips, or editing linked tracks.",
+      "keywords": ["Arrangement Editing", "Ableton Live"]},
+    {
+      "topic": "Session View",
+      "file": "references/topics-session-view.json",
+      "summary": "Open when organizing Session clips and scenes, setting scene tempo, or recording a Session performance into the Arrangement.",
+      "keywords": ["session-view", "reference"]},
+    {
+      "topic": "Launching Clips",
+      "file": "references/topics-launching-clips.json",
+      "summary": "Open when configuring Session clip launch modes, Legato, quantization, velocity, offsets, or Follow Actions.",
+      "keywords": ["launching-clips", "reference"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

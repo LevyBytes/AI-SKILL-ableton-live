@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Grooves And Tuning Routes",
+      "file": "references/grooves-and-tuning-routes.md",
+      "summary": "Open when choosing references for Grooves And Tuning in Ableton Live.",
+      "keywords": ["Grooves And Tuning Routes", "Ableton Live"]},
+    {
+      "topic": "Groove Overview",
+      "file": "references/groove-overview.md",
+      "summary": "Open when you need guidance on Groove Overview in Ableton Live.",
+      "keywords": ["Groove Overview", "Ableton Live"]},
+    {
+      "topic": "Groove Pool Controls",
+      "file": "references/groove-pool-controls.md",
+      "summary": "Open when you need guidance on Groove Pool Controls in Ableton Live.",
+      "keywords": ["Groove Pool Controls", "Ableton Live"]},
+    {
+      "topic": "Groove Parameters And Committing",
+      "file": "references/groove-parameters-and-committing.md",
+      "summary": "Open when you need guidance on Groove Parameters And Committing in Ableton Live.",
+      "keywords": ["Groove Parameters And Committing", "Ableton Live"]},
+    {
+      "topic": "Groove File Editing",
+      "file": "references/groove-file-editing.md",
+      "summary": "Open when you need guidance on Groove File Editing in Ableton Live.",
+      "keywords": ["Groove File Editing", "Ableton Live"]},
+    {
+      "topic": "Audio And MIDI Groove Extraction",
+      "file": "references/audio-and-midi-groove-extraction.md",
+      "summary": "Open when you need guidance on Audio And MIDI Groove Extraction in Ableton Live.",
+      "keywords": ["Audio And MIDI Groove Extraction", "Ableton Live"]},
+    {
+      "topic": "Groove Techniques Overview",
+      "file": "references/groove-techniques-overview.md",
+      "summary": "Open when you need guidance on Groove Techniques Overview in Ableton Live.",
+      "keywords": ["Groove Techniques Overview", "Ableton Live"]},
+    {
+      "topic": "Groove Quantization And Randomization Recipes",
+      "file": "references/groove-quantization-and-randomization-recipes.md",
+      "summary": "Open when you need guidance on Groove Quantization And Randomization Recipes in Ableton Live.",
+      "keywords": ["Groove Quantization And Randomization Recipes", "Ableton Live"]},
+    {
+      "topic": "Tuning System Overview",
+      "file": "references/tuning-system-overview.md",
+      "summary": "Open when you need guidance on Tuning System Overview in Ableton Live.",
+      "keywords": ["Tuning System Overview", "Ableton Live"]},
+    {
+      "topic": "Tuning System Loading And Track Options",
+      "file": "references/tuning-system-loading-and-track-options.md",
+      "summary": "Open when you need guidance on Tuning System Loading And Track Options in Ableton Live.",
+      "keywords": ["Tuning System Loading And Track Options", "Ableton Live"]},
+    {
+      "topic": "Tuning Bypass And Controller Layouts",
+      "file": "references/tuning-bypass-and-controller-layouts.md",
+      "summary": "Open when you need guidance on Tuning Bypass And Controller Layouts in Ableton Live.",
+      "keywords": ["Tuning Bypass And Controller Layouts", "Ableton Live"]},
+    {
+      "topic": "Tuning System Learning Resources",
+      "file": "references/tuning-system-learning-resources.md",
+      "summary": "Open when you need guidance on Tuning System Learning Resources in Ableton Live.",
+      "keywords": ["Tuning System Learning Resources", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

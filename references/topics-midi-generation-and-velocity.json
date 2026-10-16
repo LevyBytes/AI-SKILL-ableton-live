@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "MIDI Generation And Velocity Routes",
+      "file": "references/midi-generation-and-velocity-routes.md",
+      "summary": "Open when choosing references for MIDI Generation And Velocity in Ableton Live.",
+      "keywords": ["MIDI Generation And Velocity Routes", "Ableton Live"]},
+    {
+      "topic": "MIDI Strum And Time Warp",
+      "file": "references/midi-strum-and-time-warp.md",
+      "summary": "Open when you need guidance on MIDI Strum And Time Warp in Ableton Live.",
+      "keywords": ["MIDI Strum And Time Warp", "Ableton Live"]},
+    {
+      "topic": "MIDI Velocity Shaper",
+      "file": "references/midi-velocity-shaper.md",
+      "summary": "Open when you need guidance on MIDI Velocity Shaper in Ableton Live.",
+      "keywords": ["MIDI Velocity Shaper", "Ableton Live"]},
+    {
+      "topic": "MIDI Generators Overview",
+      "file": "references/midi-generators-overview.md",
+      "summary": "Open when you need guidance on MIDI Generators Overview in Ableton Live.",
+      "keywords": ["MIDI Generators Overview", "Ableton Live"]},
+    {
+      "topic": "MIDI Rhythm Seed Shape And Stacks",
+      "file": "references/midi-rhythm-seed-shape-and-stacks.md",
+      "summary": "Open when you need guidance on MIDI Rhythm Seed Shape And Stacks in Ableton Live.",
+      "keywords": ["MIDI Rhythm Seed Shape And Stacks", "Ableton Live"]},
+    {
+      "topic": "Euclidean MIDI Generator",
+      "file": "references/euclidean-midi-generator.md",
+      "summary": "Open when you need guidance on Euclidean MIDI Generator in Ableton Live.",
+      "keywords": ["Euclidean MIDI Generator", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

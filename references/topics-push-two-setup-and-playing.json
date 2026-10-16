@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Push 2 Setup And Playing Routes",
+      "file": "references/push-two-setup-and-playing-routes.md",
+      "summary": "Open when choosing references for Push 2 Setup And Playing in Ableton Live.",
+      "keywords": ["Push 2 Setup And Playing Routes", "Ableton Live"]},
+    {
+      "topic": "Push 2 Overview",
+      "file": "references/push-two-overview.md",
+      "summary": "Open when you need guidance on Push 2 Overview in Ableton Live.",
+      "keywords": ["Push 2 Overview", "Ableton Live"]},
+    {
+      "topic": "Push 2 Setup Browser And Beats",
+      "file": "references/push-two-setup-browser-and-beats.md",
+      "summary": "Open when you need guidance on Push 2 Setup Browser And Beats in Ableton Live.",
+      "keywords": ["Push 2 Setup Browser And Beats", "Ableton Live"]},
+    {
+      "topic": "Push 2 Drum Layouts And Loading",
+      "file": "references/push-two-drum-layouts-and-loading.md",
+      "summary": "Open when you need guidance on Push 2 Drum Layouts And Loading in Ableton Live.",
+      "keywords": ["Push 2 Drum Layouts And Loading", "Ableton Live"]},
+    {
+      "topic": "Push 2 Drum Pad Copy And Muting",
+      "file": "references/push-two-drum-pad-copy-and-muting.md",
+      "summary": "Open when you need guidance on Push 2 Drum Pad Copy And Muting in Ableton Live.",
+      "keywords": ["Push 2 Drum Pad Copy And Muting", "Ableton Live"]},
+    {
+      "topic": "Push 2 Drum Sequencing And Recording",
+      "file": "references/push-two-drum-sequencing-and-recording.md",
+      "summary": "Open when you need guidance on Push 2 Drum Sequencing And Recording in Ableton Live.",
+      "keywords": ["Push 2 Drum Sequencing And Recording", "Ableton Live"]},
+    {
+      "topic": "Push 2 Recording Options Overview",
+      "file": "references/push-two-recording-options-overview.md",
+      "summary": "Open when you need guidance on Push 2 Recording Options Overview in Ableton Live.",
+      "keywords": ["Push 2 Recording Options Overview", "Ableton Live"]},
+    {
+      "topic": "Push 2 Repeat Quantization And Arrangement Recording",
+      "file": "references/push-two-repeat-quantization-and-arrangement-recording.md",
+      "summary": "Open when you need guidance on Push 2 Repeat Quantization And Arrangement Recording in Ableton Live.",
+      "keywords": ["Push 2 Repeat Quantization And Arrangement Recording", "Ableton Live"]},
+    {
+      "topic": "Push 2 Melody And Harmony Playing",
+      "file": "references/push-two-melody-and-harmony-playing.md",
+      "summary": "Open when you need guidance on Push 2 Melody And Harmony Playing in Ableton Live.",
+      "keywords": ["Push 2 Melody And Harmony Playing", "Ableton Live"]},
+    {
+      "topic": "Push 2 Key And Scale Layouts",
+      "file": "references/push-two-key-and-scale-layouts.md",
+      "summary": "Open when you need guidance on Push 2 Key And Scale Layouts in Ableton Live.",
+      "keywords": ["Push 2 Key And Scale Layouts", "Ableton Live"]},
+    {
+      "topic": "Push 2 Melody Sequencing And Loop Length",
+      "file": "references/push-two-melody-sequencing-and-loop-length.md",
+      "summary": "Open when you need guidance on Push 2 Melody Sequencing And Loop Length in Ableton Live.",
+      "keywords": ["Push 2 Melody Sequencing And Loop Length", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Launching Clips",
+      "file": "references/launching-clips.md",
+      "summary": "Open when you need guidance on Launching Clips in Ableton Live.",
+      "keywords": ["Launching Clips", "Ableton Live"]},
+    {
+      "topic": "Clip Launching Overview",
+      "file": "references/clip-launching-overview.md",
+      "summary": "Open when you need guidance on Clip Launching Overview in Ableton Live.",
+      "keywords": ["Clip Launching Overview", "Ableton Live"]},
+    {
+      "topic": "Clip Launch Modes Quantization And Offset",
+      "file": "references/clip-launch-modes-quantization-and-offset.md",
+      "summary": "Open when you need guidance on Clip Launch Modes Quantization And Offset in Ableton Live.",
+      "keywords": ["Clip Launch Modes Quantization And Offset", "Ableton Live"]},
+    {
+      "topic": "Clip Follow Actions",
+      "file": "references/clip-follow-actions.md",
+      "summary": "Open when you need guidance on Clip Follow Actions in Ableton Live.",
+      "keywords": ["Clip Follow Actions", "Ableton Live"]},
+    {
+      "topic": "Follow Action Performance Recipes",
+      "file": "references/follow-action-performance-recipes.md",
+      "summary": "Open when you need guidance on Follow Action Performance Recipes in Ableton Live.",
+      "keywords": ["Follow Action Performance Recipes", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

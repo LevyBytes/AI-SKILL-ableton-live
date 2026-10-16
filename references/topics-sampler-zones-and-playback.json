@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Sampler Zones And Playback Routes",
+      "file": "references/sampler-zones-and-playback-routes.md",
+      "summary": "Open when choosing references for Sampler Zones And Playback in Ableton Live.",
+      "keywords": ["Sampler Zones And Playback Routes", "Ableton Live"]},
+    {
+      "topic": "Sampler Setup And Multisampling",
+      "file": "references/sampler-setup-and-multisampling.md",
+      "summary": "Open when you need guidance on Sampler Setup And Multisampling in Ableton Live.",
+      "keywords": ["Sampler Setup And Multisampling", "Ableton Live"]},
+    {
+      "topic": "Sampler Title Options Tabs And Zones",
+      "file": "references/sampler-title-options-tabs-and-zones.md",
+      "summary": "Open when you need guidance on Sampler Title Options Tabs And Zones in Ableton Live.",
+      "keywords": ["Sampler Title Options Tabs And Zones", "Ableton Live"]},
+    {
+      "topic": "Sampler Round Robin Key And Velocity",
+      "file": "references/sampler-round-robin-key-and-velocity.md",
+      "summary": "Open when you need guidance on Sampler Round Robin Key And Velocity in Ableton Live.",
+      "keywords": ["Sampler Round Robin Key And Velocity", "Ableton Live"]},
+    {
+      "topic": "Sampler Sample Select Zones",
+      "file": "references/sampler-sample-select-zones.md",
+      "summary": "Open when you need guidance on Sampler Sample Select Zones in Ableton Live.",
+      "keywords": ["Sampler Sample Select Zones", "Ableton Live"]},
+    {
+      "topic": "Sampler Sample Tab Navigation",
+      "file": "references/sampler-sample-tab-navigation.md",
+      "summary": "Open when you need guidance on Sampler Sample Tab Navigation in Ableton Live.",
+      "keywords": ["Sampler Sample Tab Navigation", "Ableton Live"]},
+    {
+      "topic": "Sampler Sample Playback And Loops",
+      "file": "references/sampler-sample-playback-and-loops.md",
+      "summary": "Open when you need guidance on Sampler Sample Playback And Loops in Ableton Live.",
+      "keywords": ["Sampler Sample Playback And Loops", "Ableton Live"]},
+    {
+      "topic": "Sampler Pitch Oscillator Tab Overview",
+      "file": "references/sampler-pitch-oscillator-tab-overview.md",
+      "summary": "Open when you need guidance on Sampler Pitch Oscillator Tab Overview in Ableton Live.",
+      "keywords": ["Sampler Pitch Oscillator Tab Overview", "Ableton Live"]},
+    {
+      "topic": "Sampler Modulation Oscillator",
+      "file": "references/sampler-modulation-oscillator.md",
+      "summary": "Open when you need guidance on Sampler Modulation Oscillator in Ableton Live.",
+      "keywords": ["Sampler Modulation Oscillator", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

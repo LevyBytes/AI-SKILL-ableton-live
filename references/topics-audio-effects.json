@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Amp Filter And Pan",
+      "file": "references/topics-amp-filter-and-pan.json",
+      "summary": "Open when shaping tone with Amp or Auto Filter, or setting up Auto Pan-Tremolo modulation.",
+      "keywords": ["Amp Filter And Pan", "Ableton Live"]},
+    {
+      "topic": "Pitch Rhythm Tone And Compression",
+      "file": "references/topics-pitch-rhythm-tone-and-compression.json",
+      "summary": "Open when using Auto Shift, Beat Repeat, Cabinet, Channel EQ, or Chorus-Ensemble, or locating Compressor and Auto Pan-Tremolo controls.",
+      "keywords": ["Pitch Rhythm Tone And Compression", "Ableton Live"]},
+    {
+      "topic": "Compressor Corpus And Delay",
+      "file": "references/topics-compressor-corpus-and-delay.json",
+      "summary": "Open when adjusting Compressor gain reduction and sidechains, modeling resonances with Corpus, or configuring Delay.",
+      "keywords": ["Compressor Corpus And Delay", "Ableton Live"]},
+    {
+      "topic": "Delay Drum Drive And EQ",
+      "file": "references/topics-delay-drum-drive-and-eq.json",
+      "summary": "Open when processing audio with Drum Buss, Dynamic Tube, Echo, EQ Eight, EQ Three, Erosion, or External Audio Effect, or refining Delay behavior.",
+      "keywords": ["Delay Drum Drive And EQ", "Ableton Live"]},
+    {
+      "topic": "Gate Glue Grain Hybrid Reverb",
+      "file": "references/topics-gate-glue-grain-hybrid-reverb.json",
+      "summary": "Open when adjusting Filter Delay, Gate, Glue Compressor, or Grain Delay, or combining convolution and algorithmic engines in Hybrid Reverb.",
+      "keywords": ["Gate Glue Grain Hybrid Reverb", "Ableton Live"]},
+    {
+      "topic": "Reverb Limiter Looper Multiband",
+      "file": "references/topics-reverb-limiter-looper-multiband.json",
+      "summary": "Open when finishing Hybrid Reverb settings, limiting peaks, recording loops with Looper, or configuring Multiband Dynamics.",
+      "keywords": ["Reverb Limiter Looper Multiband", "Ableton Live"]},
+    {
+      "topic": "Multiband Distortion And Modulation",
+      "file": "references/topics-multiband-distortion-and-modulation.json",
+      "summary": "Open when adjusting Multiband Dynamics processing and sidechains, or adding Overdrive, Pedal, Phaser-Flanger, or Redux effects.",
+      "keywords": ["Multiband Distortion And Modulation", "Ableton Live"]},
+    {
+      "topic": "Redux Resonators Reverb And Roar",
+      "file": "references/topics-redux-resonators-reverb-and-roar.json",
+      "summary": "Open when shaping resonances with Resonators, creating Reverb, configuring Roar saturation and modulation, or adjusting Redux output.",
+      "keywords": ["Redux Resonators Reverb And Roar", "Ableton Live"]},
+    {
+      "topic": "Roar Saturator Shifter Spectral Resonator",
+      "file": "references/topics-roar-saturator-shifter-spectral-resonator.json",
+      "summary": "Open when configuring Roar sidechains, Saturator, Shifter pitch and frequency effects, or Spectral Resonator.",
+      "keywords": ["Roar Saturator Shifter Spectral Resonator", "Ableton Live"]},
+    {
+      "topic": "Spectral Analysis Utility And Vocoder",
+      "file": "references/topics-spectral-analysis-utility-and-vocoder.json",
+      "summary": "Open when freezing or delaying spectra with Spectral Time, analyzing sound with Spectrum or Tuner, or using Utility, Vinyl Distortion, or Vocoder.",
+      "keywords": ["Spectral Analysis Utility And Vocoder", "Ableton Live"]},
+    {
+      "topic": "Vocoder Singing Synth And Formants",
+      "file": "references/vocoder-singing-synth-and-formants.md",
+      "summary": "Open when you need guidance on Vocoder Singing Synth And Formants in Ableton Live.",
+      "keywords": ["Vocoder Singing Synth And Formants", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

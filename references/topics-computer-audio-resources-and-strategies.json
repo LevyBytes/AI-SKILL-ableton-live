@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Computer Audio Resources And Strategies",
+      "file": "references/computer-audio-resources-and-strategies.md",
+      "summary": "Open when you need guidance on Computer Audio Resources And Strategies in Ableton Live.",
+      "keywords": ["Computer Audio Resources And Strategies", "Ableton Live"]},
+    {
+      "topic": "Audio Performance Overview",
+      "file": "references/audio-performance-overview.md",
+      "summary": "Open when you need guidance on Audio Performance Overview in Ableton Live.",
+      "keywords": ["Audio Performance Overview", "Ableton Live"]},
+    {
+      "topic": "CPU Load Overview",
+      "file": "references/cpu-load-overview.md",
+      "summary": "Open when you need guidance on CPU Load Overview in Ableton Live.",
+      "keywords": ["CPU Load Overview", "Ableton Live"]},
+    {
+      "topic": "CPU Load Meter And Track Freezing",
+      "file": "references/cpu-load-meter-and-track-freezing.md",
+      "summary": "Open when you need guidance on CPU Load Meter And Track Freezing in Ableton Live.",
+      "keywords": ["CPU Load Meter And Track Freezing", "Ableton Live"]},
+    {
+      "topic": "Disk Load And Sample Streaming",
+      "file": "references/disk-load-and-sample-streaming.md",
+      "summary": "Open when you need guidance on Disk Load And Sample Streaming in Ableton Live.",
+      "keywords": ["Disk Load And Sample Streaming", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

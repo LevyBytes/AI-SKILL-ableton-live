@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Clip Envelopes",
+      "file": "references/clip-envelopes.md",
+      "summary": "Open when you need guidance on Clip Envelopes in Ableton Live.",
+      "keywords": ["Clip Envelopes", "Ableton Live"]},
+    {
+      "topic": "Clip Envelope Overview",
+      "file": "references/clip-envelope-overview.md",
+      "summary": "Open when you need guidance on Clip Envelope Overview in Ableton Live.",
+      "keywords": ["Clip Envelope Overview", "Ableton Live"]},
+    {
+      "topic": "Clip Envelope Editor",
+      "file": "references/clip-envelope-editor.md",
+      "summary": "Open when you need guidance on Clip Envelope Editor in Ableton Live.",
+      "keywords": ["Clip Envelope Editor", "Ableton Live"]},
+    {
+      "topic": "Audio Envelope Pitch Volume And Rhythm",
+      "file": "references/audio-envelope-pitch-volume-and-rhythm.md",
+      "summary": "Open when you need guidance on Audio Envelope Pitch Volume And Rhythm in Ableton Live.",
+      "keywords": ["Audio Envelope Pitch Volume And Rhythm", "Ableton Live"]},
+    {
+      "topic": "Clip Automation Versus Modulation",
+      "file": "references/clip-automation-versus-modulation.md",
+      "summary": "Open when you need guidance on Clip Automation Versus Modulation in Ableton Live.",
+      "keywords": ["Clip Automation Versus Modulation", "Ableton Live"]},
+    {
+      "topic": "Clip Envelope Mixer Device Modulation",
+      "file": "references/clip-envelope-mixer-device-modulation.md",
+      "summary": "Open when you need guidance on Clip Envelope Mixer Device Modulation in Ableton Live.",
+      "keywords": ["Clip Envelope Mixer Device Modulation", "Ableton Live"]},
+    {
+      "topic": "MIDI Controller And Unlinked Envelopes",
+      "file": "references/midi-controller-and-unlinked-envelopes.md",
+      "summary": "Open when you need guidance on MIDI Controller And Unlinked Envelopes in Ableton Live.",
+      "keywords": ["MIDI Controller And Unlinked Envelopes", "Ableton Live"]},
+    {
+      "topic": "Unlinked Envelope Loops And Fades",
+      "file": "references/unlinked-envelope-loops-and-fades.md",
+      "summary": "Open when you need guidance on Unlinked Envelope Loops And Fades in Ableton Live.",
+      "keywords": ["Unlinked Envelope Loops And Fades", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

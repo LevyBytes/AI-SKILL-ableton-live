@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Clip Editing And Playback Routes",
+      "file": "references/clip-editing-and-playback-routes.md",
+      "summary": "Open when choosing references for Clip Editing And Playback in Ableton Live.",
+      "keywords": ["Clip Editing And Playback Routes", "Ableton Live"]},
+    {
+      "topic": "Audio Clip Warp Reverse And Playback",
+      "file": "references/audio-clip-warp-reverse-and-playback.md",
+      "summary": "Open when you need guidance on Audio Clip Warp Reverse And Playback in Ableton Live.",
+      "keywords": ["Audio Clip Warp Reverse And Playback", "Ableton Live"]},
+    {
+      "topic": "Audio Clip Gain And Pitch",
+      "file": "references/audio-clip-gain-and-pitch.md",
+      "summary": "Open when you need guidance on Audio Clip Gain And Pitch in Ableton Live.",
+      "keywords": ["Audio Clip Gain And Pitch", "Ableton Live"]},
+    {
+      "topic": "MIDI Pitch Time Panel Overview",
+      "file": "references/midi-pitch-time-panel-overview.md",
+      "summary": "Open when you need guidance on MIDI Pitch Time Panel Overview in Ableton Live.",
+      "keywords": ["MIDI Pitch Time Panel Overview", "Ableton Live"]},
+    {
+      "topic": "MIDI Pitch And Time Panel Controls",
+      "file": "references/midi-pitch-and-time-panel-controls.md",
+      "summary": "Open when you need guidance on MIDI Pitch And Time Panel Controls in Ableton Live.",
+      "keywords": ["MIDI Pitch And Time Panel Controls", "Ableton Live"]},
+    {
+      "topic": "Clip Transform Generation Navigation And Looping",
+      "file": "references/clip-transform-generation-navigation-and-looping.md",
+      "summary": "Open when you need guidance on Clip Transform Generation Navigation And Looping in Ableton Live.",
+      "keywords": ["Clip Transform Generation Navigation And Looping", "Ableton Live"]},
+    {
+      "topic": "Clip Cropping Replacement And Defaults",
+      "file": "references/clip-cropping-replacement-and-defaults.md",
+      "summary": "Open when you need guidance on Clip Cropping Replacement And Defaults in Ableton Live.",
+      "keywords": ["Clip Cropping Replacement And Defaults", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

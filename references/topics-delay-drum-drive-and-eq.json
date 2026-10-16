@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Delay Drum Drive And EQ Routes",
+      "file": "references/delay-drum-drive-and-eq-routes.md",
+      "summary": "Open when choosing references for Delay Drum Drive And EQ in Ableton Live.",
+      "keywords": ["Delay Drum Drive And EQ Routes", "Ableton Live"]},
+    {
+      "topic": "Delay Transition And Quality Options",
+      "file": "references/delay-transition-and-quality-options.md",
+      "summary": "Open when you need guidance on Delay Transition And Quality Options in Ableton Live.",
+      "keywords": ["Delay Transition And Quality Options", "Ableton Live"]},
+    {
+      "topic": "Delay Glitch And Chorus Recipes",
+      "file": "references/delay-glitch-and-chorus-recipes.md",
+      "summary": "Open when you need guidance on Delay Glitch And Chorus Recipes in Ableton Live.",
+      "keywords": ["Delay Glitch And Chorus Recipes", "Ableton Live"]},
+    {
+      "topic": "Drum Buss Drive And Transients",
+      "file": "references/drum-buss-drive-and-transients.md",
+      "summary": "Open when you need guidance on Drum Buss Drive And Transients in Ableton Live.",
+      "keywords": ["Drum Buss Drive And Transients", "Ableton Live"]},
+    {
+      "topic": "Drum Buss Tone Bass And Output",
+      "file": "references/drum-buss-tone-bass-and-output.md",
+      "summary": "Open when you need guidance on Drum Buss Tone Bass And Output in Ableton Live.",
+      "keywords": ["Drum Buss Tone Bass And Output", "Ableton Live"]},
+    {
+      "topic": "Dynamic Tube And Echo",
+      "file": "references/dynamic-tube-and-echo.md",
+      "summary": "Open when you need guidance on Dynamic Tube And Echo in Ableton Live.",
+      "keywords": ["Dynamic Tube And Echo", "Ableton Live"]},
+    {
+      "topic": "Echo Delay Modulation And Character",
+      "file": "references/echo-delay-modulation-and-character.md",
+      "summary": "Open when you need guidance on Echo Delay Modulation And Character in Ableton Live.",
+      "keywords": ["Echo Delay Modulation And Character", "Ableton Live"]},
+    {
+      "topic": "EQ Eight Filter Controls",
+      "file": "references/eq-eight-filter-controls.md",
+      "summary": "Open when you need guidance on EQ Eight Filter Controls in Ableton Live.",
+      "keywords": ["EQ Eight Filter Controls", "Ableton Live"]},
+    {
+      "topic": "EQ Eight Oversampling And Channel Options",
+      "file": "references/eq-eight-oversampling-and-channel-options.md",
+      "summary": "Open when you need guidance on EQ Eight Oversampling And Channel Options in Ableton Live.",
+      "keywords": ["EQ Eight Oversampling And Channel Options", "Ableton Live"]},
+    {
+      "topic": "EQ Three Erosion External Filter Delay",
+      "file": "references/eq-three-erosion-external-filter-delay.md",
+      "summary": "Open when you need guidance on EQ Three Erosion External Filter Delay in Ableton Live.",
+      "keywords": ["EQ Three Erosion External Filter Delay", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

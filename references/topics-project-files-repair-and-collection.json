@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Project Files Repair And Collection Routes",
+      "file": "references/project-files-repair-and-collection-routes.md",
+      "summary": "Open when choosing references for Project Files Repair And Collection in Ableton Live.",
+      "keywords": ["Project Files Repair And Collection Routes", "Ableton Live"]},
+    {
+      "topic": "Live Set Saving Merging And Templates",
+      "file": "references/live-set-saving-merging-and-templates.md",
+      "summary": "Open when you need guidance on Live Set Saving Merging And Templates in Ableton Live.",
+      "keywords": ["Live Set Saving Merging And Templates", "Ableton Live"]},
+    {
+      "topic": "Live Set File References",
+      "file": "references/live-set-file-references.md",
+      "summary": "Open when you need guidance on Live Set File References in Ableton Live.",
+      "keywords": ["Live Set File References", "Ableton Live"]},
+    {
+      "topic": "Live Project Folders Overview",
+      "file": "references/live-project-folders-overview.md",
+      "summary": "Open when you need guidance on Live Project Folders Overview in Ableton Live.",
+      "keywords": ["Live Project Folders Overview", "Ableton Live"]},
+    {
+      "topic": "Project Sets Presets And File Management",
+      "file": "references/project-sets-presets-and-file-management.md",
+      "summary": "Open when you need guidance on Project Sets Presets And File Management in Ableton Live.",
+      "keywords": ["Project Sets Presets And File Management", "Ableton Live"]},
+    {
+      "topic": "Missing File Detection",
+      "file": "references/missing-file-detection.md",
+      "summary": "Open when you need guidance on Missing File Detection in Ableton Live.",
+      "keywords": ["Missing File Detection", "Ableton Live"]},
+    {
+      "topic": "Missing File Search And Repair",
+      "file": "references/missing-file-search-and-repair.md",
+      "summary": "Open when you need guidance on Missing File Search And Repair in Ableton Live.",
+      "keywords": ["Missing File Search And Repair", "Ableton Live"]},
+    {
+      "topic": "Collecting External Files",
+      "file": "references/collecting-external-files.md",
+      "summary": "Open when you need guidance on Collecting External Files in Ableton Live.",
+      "keywords": ["Collecting External Files", "Ableton Live"]},
+    {
+      "topic": "Collect Files On Export",
+      "file": "references/collect-files-on-export.md",
+      "summary": "Open when you need guidance on Collect Files On Export in Ableton Live.",
+      "keywords": ["Collect Files On Export", "Ableton Live"]},
+    {
+      "topic": "File Collection Cleanup And Packing",
+      "file": "references/file-collection-cleanup-and-packing.md",
+      "summary": "Open when you need guidance on File Collection Cleanup And Packing in Ableton Live.",
+      "keywords": ["File Collection Cleanup And Packing", "Ableton Live"]},
+    {
+      "topic": "Project Preset And Set Management Faq",
+      "file": "references/project-preset-and-set-management-faq.md",
+      "summary": "Open when you need guidance on Project Preset And Set Management Faq in Ableton Live.",
+      "keywords": ["Project Preset And Set Management Faq", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

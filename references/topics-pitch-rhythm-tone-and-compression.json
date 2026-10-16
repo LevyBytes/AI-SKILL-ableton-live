@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Pitch Rhythm Tone And Compression Routes",
+      "file": "references/pitch-rhythm-tone-and-compression-routes.md",
+      "summary": "Open when choosing references for Pitch Rhythm Tone And Compression in Ableton Live.",
+      "keywords": ["Pitch Rhythm Tone And Compression Routes", "Ableton Live"]},
+    {
+      "topic": "Auto Pan Tremolo Controls",
+      "file": "references/auto-pan-tremolo-controls.md",
+      "summary": "Open when you need guidance on Auto Pan Tremolo Controls in Ableton Live.",
+      "keywords": ["Auto Pan Tremolo Controls", "Ableton Live"]},
+    {
+      "topic": "Auto Shift Overview",
+      "file": "references/auto-shift-overview.md",
+      "summary": "Open when you need guidance on Auto Shift Overview in Ableton Live.",
+      "keywords": ["Auto Shift Overview", "Ableton Live"]},
+    {
+      "topic": "Auto Shift Input Controls",
+      "file": "references/auto-shift-input-controls.md",
+      "summary": "Open when you need guidance on Auto Shift Input Controls in Ableton Live.",
+      "keywords": ["Auto Shift Input Controls", "Ableton Live"]},
+    {
+      "topic": "Auto Shift MIDI Note Input",
+      "file": "references/auto-shift-midi-note-input.md",
+      "summary": "Open when you need guidance on Auto Shift MIDI Note Input in Ableton Live.",
+      "keywords": ["Auto Shift MIDI Note Input", "Ableton Live"]},
+    {
+      "topic": "Auto Shift Quantization Pitch And Vibrato",
+      "file": "references/auto-shift-quantization-pitch-and-vibrato.md",
+      "summary": "Open when you need guidance on Auto Shift Quantization Pitch And Vibrato in Ableton Live.",
+      "keywords": ["Auto Shift Quantization Pitch And Vibrato", "Ableton Live"]},
+    {
+      "topic": "Beat Repeat And Cabinet",
+      "file": "references/beat-repeat-and-cabinet.md",
+      "summary": "Open when you need guidance on Beat Repeat And Cabinet in Ableton Live.",
+      "keywords": ["Beat Repeat And Cabinet", "Ableton Live"]},
+    {
+      "topic": "Cabinet Techniques Overview",
+      "file": "references/cabinet-techniques-overview.md",
+      "summary": "Open when you need guidance on Cabinet Techniques Overview in Ableton Live.",
+      "keywords": ["Cabinet Techniques Overview", "Ableton Live"]},
+    {
+      "topic": "Cabinet Amp Pairing And Microphones",
+      "file": "references/cabinet-amp-pairing-and-microphones.md",
+      "summary": "Open when you need guidance on Cabinet Amp Pairing And Microphones in Ableton Live.",
+      "keywords": ["Cabinet Amp Pairing And Microphones", "Ableton Live"]},
+    {
+      "topic": "Channel EQ Controls",
+      "file": "references/channel-eq-controls.md",
+      "summary": "Open when you need guidance on Channel EQ Controls in Ableton Live.",
+      "keywords": ["Channel EQ Controls", "Ableton Live"]},
+    {
+      "topic": "Channel EQ Saturation And Low Cut",
+      "file": "references/channel-eq-saturation-and-low-cut.md",
+      "summary": "Open when you need guidance on Channel EQ Saturation And Low Cut in Ableton Live.",
+      "keywords": ["Channel EQ Saturation And Low Cut", "Ableton Live"]},
+    {
+      "topic": "Chorus Ensemble Controls",
+      "file": "references/chorus-ensemble-controls.md",
+      "summary": "Open when you need guidance on Chorus Ensemble Controls in Ableton Live.",
+      "keywords": ["Chorus Ensemble Controls", "Ableton Live"]},
+    {
+      "topic": "Chorus Ensemble Guitar And Feedback Recipes",
+      "file": "references/chorus-ensemble-guitar-and-feedback-recipes.md",
+      "summary": "Open when you need guidance on Chorus Ensemble Guitar And Feedback Recipes in Ableton Live.",
+      "keywords": ["Chorus Ensemble Guitar And Feedback Recipes", "Ableton Live"]},
+    {
+      "topic": "Compressor Controls And Sidechain",
+      "file": "references/compressor-controls-and-sidechain.md",
+      "summary": "Open when you need guidance on Compressor Controls And Sidechain in Ableton Live.",
+      "keywords": ["Compressor Controls And Sidechain", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

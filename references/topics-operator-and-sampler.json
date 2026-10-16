@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Operator And Sampler Routes",
+      "file": "references/operator-and-sampler-routes.md",
+      "summary": "Open when choosing references for Operator And Sampler in Ableton Live.",
+      "keywords": ["Operator And Sampler Routes", "Ableton Live"]},
+    {
+      "topic": "Operator Global Voice And MIDI Controls",
+      "file": "references/operator-global-voice-and-midi-controls.md",
+      "summary": "Open when you need guidance on Operator Global Voice And MIDI Controls in Ableton Live.",
+      "keywords": ["Operator Global Voice And MIDI Controls", "Ableton Live"]},
+    {
+      "topic": "Operator Glide Spread And CPU",
+      "file": "references/operator-glide-spread-and-cpu.md",
+      "summary": "Open when you need guidance on Operator Glide Spread And CPU in Ableton Live.",
+      "keywords": ["Operator Glide Spread And CPU", "Ableton Live"]},
+    {
+      "topic": "Operator Global Parameters And Modulation Targets",
+      "file": "references/operator-global-parameters-and-modulation-targets.md",
+      "summary": "Open when you need guidance on Operator Global Parameters And Modulation Targets in Ableton Live.",
+      "keywords": ["Operator Global Parameters And Modulation Targets", "Ableton Live"]},
+    {
+      "topic": "Operator Pitch Filter And LFO Reference",
+      "file": "references/operator-pitch-filter-and-lfo-reference.md",
+      "summary": "Open when you need guidance on Operator Pitch Filter And LFO Reference in Ableton Live.",
+      "keywords": ["Operator Pitch Filter And LFO Reference", "Ableton Live"]},
+    {
+      "topic": "Operator Oscillator And Envelope Parameter Reference",
+      "file": "references/operator-oscillator-and-envelope-parameter-reference.md",
+      "summary": "Open when you need guidance on Operator Oscillator And Envelope Parameter Reference in Ableton Live.",
+      "keywords": ["Operator Oscillator And Envelope Parameter Reference", "Ableton Live"]},
+    {
+      "topic": "Sampler Overview",
+      "file": "references/sampler-overview.md",
+      "summary": "Open when you need guidance on Sampler Overview in Ableton Live.",
+      "keywords": ["Sampler Overview", "Ableton Live"]},
+    {
+      "topic": "Sampler Setup And Multisampling",
+      "file": "references/sampler-setup-and-multisampling.md",
+      "summary": "Open when you need guidance on Sampler Setup And Multisampling in Ableton Live.",
+      "keywords": ["Sampler Setup And Multisampling", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

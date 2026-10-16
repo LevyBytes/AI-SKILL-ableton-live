@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Audio Clips Tempo And Warping",
+      "file": "references/audio-clips-tempo-and-warping.md",
+      "summary": "Open when you need guidance on Audio Clips Tempo And Warping in Ableton Live.",
+      "keywords": ["Audio Clips Tempo And Warping", "Ableton Live"]},
+    {
+      "topic": "Audio Warping Overview",
+      "file": "references/audio-warping-overview.md",
+      "summary": "Open when you need guidance on Audio Warping Overview in Ableton Live.",
+      "keywords": ["Audio Warping Overview", "Ableton Live"]},
+    {
+      "topic": "Tempo Overview",
+      "file": "references/tempo-overview.md",
+      "summary": "Open when you need guidance on Tempo Overview in Ableton Live.",
+      "keywords": ["Tempo Overview", "Ableton Live"]},
+    {
+      "topic": "Tempo Tapping Nudging And Followers",
+      "file": "references/tempo-tapping-nudging-and-followers.md",
+      "summary": "Open when you need guidance on Tempo Tapping Nudging And Followers in Ableton Live.",
+      "keywords": ["Tempo Tapping Nudging And Followers", "Ableton Live"]},
+    {
+      "topic": "Warping Samples Overview",
+      "file": "references/warping-samples-overview.md",
+      "summary": "Open when you need guidance on Warping Samples Overview in Ableton Live.",
+      "keywords": ["Warping Samples Overview", "Ableton Live"]},
+    {
+      "topic": "Warp Settings Imports And Markers",
+      "file": "references/warp-settings-imports-and-markers.md",
+      "summary": "Open when you need guidance on Warp Settings Imports And Markers in Ableton Live.",
+      "keywords": ["Warp Settings Imports And Markers", "Ableton Live"]},
+    {
+      "topic": "Transients And Warp Marker Saving",
+      "file": "references/transients-and-warp-marker-saving.md",
+      "summary": "Open when you need guidance on Transients And Warp Marker Saving in Ableton Live.",
+      "keywords": ["Transients And Warp Marker Saving", "Ableton Live"]},
+    {
+      "topic": "Short Sample Warping",
+      "file": "references/short-sample-warping.md",
+      "summary": "Open when you need guidance on Short Sample Warping in Ableton Live.",
+      "keywords": ["Short Sample Warping", "Ableton Live"]},
+    {
+      "topic": "Loop Length And Multiclip Warping",
+      "file": "references/loop-length-and-multiclip-warping.md",
+      "summary": "Open when you need guidance on Loop Length And Multiclip Warping in Ableton Live.",
+      "keywords": ["Loop Length And Multiclip Warping", "Ableton Live"]},
+    {
+      "topic": "Auto Warp Long Samples",
+      "file": "references/auto-warp-long-samples.md",
+      "summary": "Open when you need guidance on Auto Warp Long Samples in Ableton Live.",
+      "keywords": ["Auto Warp Long Samples", "Ableton Live"]},
+    {
+      "topic": "Auto Warp Result Correction",
+      "file": "references/auto-warp-result-correction.md",
+      "summary": "Open when you need guidance on Auto Warp Result Correction in Ableton Live.",
+      "keywords": ["Auto Warp Result Correction", "Ableton Live"]},
+    {
+      "topic": "Audio Grooves And Quantization",
+      "file": "references/audio-grooves-and-quantization.md",
+      "summary": "Open when you need guidance on Audio Grooves And Quantization in Ableton Live.",
+      "keywords": ["Audio Grooves And Quantization", "Ableton Live"]},
+    {
+      "topic": "Warp Mode Overview",
+      "file": "references/warp-mode-overview.md",
+      "summary": "Open when you need guidance on Warp Mode Overview in Ableton Live.",
+      "keywords": ["Warp Mode Overview", "Ableton Live"]},
+    {
+      "topic": "Warp Modes And Grain Controls",
+      "file": "references/warp-modes-and-grain-controls.md",
+      "summary": "Open when you need guidance on Warp Modes And Grain Controls in Ableton Live.",
+      "keywords": ["Warp Modes And Grain Controls", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

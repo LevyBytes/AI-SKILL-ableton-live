@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Recording New Clips",
+      "file": "references/recording-new-clips.md",
+      "summary": "Open when you need guidance on Recording New Clips in Ableton Live.",
+      "keywords": ["Recording New Clips", "Ableton Live"]},
+    {
+      "topic": "Recording Overview",
+      "file": "references/recording-overview.md",
+      "summary": "Open when you need guidance on Recording Overview in Ableton Live.",
+      "keywords": ["Recording Overview", "Ableton Live"]},
+    {
+      "topic": "Recording Inputs And Track Arming",
+      "file": "references/recording-inputs-and-track-arming.md",
+      "summary": "Open when you need guidance on Recording Inputs And Track Arming in Ableton Live.",
+      "keywords": ["Recording Inputs And Track Arming", "Ableton Live"]},
+    {
+      "topic": "Arrangement Session Overdub And Step Recording",
+      "file": "references/arrangement-session-overdub-and-step-recording.md",
+      "summary": "Open when you need guidance on Arrangement Session Overdub And Step Recording in Ableton Live.",
+      "keywords": ["Arrangement Session Overdub And Step Recording", "Ableton Live"]},
+    {
+      "topic": "Recording In Sync",
+      "file": "references/recording-in-sync.md",
+      "summary": "Open when you need guidance on Recording In Sync in Ableton Live.",
+      "keywords": ["Recording In Sync", "Ableton Live"]},
+    {
+      "topic": "Metronome Sound Rhythm And Count In",
+      "file": "references/metronome-sound-rhythm-and-count-in.md",
+      "summary": "Open when you need guidance on Metronome Sound Rhythm And Count In in Ableton Live.",
+      "keywords": ["Metronome Sound Rhythm And Count In", "Ableton Live"]},
+    {
+      "topic": "Recording Quantization Files Remote And Capture",
+      "file": "references/recording-quantization-files-remote-and-capture.md",
+      "summary": "Open when you need guidance on Recording Quantization Files Remote And Capture in Ableton Live.",
+      "keywords": ["Recording Quantization Files Remote And Capture", "Ableton Live"]},
+    {
+      "topic": "MIDI Capture In New And Existing Sets",
+      "file": "references/midi-capture-in-new-and-existing-sets.md",
+      "summary": "Open when you need guidance on MIDI Capture In New And Existing Sets in Ableton Live.",
+      "keywords": ["MIDI Capture In New And Existing Sets", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

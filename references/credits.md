@@ -1,6 +1,6 @@
 # Credits
 
-> Ableton Live reference. Original prose; identifiers preserved verbatim.
+Open when you need guidance on Credits in Ableton Live.
 
 ### 42. Credits
 

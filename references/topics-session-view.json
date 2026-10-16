@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Session View",
+      "file": "references/session-view.md",
+      "summary": "Open when you need guidance on Session View in Ableton Live.",
+      "keywords": ["Session View", "Ableton Live"]},
+    {
+      "topic": "Session View Overview",
+      "file": "references/session-view-overview.md",
+      "summary": "Open when you need guidance on Session View Overview in Ableton Live.",
+      "keywords": ["Session View Overview", "Ableton Live"]},
+    {
+      "topic": "Session Clips Tracks And Scenes",
+      "file": "references/session-clips-tracks-and-scenes.md",
+      "summary": "Open when you need guidance on Session Clips Tracks And Scenes in Ableton Live.",
+      "keywords": ["Session Clips Tracks And Scenes", "Ableton Live"]},
+    {
+      "topic": "Scene Tempo Meter And View",
+      "file": "references/scene-tempo-meter-and-view.md",
+      "summary": "Open when you need guidance on Scene Tempo Meter And View in Ableton Live.",
+      "keywords": ["Scene Tempo Meter And View", "Ableton Live"]},
+    {
+      "topic": "Session Track Status And Grid",
+      "file": "references/session-track-status-and-grid.md",
+      "summary": "Open when you need guidance on Session Track Status And Grid in Ableton Live.",
+      "keywords": ["Session Track Status And Grid", "Ableton Live"]},
+    {
+      "topic": "Session Launch Selection And Scene Editing",
+      "file": "references/session-launch-selection-and-scene-editing.md",
+      "summary": "Open when you need guidance on Session Launch Selection And Scene Editing in Ableton Live.",
+      "keywords": ["Session Launch Selection And Scene Editing", "Ableton Live"]},
+    {
+      "topic": "Session Performance To Arrangement Recording",
+      "file": "references/session-performance-to-arrangement-recording.md",
+      "summary": "Open when you need guidance on Session Performance To Arrangement Recording in Ableton Live.",
+      "keywords": ["Session Performance To Arrangement Recording", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

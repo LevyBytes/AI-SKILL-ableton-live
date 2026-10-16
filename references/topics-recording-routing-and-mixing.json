@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Routing And I O (part 1)",
+      "file": "references/topics-routing-and-i-o.json",
+      "summary": "Open when configuring monitoring and audio or MIDI inputs and outputs, connecting external synthesizers, or resampling and recording internal signals.",
+      "keywords": ["routing-and-i-o-part-1", "reference"]},
+    {
+      "topic": "Submixes Instrument Outputs And Sidechain Routing",
+      "file": "references/submixes-instrument-outputs-and-sidechain-routing.md",
+      "summary": "Open when you need guidance on Submixes Instrument Outputs And Sidechain Routing in Ableton Live.",
+      "keywords": ["Submixes Instrument Outputs And Sidechain Routing", "Ableton Live"]},
+    {
+      "topic": "Mixing",
+      "file": "references/topics-mixing.json",
+      "summary": "Open when balancing tracks and groups, using returns and the crossfader, cueing, or adjusting track delays and monitoring latency.",
+      "keywords": ["mixing", "reference"]},
+    {
+      "topic": "Recording New Clips",
+      "file": "references/topics-recording-new-clips.json",
+      "summary": "Open when recording audio or MIDI clips, arming tracks, overdubbing, setting count-in and quantization, or recovering a performance with Capture MIDI.",
+      "keywords": ["recording-new-clips", "reference"]},
+    {
+      "topic": "Bouncing And Comping",
+      "file": "references/topics-bouncing-and-comping.json",
+      "summary": "Open when bouncing tracks or selections to audio or recording, auditioning, and combining take lanes into a comp.",
+      "keywords": ["Bouncing And Comping", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

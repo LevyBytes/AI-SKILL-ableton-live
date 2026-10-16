@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Roar Saturator Shifter Spectral Resonator Routes",
+      "file": "references/roar-saturator-shifter-spectral-resonator-routes.md",
+      "summary": "Open when choosing references for Roar Saturator Shifter Spectral Resonator in Ableton Live.",
+      "keywords": ["Roar Saturator Shifter Spectral Resonator Routes", "Ableton Live"]},
+    {
+      "topic": "Roar Modulation Feedback And Global Controls",
+      "file": "references/roar-modulation-feedback-and-global-controls.md",
+      "summary": "Open when you need guidance on Roar Modulation Feedback And Global Controls in Ableton Live.",
+      "keywords": ["Roar Modulation Feedback And Global Controls", "Ableton Live"]},
+    {
+      "topic": "Roar Audio And MIDI Sidechain",
+      "file": "references/roar-audio-and-midi-sidechain.md",
+      "summary": "Open when you need guidance on Roar Audio And MIDI Sidechain in Ableton Live.",
+      "keywords": ["Roar Audio And MIDI Sidechain", "Ableton Live"]},
+    {
+      "topic": "Saturator Drive And Curves",
+      "file": "references/saturator-drive-and-curves.md",
+      "summary": "Open when you need guidance on Saturator Drive And Curves in Ableton Live.",
+      "keywords": ["Saturator Drive And Curves", "Ableton Live"]},
+    {
+      "topic": "Saturator Waveshaper And Quality Options",
+      "file": "references/saturator-waveshaper-and-quality-options.md",
+      "summary": "Open when you need guidance on Saturator Waveshaper And Quality Options in Ableton Live.",
+      "keywords": ["Saturator Waveshaper And Quality Options", "Ableton Live"]},
+    {
+      "topic": "Shifter Overview",
+      "file": "references/shifter-overview.md",
+      "summary": "Open when you need guidance on Shifter Overview in Ableton Live.",
+      "keywords": ["Shifter Overview", "Ableton Live"]},
+    {
+      "topic": "Shifter Tuning Modulation And Sidechain",
+      "file": "references/shifter-tuning-modulation-and-sidechain.md",
+      "summary": "Open when you need guidance on Shifter Tuning Modulation And Sidechain in Ableton Live.",
+      "keywords": ["Shifter Tuning Modulation And Sidechain", "Ableton Live"]},
+    {
+      "topic": "Shifter Drum Phasing And Tremolo Recipes",
+      "file": "references/shifter-drum-phasing-and-tremolo-recipes.md",
+      "summary": "Open when you need guidance on Shifter Drum Phasing And Tremolo Recipes in Ableton Live.",
+      "keywords": ["Shifter Drum Phasing And Tremolo Recipes", "Ableton Live"]},
+    {
+      "topic": "Spectral Resonator Overview",
+      "file": "references/spectral-resonator-overview.md",
+      "summary": "Open when you need guidance on Spectral Resonator Overview in Ableton Live.",
+      "keywords": ["Spectral Resonator Overview", "Ableton Live"]},
+    {
+      "topic": "Spectral Resonator Pitch Modulation And Output",
+      "file": "references/spectral-resonator-pitch-modulation-and-output.md",
+      "summary": "Open when you need guidance on Spectral Resonator Pitch Modulation And Output in Ableton Live.",
+      "keywords": ["Spectral Resonator Pitch Modulation And Output", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

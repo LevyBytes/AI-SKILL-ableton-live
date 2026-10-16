@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Device Presets And Plug In Routes",
+      "file": "references/device-presets-and-plug-in-routes.md",
+      "summary": "Open when choosing references for Device Presets And Plug In in Ableton Live.",
+      "keywords": ["Device Presets And Plug In Routes", "Ableton Live"]},
+    {
+      "topic": "Preset Saving And Defaults",
+      "file": "references/preset-saving-and-defaults.md",
+      "summary": "Open when you need guidance on Preset Saving And Defaults in Ableton Live.",
+      "keywords": ["Preset Saving And Defaults", "Ableton Live"]},
+    {
+      "topic": "Plug In Formats And Setup",
+      "file": "references/plug-in-formats-and-setup.md",
+      "summary": "Open when you need guidance on Plug In Formats And Setup in Ableton Live.",
+      "keywords": ["Plug In Formats And Setup", "Ableton Live"]},
+    {
+      "topic": "Plug In Device Parameter Display",
+      "file": "references/plug-in-device-parameter-display.md",
+      "summary": "Open when you need guidance on Plug In Device Parameter Display in Ableton Live.",
+      "keywords": ["Plug In Device Parameter Display", "Ableton Live"]},
+    {
+      "topic": "Plug In Windows And Parameter Configuration",
+      "file": "references/plug-in-windows-and-parameter-configuration.md",
+      "summary": "Open when you need guidance on Plug In Windows And Parameter Configuration in Ableton Live.",
+      "keywords": ["Plug In Windows And Parameter Configuration", "Ableton Live"]},
+    {
+      "topic": "Plug In Sidechain Routing",
+      "file": "references/plug-in-sidechain-routing.md",
+      "summary": "Open when you need guidance on Plug In Sidechain Routing in Ableton Live.",
+      "keywords": ["Plug In Sidechain Routing", "Ableton Live"]},
+    {
+      "topic": "VST Plug In Overview",
+      "file": "references/vst-plug-in-overview.md",
+      "summary": "Open when you need guidance on VST Plug In Overview in Ableton Live.",
+      "keywords": ["VST Plug In Overview", "Ableton Live"]},
+    {
+      "topic": "VST Folders Presets And Banks",
+      "file": "references/vst-folders-presets-and-banks.md",
+      "summary": "Open when you need guidance on VST Folders Presets And Banks in Ableton Live.",
+      "keywords": ["VST Folders Presets And Banks", "Ableton Live"]},
+    {
+      "topic": "Audio Units And Device Delay Compensation",
+      "file": "references/audio-units-and-device-delay-compensation.md",
+      "summary": "Open when you need guidance on Audio Units And Device Delay Compensation in Ableton Live.",
+      "keywords": ["Audio Units And Device Delay Compensation", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

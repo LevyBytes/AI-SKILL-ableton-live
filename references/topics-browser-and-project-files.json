@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Working With The Browser (part 1)",
+      "file": "references/topics-working-with-the-browser.json",
+      "summary": "Open when finding sounds with search, filters, tags, Collections, or installing and inspecting Packs.",
+      "keywords": ["working-with-the-browser-part-1", "reference"]},
+    {
+      "topic": "Browser Cloud Splice And Library",
+      "file": "references/topics-browser-cloud-splice-and-library.json",
+      "summary": "Open when browsing Splice samples, Ableton Cloud, Push 3 standalone files, or the User Library, and previewing browser content.",
+      "keywords": ["Browser Cloud Splice And Library", "Ableton Live"]},
+    {
+      "topic": "Browser Navigation Cueing And Loading",
+      "file": "references/browser-navigation-cueing-and-loading.md",
+      "summary": "Open when you need guidance on Browser Navigation Cueing And Loading in Ableton Live.",
+      "keywords": ["Browser Navigation Cueing And Loading", "Ableton Live"]},
+    {
+      "topic": "Managing Files And Sets (part 1)",
+      "file": "references/topics-managing-files-and-sets.json",
+      "summary": "Open when importing or exporting audio and MIDI, saving Live Clips and Sets, or managing sample analysis and decoding.",
+      "keywords": ["managing-files-and-sets-part-1", "reference"]},
+    {
+      "topic": "Project Files Repair And Collection",
+      "file": "references/topics-project-files-repair-and-collection.json",
+      "summary": "Open when repairing missing file references, collecting project assets, removing unused files, or packing a Live Project.",
+      "keywords": ["Project Files Repair And Collection", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

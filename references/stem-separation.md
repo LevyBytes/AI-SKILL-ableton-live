@@ -1,6 +1,6 @@
 # Stem Separation
 
-> Ableton Live reference. Original prose; identifiers preserved verbatim.
+Open when you need guidance on Stem Separation in Ableton Live.
 
 ### 22. Stem Separation
 
@@ -72,7 +72,7 @@ Pick High Speed and the run finishes sooner, although on aging setups it can sti
 
 Pick High Quality and accuracy rises — reflected in a stronger Signal-to-Distortion Ratio (SDR) score — but the trade-off is a longer run. In this mode the Vocals, Drums, and Bass elements each get their own separation pass. Afterward, the Others stem is assembled from whatever audio is left once those three passes finish.
 
-No matter which mode you pick, trimming the sample ahead of separation cuts down the processing time. When you need stems from one part of a song only — the chorus, for instance — you can [shorten the clip](https://www.ableton.com/en/live-manual/12/clip-view/#cropping-clips) to that span with the _Crop Clip Sample to Time Selection_ command found in the Sample Editor. Cropping a clip from a time selection in the Arrangement is also an option, done through the _Crop Clip_ command in a track's context menu. Both Crop commands share the same shortcut, CtrlShiftJ (Win) / CmdShiftJ (Mac).
+No matter which mode you pick, trimming the sample ahead of separation cuts down the processing time. When you need stems from one part of a song only — the chorus, for instance — you can [shorten the clip](https://www.ableton.com/en/live-manual/12/clip-view/#cropping-clips) to that span with the _Crop Clip Sample to Time Selection_ command found in the Sample Editor. Cropping a clip from a time selection in the Arrangement is also an option, done through the _Crop Clip_ command in a track's context menu. Both Crop commands share the same shortcut, Ctrl+Shift+J (Win) / Cmd+Shift+J (Mac).
 
 In High Quality mode, picking out only the stems you actually need trims the processing time too. When the goal is to isolate, say, the drums and vocals from a song, producing every stem is unnecessary. That said, including the Others element doesn't save you any separation time. Then every part still has to run so that the leftover audio separates correctly. Take separating Vocals and Others as a case: the Drums and Bass stems get produced as well. The Set receives only the Vocals and Others stems, while the Drums and Bass ones land in the Stems folder inside the Current Project.
 

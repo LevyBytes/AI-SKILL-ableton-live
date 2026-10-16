@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Computer Audio Resources And Strategies",
+      "file": "references/topics-computer-audio-resources-and-strategies.json",
+      "summary": "Open when diagnosing audio clicks or dropouts and reducing CPU or disk load in a Live Set.",
+      "keywords": ["computer-audio-resources-and-strategies", "reference"]},
+    {
+      "topic": "Audio Fact Sheet",
+      "file": "references/topics-audio-fact-sheet.json",
+      "summary": "Open when checking which Live operations preserve or alter audio data and selecting settings for signal fidelity.",
+      "keywords": ["audio-fact-sheet", "reference"]},
+    {
+      "topic": "MIDI Fact Sheet",
+      "file": "references/midi-fact-sheet.md",
+      "summary": "Open when you need guidance on MIDI Fact Sheet in Ableton Live.",
+      "keywords": ["MIDI Fact Sheet", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

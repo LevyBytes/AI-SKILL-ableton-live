@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Working With The Browser",
+      "file": "references/working-with-the-browser.md",
+      "summary": "Open when you need guidance on Working With The Browser in Ableton Live.",
+      "keywords": ["Working With The Browser", "Ableton Live"]},
+    {
+      "topic": "Browser Overview",
+      "file": "references/browser-overview.md",
+      "summary": "Open when you need guidance on Browser Overview in Ableton Live.",
+      "keywords": ["Browser Overview", "Ableton Live"]},
+    {
+      "topic": "Browser Content And Search",
+      "file": "references/browser-content-and-search.md",
+      "summary": "Open when you need guidance on Browser Content And Search in Ableton Live.",
+      "keywords": ["Browser Content And Search", "Ableton Live"]},
+    {
+      "topic": "Browser Search Labels",
+      "file": "references/browser-search-labels.md",
+      "summary": "Open when you need guidance on Browser Search Labels in Ableton Live.",
+      "keywords": ["Browser Search Labels", "Ableton Live"]},
+    {
+      "topic": "Browser History Filters And Tags",
+      "file": "references/browser-history-filters-and-tags.md",
+      "summary": "Open when you need guidance on Browser History Filters And Tags in Ableton Live.",
+      "keywords": ["Browser History Filters And Tags", "Ableton Live"]},
+    {
+      "topic": "Browser Filter Groups And Tag Editor",
+      "file": "references/browser-filter-groups-and-tag-editor.md",
+      "summary": "Open when you need guidance on Browser Filter Groups And Tag Editor in Ableton Live.",
+      "keywords": ["Browser Filter Groups And Tag Editor", "Ableton Live"]},
+    {
+      "topic": "Browser Quick Tags",
+      "file": "references/browser-quick-tags.md",
+      "summary": "Open when you need guidance on Browser Quick Tags in Ableton Live.",
+      "keywords": ["Browser Quick Tags", "Ableton Live"]},
+    {
+      "topic": "Browser Collections Library And Places",
+      "file": "references/browser-collections-library-and-places.md",
+      "summary": "Open when you need guidance on Browser Collections Library And Places in Ableton Live.",
+      "keywords": ["Browser Collections Library And Places", "Ableton Live"]},
+    {
+      "topic": "Browser Pack Installation And Info",
+      "file": "references/browser-pack-installation-and-info.md",
+      "summary": "Open when you need guidance on Browser Pack Installation And Info in Ableton Live.",
+      "keywords": ["Browser Pack Installation And Info", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

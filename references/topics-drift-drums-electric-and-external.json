@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Drift Drums Electric And External Routes",
+      "file": "references/drift-drums-electric-and-external-routes.md",
+      "summary": "Open when choosing references for Drift Drums Electric And External in Ableton Live.",
+      "keywords": ["Drift Drums Electric And External Routes", "Ableton Live"]},
+    {
+      "topic": "Drift LFO Modulation And Global Controls",
+      "file": "references/drift-lfo-modulation-and-global-controls.md",
+      "summary": "Open when you need guidance on Drift LFO Modulation And Global Controls in Ableton Live.",
+      "keywords": ["Drift LFO Modulation And Global Controls", "Ableton Live"]},
+    {
+      "topic": "Drum Sampler Overview",
+      "file": "references/drum-sampler-overview.md",
+      "summary": "Open when you need guidance on Drum Sampler Overview in Ableton Live.",
+      "keywords": ["Drum Sampler Overview", "Ableton Live"]},
+    {
+      "topic": "Drum Sampler Playback Effects And Filter",
+      "file": "references/drum-sampler-playback-effects-and-filter.md",
+      "summary": "Open when you need guidance on Drum Sampler Playback Effects And Filter in Ableton Live.",
+      "keywords": ["Drum Sampler Playback Effects And Filter", "Ableton Live"]},
+    {
+      "topic": "Drum Sampler Global And Context Controls",
+      "file": "references/drum-sampler-global-and-context-controls.md",
+      "summary": "Open when you need guidance on Drum Sampler Global And Context Controls in Ableton Live.",
+      "keywords": ["Drum Sampler Global And Context Controls", "Ableton Live"]},
+    {
+      "topic": "Electric Overview",
+      "file": "references/electric-overview.md",
+      "summary": "Open when you need guidance on Electric Overview in Ableton Live.",
+      "keywords": ["Electric Overview", "Ableton Live"]},
+    {
+      "topic": "Electric Hammer Fork And Pickup Overview",
+      "file": "references/electric-hammer-fork-and-pickup-overview.md",
+      "summary": "Open when you need guidance on Electric Hammer Fork And Pickup Overview in Ableton Live.",
+      "keywords": ["Electric Hammer Fork And Pickup Overview", "Ableton Live"]},
+    {
+      "topic": "Electric Pickup And Damper Controls",
+      "file": "references/electric-pickup-and-damper-controls.md",
+      "summary": "Open when you need guidance on Electric Pickup And Damper Controls in Ableton Live.",
+      "keywords": ["Electric Pickup And Damper Controls", "Ableton Live"]},
+    {
+      "topic": "Electric Voices Stretch And Tuning",
+      "file": "references/electric-voices-stretch-and-tuning.md",
+      "summary": "Open when you need guidance on Electric Voices Stretch And Tuning in Ableton Live.",
+      "keywords": ["Electric Voices Stretch And Tuning", "Ableton Live"]},
+    {
+      "topic": "External Instrument And Impulse",
+      "file": "references/external-instrument-and-impulse.md",
+      "summary": "Open when you need guidance on External Instrument And Impulse in Ableton Live.",
+      "keywords": ["External Instrument And Impulse", "Ableton Live"]},
+    {
+      "topic": "Impulse Sample Loading And Preview",
+      "file": "references/impulse-sample-loading-and-preview.md",
+      "summary": "Open when you need guidance on Impulse Sample Loading And Preview in Ableton Live.",
+      "keywords": ["Impulse Sample Loading And Preview", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

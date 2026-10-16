@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Live Keyboard Shortcuts",
+      "file": "references/live-keyboard-shortcuts.md",
+      "summary": "Open when you need guidance on Live Keyboard Shortcuts in Ableton Live.",
+      "keywords": ["Live Keyboard Shortcuts", "Ableton Live"]},
+    {
+      "topic": "Keyboard Shortcuts Overview",
+      "file": "references/keyboard-shortcuts-overview.md",
+      "summary": "Open when you need guidance on Keyboard Shortcuts Overview in Ableton Live.",
+      "keywords": ["Keyboard Shortcuts Overview", "Ableton Live"]},
+    {
+      "topic": "Shortcuts Views Focus Sets And Devices",
+      "file": "references/shortcuts-views-focus-sets-and-devices.md",
+      "summary": "Open when you need guidance on Shortcuts Views Focus Sets And Devices in Ableton Live.",
+      "keywords": ["Shortcuts Views Focus Sets And Devices", "Ableton Live"]},
+    {
+      "topic": "Shortcuts Editing Envelopes Loops And Zoom",
+      "file": "references/shortcuts-editing-envelopes-loops-and-zoom.md",
+      "summary": "Open when you need guidance on Shortcuts Editing Envelopes Loops And Zoom in Ableton Live.",
+      "keywords": ["Shortcuts Editing Envelopes Loops And Zoom", "Ableton Live"]},
+    {
+      "topic": "Shortcuts Clip Editors Grid And Drawing",
+      "file": "references/shortcuts-clip-editors-grid-and-drawing.md",
+      "summary": "Open when you need guidance on Shortcuts Clip Editors Grid And Drawing in Ableton Live.",
+      "keywords": ["Shortcuts Clip Editors Grid And Drawing", "Ableton Live"]},
+    {
+      "topic": "Shortcuts Quantization Session And Arrangement",
+      "file": "references/shortcuts-quantization-session-and-arrangement.md",
+      "summary": "Open when you need guidance on Shortcuts Quantization Session And Arrangement in Ableton Live.",
+      "keywords": ["Shortcuts Quantization Session And Arrangement", "Ableton Live"]},
+    {
+      "topic": "Shortcuts Comping Recording Transport And Browser",
+      "file": "references/shortcuts-comping-recording-transport-and-browser.md",
+      "summary": "Open when you need guidance on Shortcuts Comping Recording Transport And Browser in Ableton Live.",
+      "keywords": ["Shortcuts Comping Recording Transport And Browser", "Ableton Live"]},
+    {
+      "topic": "Shortcuts Swapping Mapping And Momentary Controls",
+      "file": "references/shortcuts-swapping-mapping-and-momentary-controls.md",
+      "summary": "Open when you need guidance on Shortcuts Swapping Mapping And Momentary Controls in Ableton Live.",
+      "keywords": ["Shortcuts Swapping Mapping And Momentary Controls", "Ableton Live"]},
+    {
+      "topic": "Shortcuts Tab And Settings Navigation",
+      "file": "references/shortcuts-tab-and-settings-navigation.md",
+      "summary": "Open when you need guidance on Shortcuts Tab And Settings Navigation in Ableton Live.",
+      "keywords": ["Shortcuts Tab And Settings Navigation", "Ableton Live"]},
+    {
+      "topic": "Shortcuts Envelope Editing And Menus",
+      "file": "references/shortcuts-envelope-editing-and-menus.md",
+      "summary": "Open when you need guidance on Shortcuts Envelope Editing And Menus in Ableton Live.",
+      "keywords": ["Shortcuts Envelope Editing And Menus", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Browser Cloud Splice And Library Routes",
+      "file": "references/browser-cloud-splice-and-library-routes.md",
+      "summary": "Open when choosing references for Browser Cloud Splice And Library in Ableton Live.",
+      "keywords": ["Browser Cloud Splice And Library Routes", "Ableton Live"]},
+    {
+      "topic": "Browser Pack Installation And Info",
+      "file": "references/browser-pack-installation-and-info.md",
+      "summary": "Open when you need guidance on Browser Pack Installation And Info in Ableton Live.",
+      "keywords": ["Browser Pack Installation And Info", "Ableton Live"]},
+    {
+      "topic": "Splice Browser Overview",
+      "file": "references/splice-browser-overview.md",
+      "summary": "Open when you need guidance on Splice Browser Overview in Ableton Live.",
+      "keywords": ["Splice Browser Overview", "Ableton Live"]},
+    {
+      "topic": "Splice Login Search And Sample Library",
+      "file": "references/splice-login-search-and-sample-library.md",
+      "summary": "Open when you need guidance on Splice Login Search And Sample Library in Ableton Live.",
+      "keywords": ["Splice Login Search And Sample Library", "Ableton Live"]},
+    {
+      "topic": "Splice Settings And Licenses",
+      "file": "references/splice-settings-and-licenses.md",
+      "summary": "Open when you need guidance on Splice Settings And Licenses in Ableton Live.",
+      "keywords": ["Splice Settings And Licenses", "Ableton Live"]},
+    {
+      "topic": "Cloud Push Transfer And User Library",
+      "file": "references/cloud-push-transfer-and-user-library.md",
+      "summary": "Open when you need guidance on Cloud Push Transfer And User Library in Ableton Live.",
+      "keywords": ["Cloud Push Transfer And User Library", "Ableton Live"]},
+    {
+      "topic": "User Library Folders And Management",
+      "file": "references/user-library-folders-and-management.md",
+      "summary": "Open when you need guidance on User Library Folders And Management in Ableton Live.",
+      "keywords": ["User Library Folders And Management", "Ableton Live"]},
+    {
+      "topic": "Browser Project And User Folders",
+      "file": "references/browser-project-and-user-folders.md",
+      "summary": "Open when you need guidance on Browser Project And User Folders in Ableton Live.",
+      "keywords": ["Browser Project And User Folders", "Ableton Live"]},
+    {
+      "topic": "Browser Navigation Cueing And Loading",
+      "file": "references/browser-navigation-cueing-and-loading.md",
+      "summary": "Open when you need guidance on Browser Navigation Cueing And Loading in Ableton Live.",
+      "keywords": ["Browser Navigation Cueing And Loading", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

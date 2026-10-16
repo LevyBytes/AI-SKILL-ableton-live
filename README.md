@@ -1,35 +1,53 @@
-# Ableton Live 12 Reference Manual Skill
+# Ableton Live 12
 
-A reference skill for **[Agent Kaizen](https://github.com/DirectorGunner/agent-kaizen)** covering the official Ableton Live 12 Reference Manual (the DAW). The prose is original (recontextualized); identifiers — device and parameter names, menu paths, key/mouse shortcuts, enum values, numbers, and units — are preserved exactly.
-
-## What this skill covers
-
-This skill is a faithful reference for Ableton Live 12. It covers the Arrangement and Session views; clips and the Clip View; audio warping and tempo; MIDI and MPE editing, MIDI tools, audio-to-MIDI conversion, and comping; stem separation; recording, routing and I/O, mixing, automation and clip envelopes; instrument, drum, and effect racks; the browser and managing files and sets; Live's built-in instruments, audio effects, and MIDI effects; Max for Live; Push 1 and Push 2; Link/tempo sync; tuning systems; keyboard shortcuts; and accessibility. It is a flat skill: a single `SKILL.md` plus a `references/` library of one focused topic file per subject (78 files). It is not for other DAWs.
-
-## What's inside
-
-- `SKILL.md` — the trigger description, when-to-use, workflow, and routing into the references library.
-- `references/` — right-sized topic files (one subject per file, 78 reference files) plus `INDEX.md` (start here) and `topics.json` (metadata).
-- `GOTCHA.md` — recurring failure modes and what to do instead.
-
-## Status
-
-Recontextualized into original prose (identifiers preserved); packaged in the skills store and ready to publish as the public `AI-SKILL-ableton-live` repository. Publication is performed by the maintainer.
-
-## Reducing idle context cost (skill invocation policy)
-
-Every installed skill costs a little context on every session: the agent sees each skill's name and description before you ever use it. If you rarely use this skill in a given project, you can keep it installed and still explicitly invocable while hiding it from the model's automatic listing.
-
-Doing so does **not** modify this skill's source repo — the policy lives in your local agent settings. The Agent Kaizen **[skill-drafting](https://github.com/DirectorGunner/AI-skill-drafting)** repo ships a manager, `scripts/skill_policy.py`, that sets this for all your skills at once:
-
-```bash
-python skill_policy.py audit     # list every skill + its current policy + idle cost
-python skill_policy.py plan      # write a decision file with recommendations (nothing applied)
-# edit that decision file: set selected_policy + approved:true for the skills you choose
-python skill_policy.py preview   # show the exact change
-python skill_policy.py apply     # apply ONLY what you approved (backup + rollback recorded)
-python skill_policy.py restore   # roll back
+```mermaid
+---
+config:
+  flowchart:
+    wrappingWidth: 400
+---
+flowchart LR
+    brand["KAIZEN<br/>SKILL LIBRARY"]:::brand
+    skill("Ableton Live 12"):::skill
+    first(["Clips + Arrangement"]):::topic
+    second(["Sound + Mixing"]):::topic
+    third(["Push + Automation"]):::accent
+    brand --- skill
+    skill --- first
+    skill --- second
+    skill --- third
+    classDef brand fill:#0f172a,color:#67e8f9,stroke:#22d3ee,stroke-width:2px,font-family:monospace
+    classDef skill fill:#172554,color:#eff6ff,stroke:#60a5fa,stroke-width:2px,font-size:20px
+    classDef topic fill:#0c4a6e,color:#bae6fd,stroke:#38bdf8,stroke-width:1px
+    classDef accent fill:#1e293b,color:#fcd34d,stroke:#f59e0b,stroke-width:1px
+    linkStyle default stroke:#38bdf8,stroke-width:1px
 ```
 
-- **Claude Code (works today):** writes `skillOverrides: { "<skill>": "user-invocable-only" }` to `.claude/settings.local.json` — zero idle listing cost, still available from the `/skills` menu. Start a new session for it to take effect; invoke it any time via `/skills`.
-- **Codex (currently unreliable):** explicit-only Codex skills are affected by an open bug ([openai/codex#23454](https://github.com/openai/codex/issues/23454)) where `$skill` invocation of an explicit-only local skill can fail. Until it's fixed, leave Codex skills implicit, or fully disable rarely-used ones with `[[skills.config]] enabled = false` in `config.toml`. The manager audits Codex but does not change Codex policy.
+An organized reference companion for music production in Ableton Live 12. Task-focused catalogs connect recording, clip editing, instruments, effects and mixing with the controls and terminology documented in the Live manual.
+
+Use when working with Ableton Live 12 (the DAW): the Arrangement and Session views; clips and the Clip View; audio warping and tempo; MIDI and MPE editing; MIDI tools; converting audio to MIDI; comping; stem separation; recording; routing and I/O; mixing; automation and clip envelopes; instrument/drum/effect racks; the browser and managing files/sets; Live's built-in instruments, audio effects, and MIDI effects; Max for Live; Push 1 and Push 2; Link/tempo sync; tuning systems; keyboard shortcuts; and accessibility. The official Live 12 Reference Manual. Not for other DAWs.
+
+## What this skill helps with
+
+| Task | Useful reference material |
+| --- | --- |
+| [Build and edit a performance](references/arrangement-and-clip-performance-index.md) | Find Arrangement, Session and clip-performance workflows. |
+| [Record, route and mix](references/recording-routing-and-mixing-index.md) | Follow recording and signal-routing material through to mixing decisions. |
+| [Shape sounds and devices](references/devices-racks-and-plug-ins-index.md) | Work with devices, racks and plug-ins, with separate instrument and effect catalogs. |
+| [Control and automate a set](references/automation-and-modulation-index.md) | Locate automation and modulation guidance alongside the Push and synchronization references. |
+
+## The work behind the references
+
+The Live manual material is interpreted into topic references and task-oriented catalogs. Editing retained device parameters, units and control names while repairing identified keyboard-label and list-boundary defects, making those details usable without loading the entire manual.
+
+## Start here
+
+Start with [SKILL.md](SKILL.md) and follow its context routes.
+
+The package targets the Live 12 manual and includes separate [Push 1](references/push-1-index.md) and [Push 2](references/push-2-index.md) catalogs. Follow the documented device, platform and edition conditions for the selected workflow.
+
+## Sources and license
+
+Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://www.ableton.com/en/live-manual/12/) when dealing with defects or issues that may come up from interpreting this skill's references.
+
+Licensed under **AGPL-3.0**; see [LICENSE](LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.

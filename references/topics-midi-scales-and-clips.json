@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "MIDI Scales And Clips Routes",
+      "file": "references/midi-scales-and-clips-routes.md",
+      "summary": "Open when choosing references for MIDI Scales And Clips in Ableton Live.",
+      "keywords": ["MIDI Scales And Clips Routes", "Ableton Live"]},
+    {
+      "topic": "MIDI Folding And Scales",
+      "file": "references/midi-folding-and-scales.md",
+      "summary": "Open when you need guidance on MIDI Folding And Scales in Ableton Live.",
+      "keywords": ["MIDI Folding And Scales", "Ableton Live"]},
+    {
+      "topic": "MIDI Clip Editing Overview",
+      "file": "references/midi-clip-editing-overview.md",
+      "summary": "Open when you need guidance on MIDI Clip Editing Overview in Ableton Live.",
+      "keywords": ["MIDI Clip Editing Overview", "Ableton Live"]},
+    {
+      "topic": "MIDI Clip Cropping Time And Loops",
+      "file": "references/midi-clip-cropping-time-and-loops.md",
+      "summary": "Open when you need guidance on MIDI Clip Cropping Time And Loops in Ableton Live.",
+      "keywords": ["MIDI Clip Cropping Time And Loops", "Ableton Live"]},
+    {
+      "topic": "MIDI Multiclip Editing Overview",
+      "file": "references/midi-multiclip-editing-overview.md",
+      "summary": "Open when you need guidance on MIDI Multiclip Editing Overview in Ableton Live.",
+      "keywords": ["MIDI Multiclip Editing Overview", "Ableton Live"]},
+    {
+      "topic": "MIDI Multiclip Focus And View Behavior",
+      "file": "references/midi-multiclip-focus-and-view-behavior.md",
+      "summary": "Open when you need guidance on MIDI Multiclip Focus And View Behavior in Ableton Live.",
+      "keywords": ["MIDI Multiclip Focus And View Behavior", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

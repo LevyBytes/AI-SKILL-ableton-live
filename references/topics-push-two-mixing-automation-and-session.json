@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Push 2 Mixing Automation And Session Routes",
+      "file": "references/push-two-mixing-automation-and-session-routes.md",
+      "summary": "Open when choosing references for Push 2 Mixing Automation And Session in Ableton Live.",
+      "keywords": ["Push 2 Mixing Automation And Session Routes", "Ableton Live"]},
+    {
+      "topic": "Push 2 Device Add Delete And Reorder",
+      "file": "references/push-two-device-add-delete-and-reorder.md",
+      "summary": "Open when you need guidance on Push 2 Device Add Delete And Reorder in Ableton Live.",
+      "keywords": ["Push 2 Device Add Delete And Reorder", "Ableton Live"]},
+    {
+      "topic": "Push 2 Rack Navigation And Macros",
+      "file": "references/push-two-rack-navigation-and-macros.md",
+      "summary": "Open when you need guidance on Push 2 Rack Navigation And Macros in Ableton Live.",
+      "keywords": ["Push 2 Rack Navigation And Macros", "Ableton Live"]},
+    {
+      "topic": "Push 2 Track And Global Mixing",
+      "file": "references/push-two-track-and-global-mixing.md",
+      "summary": "Open when you need guidance on Push 2 Track And Global Mixing in Ableton Live.",
+      "keywords": ["Push 2 Track And Global Mixing", "Ableton Live"]},
+    {
+      "topic": "Push 2 Rack And Group Mixing",
+      "file": "references/push-two-rack-and-group-mixing.md",
+      "summary": "Open when you need guidance on Push 2 Rack And Group Mixing in Ableton Live.",
+      "keywords": ["Push 2 Rack And Group Mixing", "Ableton Live"]},
+    {
+      "topic": "Push 2 Automation And Clip Mode",
+      "file": "references/push-two-automation-and-clip-mode.md",
+      "summary": "Open when you need guidance on Push 2 Automation And Clip Mode in Ableton Live.",
+      "keywords": ["Push 2 Automation And Clip Mode", "Ableton Live"]},
+    {
+      "topic": "Push 2 Clip Mode MIDI Layouts",
+      "file": "references/push-two-clip-mode-midi-layouts.md",
+      "summary": "Open when you need guidance on Push 2 Clip Mode MIDI Layouts in Ableton Live.",
+      "keywords": ["Push 2 Clip Mode MIDI Layouts", "Ableton Live"]},
+    {
+      "topic": "Push 2 Clip Mode Sequencer Layouts",
+      "file": "references/push-two-clip-mode-sequencer-layouts.md",
+      "summary": "Open when you need guidance on Push 2 Clip Mode Sequencer Layouts in Ableton Live.",
+      "keywords": ["Push 2 Clip Mode Sequencer Layouts", "Ableton Live"]},
+    {
+      "topic": "Push 2 Step Note Parameters",
+      "file": "references/push-two-step-note-parameters.md",
+      "summary": "Open when you need guidance on Push 2 Step Note Parameters in Ableton Live.",
+      "keywords": ["Push 2 Step Note Parameters", "Ableton Live"]},
+    {
+      "topic": "Push 2 Session Clips And Scenes",
+      "file": "references/push-two-session-clips-and-scenes.md",
+      "summary": "Open when you need guidance on Push 2 Session Clips And Scenes in Ableton Live.",
+      "keywords": ["Push 2 Session Clips And Scenes", "Ableton Live"]},
+    {
+      "topic": "Push 2 Session Overview Navigation",
+      "file": "references/push-two-session-overview-navigation.md",
+      "summary": "Open when you need guidance on Push 2 Session Overview Navigation in Ableton Live.",
+      "keywords": ["Push 2 Session Overview Navigation", "Ableton Live"]},
+    {
+      "topic": "Push 2 Setup Menu",
+      "file": "references/push-two-setup-menu.md",
+      "summary": "Open when you need guidance on Push 2 Setup Menu in Ableton Live.",
+      "keywords": ["Push 2 Setup Menu", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

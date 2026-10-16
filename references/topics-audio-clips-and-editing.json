@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Clip View (part 1)",
+      "file": "references/topics-clip-view.json",
+      "summary": "Open when setting clip regions, time signatures, grooves, scales, launch behavior, program changes, or audio utility options in Clip View.",
+      "keywords": ["clip-view-part-1", "reference"]},
+    {
+      "topic": "Clip Editing And Playback",
+      "file": "references/topics-clip-editing-and-playback.json",
+      "summary": "Open when adjusting clip gain and pitch, using pitch and time utilities, looping or cropping clips, or replacing their samples.",
+      "keywords": ["Clip Editing And Playback", "Ableton Live"]},
+    {
+      "topic": "Audio Clips Tempo And Warping (part 1)",
+      "file": "references/topics-audio-clips-tempo-and-warping.json",
+      "summary": "Open when matching audio to tempo, placing Warp Markers, correcting Auto-Warp, or quantizing audio.",
+      "keywords": ["audio-clips-tempo-and-warping-part-1", "reference"]},
+    {
+      "topic": "Warp Modes And Grain Controls",
+      "file": "references/warp-modes-and-grain-controls.md",
+      "summary": "Open when you need guidance on Warp Modes And Grain Controls in Ableton Live.",
+      "keywords": ["Warp Modes And Grain Controls", "Ableton Live"]},
+    {
+      "topic": "Stem Separation",
+      "file": "references/stem-separation.md",
+      "summary": "Open when you need guidance on Stem Separation in Ableton Live.",
+      "keywords": ["Stem Separation", "Ableton Live"]},
+    {
+      "topic": "Working With Video",
+      "file": "references/working-with-video.md",
+      "summary": "Open when you need guidance on Working With Video in Ableton Live.",
+      "keywords": ["Working With Video", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

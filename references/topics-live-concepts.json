@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Live Concepts",
+      "file": "references/live-concepts.md",
+      "summary": "Open when you need guidance on Live Concepts in Ableton Live.",
+      "keywords": ["Live Concepts", "Ableton Live"]},
+    {
+      "topic": "Live Concepts Overview",
+      "file": "references/live-concepts-overview.md",
+      "summary": "Open when you need guidance on Live Concepts Overview in Ableton Live.",
+      "keywords": ["Live Concepts Overview", "Ableton Live"]},
+    {
+      "topic": "Transport Browser And View Concepts",
+      "file": "references/transport-browser-and-view-concepts.md",
+      "summary": "Open when you need guidance on Transport Browser And View Concepts in Ableton Live.",
+      "keywords": ["Transport Browser And View Concepts", "Ableton Live"]},
+    {
+      "topic": "Track Audio And MIDI Concepts",
+      "file": "references/track-audio-and-midi-concepts.md",
+      "summary": "Open when you need guidance on Track Audio And MIDI Concepts in Ableton Live.",
+      "keywords": ["Track Audio And MIDI Concepts", "Ableton Live"]},
+    {
+      "topic": "Device Clip Scale And Mixer Concepts",
+      "file": "references/device-clip-scale-and-mixer-concepts.md",
+      "summary": "Open when you need guidance on Device Clip Scale And Mixer Concepts in Ableton Live.",
+      "keywords": ["Device Clip Scale And Mixer Concepts", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Arrangement View",
+      "file": "references/arrangement-view.md",
+      "summary": "Open when you need guidance on Arrangement View in Ableton Live.",
+      "keywords": ["Arrangement View", "Ableton Live"]},
+    {
+      "topic": "Arrangement Overview",
+      "file": "references/arrangement-overview.md",
+      "summary": "Open when you need guidance on Arrangement Overview in Ableton Live.",
+      "keywords": ["Arrangement Overview", "Ableton Live"]},
+    {
+      "topic": "Arrangement Navigation And Transport",
+      "file": "references/arrangement-navigation-and-transport.md",
+      "summary": "Open when you need guidance on Arrangement Navigation And Transport in Ableton Live.",
+      "keywords": ["Arrangement Navigation And Transport", "Ableton Live"]},
+    {
+      "topic": "Arrangement Locators Meter And Loops",
+      "file": "references/arrangement-locators-meter-and-loops.md",
+      "summary": "Open when you need guidance on Arrangement Locators Meter And Loops in Ableton Live.",
+      "keywords": ["Arrangement Locators Meter And Loops", "Ableton Live"]},
+    {
+      "topic": "Arrangement Clips Fades And Selection",
+      "file": "references/arrangement-clips-fades-and-selection.md",
+      "summary": "Open when you need guidance on Arrangement Clips Fades And Selection in Ableton Live.",
+      "keywords": ["Arrangement Clips Fades And Selection", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Live Setup",
+      "file": "references/topics-live-setup.json",
+      "summary": "Open when setting up or authorizing Live 12, finding built-in help, or choosing the relevant Settings panel.",
+      "keywords": ["Live Setup", "Ableton Live"]},
+    {
+      "topic": "Live Concepts (part 1)",
+      "file": "references/topics-live-concepts.json",
+      "summary": "Open when learning how Live Sets, tracks, clips, devices, scales, and Session and Arrangement views fit together.",
+      "keywords": ["live-concepts-part-1", "reference"]},
+    {
+      "topic": "Mixer Routing Recording And Saving",
+      "file": "references/topics-mixer-routing-recording-and-saving.json",
+      "summary": "Open when learning how routing, racks, recording, automation, remote control, and saving fit into a Live workflow.",
+      "keywords": ["Mixer Routing Recording And Saving", "Ableton Live"]},
+    {
+      "topic": "Accessibility And Keyboard Navigation",
+      "file": "references/topics-accessibility-and-keyboard-navigation.json",
+      "summary": "Open when using Live 12 accessibility and screen-reader navigation on Windows or macOS, including keyboard editing of automation.",
+      "keywords": ["accessibility-and-keyboard-navigation", "reference"]},
+    {
+      "topic": "Live Keyboard Shortcuts (part 1)",
+      "file": "references/topics-live-keyboard-shortcuts.json",
+      "summary": "Open when finding Windows or macOS shortcuts for Live editing, navigation, transport, views, devices, and menus.",
+      "keywords": ["live-keyboard-shortcuts-part-1", "reference"]},
+    {
+      "topic": "Shortcuts Envelope Editing And Menus",
+      "file": "references/shortcuts-envelope-editing-and-menus.md",
+      "summary": "Open when you need guidance on Shortcuts Envelope Editing And Menus in Ableton Live.",
+      "keywords": ["Shortcuts Envelope Editing And Menus", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

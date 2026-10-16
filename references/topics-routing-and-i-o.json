@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Routing And I O",
+      "file": "references/routing-and-i-o.md",
+      "summary": "Open when you need guidance on Routing And I O in Ableton Live.",
+      "keywords": ["Routing And I O", "Ableton Live"]},
+    {
+      "topic": "Audio MIDI Routing Overview",
+      "file": "references/audio-midi-routing-overview.md",
+      "summary": "Open when you need guidance on Audio MIDI Routing Overview in Ableton Live.",
+      "keywords": ["Audio MIDI Routing Overview", "Ableton Live"]},
+    {
+      "topic": "Monitoring And External Audio Routing",
+      "file": "references/monitoring-and-external-audio-routing.md",
+      "summary": "Open when you need guidance on Monitoring And External Audio Routing in Ableton Live.",
+      "keywords": ["Monitoring And External Audio Routing", "Ableton Live"]},
+    {
+      "topic": "External Audio Mono And Stereo Routing",
+      "file": "references/external-audio-mono-and-stereo-routing.md",
+      "summary": "Open when you need guidance on External Audio Mono And Stereo Routing in Ableton Live.",
+      "keywords": ["External Audio Mono And Stereo Routing", "Ableton Live"]},
+    {
+      "topic": "External MIDI Routing Overview",
+      "file": "references/external-midi-routing-overview.md",
+      "summary": "Open when you need guidance on External MIDI Routing Overview in Ableton Live.",
+      "keywords": ["External MIDI Routing Overview", "Ableton Live"]},
+    {
+      "topic": "MIDI Port Input Output Overview",
+      "file": "references/midi-port-input-output-overview.md",
+      "summary": "Open when you need guidance on MIDI Port Input Output Overview in Ableton Live.",
+      "keywords": ["MIDI Port Input Output Overview", "Ableton Live"]},
+    {
+      "topic": "MIDI Port Track Sync Remote Settings",
+      "file": "references/midi-port-track-sync-remote-settings.md",
+      "summary": "Open when you need guidance on MIDI Port Track Sync Remote Settings in Ableton Live.",
+      "keywords": ["MIDI Port Track Sync Remote Settings", "Ableton Live"]},
+    {
+      "topic": "Computer Keyboard And External MIDI Instruments",
+      "file": "references/computer-keyboard-and-external-midi-instruments.md",
+      "summary": "Open when you need guidance on Computer Keyboard And External MIDI Instruments in Ableton Live.",
+      "keywords": ["Computer Keyboard And External MIDI Instruments", "Ableton Live"]},
+    {
+      "topic": "Resampling And Internal Routing Overview",
+      "file": "references/resampling-and-internal-routing-overview.md",
+      "summary": "Open when you need guidance on Resampling And Internal Routing Overview in Ableton Live.",
+      "keywords": ["Resampling And Internal Routing Overview", "Ableton Live"]},
+    {
+      "topic": "Track Internal Routing Points",
+      "file": "references/track-internal-routing-points.md",
+      "summary": "Open when you need guidance on Track Internal Routing Points in Ableton Live.",
+      "keywords": ["Track Internal Routing Points", "Ableton Live"]},
+    {
+      "topic": "Rack Chain Routing Points",
+      "file": "references/rack-chain-routing-points.md",
+      "summary": "Open when you need guidance on Rack Chain Routing Points in Ableton Live.",
+      "keywords": ["Rack Chain Routing Points", "Ableton Live"]},
+    {
+      "topic": "Internal Routing Recipes Overview",
+      "file": "references/internal-routing-recipes-overview.md",
+      "summary": "Open when you need guidance on Internal Routing Recipes Overview in Ableton Live.",
+      "keywords": ["Internal Routing Recipes Overview", "Ableton Live"]},
+    {
+      "topic": "Post Effects And Instrument Audio Recording",
+      "file": "references/post-effects-and-instrument-audio-recording.md",
+      "summary": "Open when you need guidance on Post Effects And Instrument Audio Recording in Ableton Live.",
+      "keywords": ["Post Effects And Instrument Audio Recording", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

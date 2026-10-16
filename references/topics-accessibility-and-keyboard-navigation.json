@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Accessibility And Keyboard Navigation",
+      "file": "references/accessibility-and-keyboard-navigation.md",
+      "summary": "Open when you need guidance on Accessibility And Keyboard Navigation in Ableton Live.",
+      "keywords": ["Accessibility And Keyboard Navigation", "Ableton Live"]},
+    {
+      "topic": "Accessibility Overview",
+      "file": "references/accessibility-overview.md",
+      "summary": "Open when you need guidance on Accessibility Overview in Ableton Live.",
+      "keywords": ["Accessibility Overview", "Ableton Live"]},
+    {
+      "topic": "Keyboard Navigation Overview",
+      "file": "references/keyboard-navigation-overview.md",
+      "summary": "Open when you need guidance on Keyboard Navigation Overview in Ableton Live.",
+      "keywords": ["Keyboard Navigation Overview", "Ableton Live"]},
+    {
+      "topic": "Keyboard Navigation Settings And Help",
+      "file": "references/keyboard-navigation-settings-and-help.md",
+      "summary": "Open when you need guidance on Keyboard Navigation Settings And Help in Ableton Live.",
+      "keywords": ["Keyboard Navigation Settings And Help", "Ableton Live"]},
+    {
+      "topic": "Accessible Audio MIDI Setup",
+      "file": "references/accessible-audio-midi-setup.md",
+      "summary": "Open when you need guidance on Accessible Audio MIDI Setup in Ableton Live.",
+      "keywords": ["Accessible Audio MIDI Setup", "Ableton Live"]},
+    {
+      "topic": "Navigate Menu Overview",
+      "file": "references/navigate-menu-overview.md",
+      "summary": "Open when you need guidance on Navigate Menu Overview in Ableton Live.",
+      "keywords": ["Navigate Menu Overview", "Ableton Live"]},
+    {
+      "topic": "Keyboard Transport Session Arrangement Navigation",
+      "file": "references/keyboard-transport-session-arrangement-navigation.md",
+      "summary": "Open when you need guidance on Keyboard Transport Session Arrangement Navigation in Ableton Live.",
+      "keywords": ["Keyboard Transport Session Arrangement Navigation", "Ableton Live"]},
+    {
+      "topic": "Keyboard Clip Device Browser Navigation",
+      "file": "references/keyboard-clip-device-browser-navigation.md",
+      "summary": "Open when you need guidance on Keyboard Clip Device Browser Navigation in Ableton Live.",
+      "keywords": ["Keyboard Clip Device Browser Navigation", "Ableton Live"]},
+    {
+      "topic": "Keyboard Learn View Navigation",
+      "file": "references/keyboard-learn-view-navigation.md",
+      "summary": "Open when you need guidance on Keyboard Learn View Navigation in Ableton Live.",
+      "keywords": ["Keyboard Learn View Navigation", "Ableton Live"]},
+    {
+      "topic": "Keyboard Envelope Editing Overview",
+      "file": "references/keyboard-envelope-editing-overview.md",
+      "summary": "Open when you need guidance on Keyboard Envelope Editing Overview in Ableton Live.",
+      "keywords": ["Keyboard Envelope Editing Overview", "Ableton Live"]},
+    {
+      "topic": "Keyboard Envelope Breakpoints",
+      "file": "references/keyboard-envelope-breakpoints.md",
+      "summary": "Open when you need guidance on Keyboard Envelope Breakpoints in Ableton Live.",
+      "keywords": ["Keyboard Envelope Breakpoints", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

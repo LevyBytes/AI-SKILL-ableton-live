@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Mixer Routing Recording And Saving Routes",
+      "file": "references/mixer-routing-recording-and-saving-routes.md",
+      "summary": "Open when choosing references for Mixer Routing Recording And Saving in Ableton Live.",
+      "keywords": ["Mixer Routing Recording And Saving Routes", "Ableton Live"]},
+    {
+      "topic": "Device Clip Scale And Mixer Concepts",
+      "file": "references/device-clip-scale-and-mixer-concepts.md",
+      "summary": "Open when you need guidance on Device Clip Scale And Mixer Concepts in Ableton Live.",
+      "keywords": ["Device Clip Scale And Mixer Concepts", "Ableton Live"]},
+    {
+      "topic": "Rack Routing Recording And Automation Concepts",
+      "file": "references/rack-routing-recording-and-automation-concepts.md",
+      "summary": "Open when you need guidance on Rack Routing Recording And Automation Concepts in Ableton Live.",
+      "keywords": ["Rack Routing Recording And Automation Concepts", "Ableton Live"]},
+    {
+      "topic": "Live Set Saving And Export Concepts",
+      "file": "references/live-set-saving-and-export-concepts.md",
+      "summary": "Open when you need guidance on Live Set Saving And Export Concepts in Ableton Live.",
+      "keywords": ["Live Set Saving And Export Concepts", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "MPE And Audio MIDI Routes",
+      "file": "references/mpe-and-audio-midi-routes.md",
+      "summary": "Open when choosing references for MPE And Audio MIDI in Ableton Live.",
+      "keywords": ["MPE And Audio MIDI Routes", "Ableton Live"]},
+    {
+      "topic": "MPE Overview",
+      "file": "references/mpe-overview.md",
+      "summary": "Open when you need guidance on MPE Overview in Ableton Live.",
+      "keywords": ["MPE Overview", "Ableton Live"]},
+    {
+      "topic": "MPE Envelope Editing And Device Support",
+      "file": "references/mpe-envelope-editing-and-device-support.md",
+      "summary": "Open when you need guidance on MPE Envelope Editing And Device Support in Ableton Live.",
+      "keywords": ["MPE Envelope Editing And Device Support", "Ableton Live"]},
+    {
+      "topic": "MPE Zones And Multichannel Settings",
+      "file": "references/mpe-zones-and-multichannel-settings.md",
+      "summary": "Open when you need guidance on MPE Zones And Multichannel Settings in Ableton Live.",
+      "keywords": ["MPE Zones And Multichannel Settings", "Ableton Live"]},
+    {
+      "topic": "Audio To MIDI Overview",
+      "file": "references/audio-to-midi-overview.md",
+      "summary": "Open when you need guidance on Audio To MIDI Overview in Ableton Live.",
+      "keywords": ["Audio To MIDI Overview", "Ableton Live"]},
+    {
+      "topic": "Audio Slicing To MIDI",
+      "file": "references/audio-slicing-to-midi.md",
+      "summary": "Open when you need guidance on Audio Slicing To MIDI in Ableton Live.",
+      "keywords": ["Audio Slicing To MIDI", "Ableton Live"]},
+    {
+      "topic": "MIDI Slice Resequencing And Effects",
+      "file": "references/midi-slice-resequencing-and-effects.md",
+      "summary": "Open when you need guidance on MIDI Slice Resequencing And Effects in Ableton Live.",
+      "keywords": ["MIDI Slice Resequencing And Effects", "Ableton Live"]},
+    {
+      "topic": "Audio To MIDI Conversion Quality",
+      "file": "references/audio-to-midi-conversion-quality.md",
+      "summary": "Open when you need guidance on Audio To MIDI Conversion Quality in Ableton Live.",
+      "keywords": ["Audio To MIDI Conversion Quality", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

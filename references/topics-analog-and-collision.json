@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Analog And Collision Routes",
+      "file": "references/analog-and-collision-routes.md",
+      "summary": "Open when choosing references for Analog And Collision in Ableton Live.",
+      "keywords": ["Analog And Collision Routes", "Ableton Live"]},
+    {
+      "topic": "Instrument Reference Overview",
+      "file": "references/instrument-reference-overview.md",
+      "summary": "Open when you need guidance on Instrument Reference Overview in Ableton Live.",
+      "keywords": ["Instrument Reference Overview", "Ableton Live"]},
+    {
+      "topic": "Analog Overview",
+      "file": "references/analog-overview.md",
+      "summary": "Open when you need guidance on Analog Overview in Ableton Live.",
+      "keywords": ["Analog Overview", "Ableton Live"]},
+    {
+      "topic": "Analog Oscillators Filters And Amplifiers",
+      "file": "references/analog-oscillators-filters-and-amplifiers.md",
+      "summary": "Open when you need guidance on Analog Oscillators Filters And Amplifiers in Ableton Live.",
+      "keywords": ["Analog Oscillators Filters And Amplifiers", "Ableton Live"]},
+    {
+      "topic": "Analog Envelopes LFOs And Global Controls",
+      "file": "references/analog-envelopes-lfos-and-global-controls.md",
+      "summary": "Open when you need guidance on Analog Envelopes LFOs And Global Controls in Ableton Live.",
+      "keywords": ["Analog Envelopes LFOs And Global Controls", "Ableton Live"]},
+    {
+      "topic": "Analog MPE Sources",
+      "file": "references/analog-mpe-sources.md",
+      "summary": "Open when you need guidance on Analog MPE Sources in Ableton Live.",
+      "keywords": ["Analog MPE Sources", "Ableton Live"]},
+    {
+      "topic": "Collision Overview",
+      "file": "references/collision-overview.md",
+      "summary": "Open when you need guidance on Collision Overview in Ableton Live.",
+      "keywords": ["Collision Overview", "Ableton Live"]},
+    {
+      "topic": "Collision Mallet Noise And Architecture",
+      "file": "references/collision-mallet-noise-and-architecture.md",
+      "summary": "Open when you need guidance on Collision Mallet Noise And Architecture in Ableton Live.",
+      "keywords": ["Collision Mallet Noise And Architecture", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

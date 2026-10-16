@@ -1,6 +1,6 @@
 # Max For Live
 
-> Ableton Live reference. Original prose; identifiers preserved verbatim.
+Open when you need guidance on Max For Live in Ableton Live.
 
 ### 31. Max for Live
 

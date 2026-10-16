@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "MIDI And Key Remote Control",
+      "file": "references/midi-and-key-remote-control.md",
+      "summary": "Open when you need guidance on MIDI And Key Remote Control in Ableton Live.",
+      "keywords": ["MIDI And Key Remote Control", "Ableton Live"]},
+    {
+      "topic": "MIDI Key Remote Control Overview",
+      "file": "references/midi-key-remote-control-overview.md",
+      "summary": "Open when you need guidance on MIDI Key Remote Control Overview in Ableton Live.",
+      "keywords": ["MIDI Key Remote Control Overview", "Ableton Live"]},
+    {
+      "topic": "MIDI Remote Control Overview",
+      "file": "references/midi-remote-control-overview.md",
+      "summary": "Open when you need guidance on MIDI Remote Control Overview in Ableton Live.",
+      "keywords": ["MIDI Remote Control Overview", "Ableton Live"]},
+    {
+      "topic": "Control Surface Native Setup",
+      "file": "references/control-surface-native-setup.md",
+      "summary": "Open when you need guidance on Control Surface Native Setup in Ableton Live.",
+      "keywords": ["Control Surface Native Setup", "Ableton Live"]},
+    {
+      "topic": "Control Surface Instant Mappings",
+      "file": "references/control-surface-instant-mappings.md",
+      "summary": "Open when you need guidance on Control Surface Instant Mappings in Ableton Live.",
+      "keywords": ["Control Surface Instant Mappings", "Ableton Live"]},
+    {
+      "topic": "Control Surface Manual Setup And Takeover",
+      "file": "references/control-surface-manual-setup-and-takeover.md",
+      "summary": "Open when you need guidance on Control Surface Manual Setup And Takeover in Ableton Live.",
+      "keywords": ["Control Surface Manual Setup And Takeover", "Ableton Live"]},
+    {
+      "topic": "Mapping Browser Overview",
+      "file": "references/mapping-browser-overview.md",
+      "summary": "Open when you need guidance on Mapping Browser Overview in Ableton Live.",
+      "keywords": ["Mapping Browser Overview", "Ableton Live"]},
+    {
+      "topic": "MIDI Note Absolute And Relative Mappings",
+      "file": "references/midi-note-absolute-and-relative-mappings.md",
+      "summary": "Open when you need guidance on MIDI Note Absolute And Relative Mappings in Ableton Live.",
+      "keywords": ["MIDI Note Absolute And Relative Mappings", "Ableton Live"]},
+    {
+      "topic": "Controller Session Navigation And Clip Mapping",
+      "file": "references/controller-session-navigation-and-clip-mapping.md",
+      "summary": "Open when you need guidance on Controller Session Navigation And Clip Mapping in Ableton Live.",
+      "keywords": ["Controller Session Navigation And Clip Mapping", "Ableton Live"]},
+    {
+      "topic": "Computer Keyboard Remote Mappings",
+      "file": "references/computer-keyboard-remote-mappings.md",
+      "summary": "Open when you need guidance on Computer Keyboard Remote Mappings in Ableton Live.",
+      "keywords": ["Computer Keyboard Remote Mappings", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

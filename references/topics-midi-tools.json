@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "MIDI Tools",
+      "file": "references/midi-tools.md",
+      "summary": "Open when you need guidance on MIDI Tools in Ableton Live.",
+      "keywords": ["MIDI Tools", "Ableton Live"]},
+    {
+      "topic": "MIDI Tools Overview",
+      "file": "references/midi-tools-overview.md",
+      "summary": "Open when you need guidance on MIDI Tools Overview in Ableton Live.",
+      "keywords": ["MIDI Tools Overview", "Ableton Live"]},
+    {
+      "topic": "MIDI Tool Transform And Generate Workflow",
+      "file": "references/midi-tool-transform-and-generate-workflow.md",
+      "summary": "Open when you need guidance on MIDI Tool Transform And Generate Workflow in Ableton Live.",
+      "keywords": ["MIDI Tool Transform And Generate Workflow", "Ableton Live"]},
+    {
+      "topic": "Max MIDI Tool Transformation And Generation",
+      "file": "references/max-midi-tool-transformation-and-generation.md",
+      "summary": "Open when you need guidance on Max MIDI Tool Transformation And Generation in Ableton Live.",
+      "keywords": ["Max MIDI Tool Transformation And Generation", "Ableton Live"]},
+    {
+      "topic": "MIDI Transformations Overview",
+      "file": "references/midi-transformations-overview.md",
+      "summary": "Open when you need guidance on MIDI Transformations Overview in Ableton Live.",
+      "keywords": ["MIDI Transformations Overview", "Ableton Live"]},
+    {
+      "topic": "MIDI Arpeggiate Chop Connect Glissando LFO",
+      "file": "references/midi-arpeggiate-chop-connect-glissando-lfo.md",
+      "summary": "Open when you need guidance on MIDI Arpeggiate Chop Connect Glissando LFO in Ableton Live.",
+      "keywords": ["MIDI Arpeggiate Chop Connect Glissando LFO", "Ableton Live"]},
+    {
+      "topic": "MIDI Ornament Quantize Recombine And Span",
+      "file": "references/midi-ornament-quantize-recombine-and-span.md",
+      "summary": "Open when you need guidance on MIDI Ornament Quantize Recombine And Span in Ableton Live.",
+      "keywords": ["MIDI Ornament Quantize Recombine And Span", "Ableton Live"]},
+    {
+      "topic": "MIDI Strum And Time Warp",
+      "file": "references/midi-strum-and-time-warp.md",
+      "summary": "Open when you need guidance on MIDI Strum And Time Warp in Ableton Live.",
+      "keywords": ["MIDI Strum And Time Warp", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

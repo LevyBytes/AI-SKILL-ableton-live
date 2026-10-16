@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Managing Files And Sets",
+      "file": "references/managing-files-and-sets.md",
+      "summary": "Open when you need guidance on Managing Files And Sets in Ableton Live.",
+      "keywords": ["Managing Files And Sets", "Ableton Live"]},
+    {
+      "topic": "Files And Sets Overview",
+      "file": "references/files-and-sets-overview.md",
+      "summary": "Open when you need guidance on Files And Sets Overview in Ableton Live.",
+      "keywords": ["Files And Sets Overview", "Ableton Live"]},
+    {
+      "topic": "Audio Sample File Formats",
+      "file": "references/audio-sample-file-formats.md",
+      "summary": "Open when you need guidance on Audio Sample File Formats in Ableton Live.",
+      "keywords": ["Audio Sample File Formats", "Ableton Live"]},
+    {
+      "topic": "Sample Decoding Analysis And Export Overview",
+      "file": "references/sample-decoding-analysis-and-export-overview.md",
+      "summary": "Open when you need guidance on Sample Decoding Analysis And Export Overview in Ableton Live.",
+      "keywords": ["Sample Decoding Analysis And Export Overview", "Ableton Live"]},
+    {
+      "topic": "Audio Video Rendering And Encoding",
+      "file": "references/audio-video-rendering-and-encoding.md",
+      "summary": "Open when you need guidance on Audio Video Rendering And Encoding in Ableton Live.",
+      "keywords": ["Audio Video Rendering And Encoding", "Ableton Live"]},
+    {
+      "topic": "MIDI File Import Formats",
+      "file": "references/midi-file-import-formats.md",
+      "summary": "Open when you need guidance on MIDI File Import Formats in Ableton Live.",
+      "keywords": ["MIDI File Import Formats", "Ableton Live"]},
+    {
+      "topic": "MIDI Clip File Export",
+      "file": "references/midi-clip-file-export.md",
+      "summary": "Open when you need guidance on MIDI Clip File Export in Ableton Live.",
+      "keywords": ["MIDI Clip File Export", "Ableton Live"]},
+    {
+      "topic": "Live Clips And Sets Overview",
+      "file": "references/live-clips-and-sets-overview.md",
+      "summary": "Open when you need guidance on Live Clips And Sets Overview in Ableton Live.",
+      "keywords": ["Live Clips And Sets Overview", "Ableton Live"]},
+    {
+      "topic": "Live Set Saving Merging And Templates",
+      "file": "references/live-set-saving-merging-and-templates.md",
+      "summary": "Open when you need guidance on Live Set Saving Merging And Templates in Ableton Live.",
+      "keywords": ["Live Set Saving Merging And Templates", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

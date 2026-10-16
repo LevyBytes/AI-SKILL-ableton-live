@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Arrangement Editing Routes",
+      "file": "references/arrangement-editing-routes.md",
+      "summary": "Open when choosing references for Arrangement Editing in Ableton Live.",
+      "keywords": ["Arrangement Editing Routes", "Ableton Live"]},
+    {
+      "topic": "Arrangement Grid Spacing And Snapping",
+      "file": "references/arrangement-grid-spacing-and-snapping.md",
+      "summary": "Open when you need guidance on Arrangement Grid Spacing And Snapping in Ableton Live.",
+      "keywords": ["Arrangement Grid Spacing And Snapping", "Ableton Live"]},
+    {
+      "topic": "Arrangement Time Splitting And Consolidation",
+      "file": "references/arrangement-time-splitting-and-consolidation.md",
+      "summary": "Open when you need guidance on Arrangement Time Splitting And Consolidation in Ableton Live.",
+      "keywords": ["Arrangement Time Splitting And Consolidation", "Ableton Live"]},
+    {
+      "topic": "Linked Track Editing",
+      "file": "references/linked-track-editing.md",
+      "summary": "Open when you need guidance on Linked Track Editing in Ableton Live.",
+      "keywords": ["Linked Track Editing", "Ableton Live"]},
+    {
+      "topic": "Arrangement Mixer",
+      "file": "references/arrangement-mixer.md",
+      "summary": "Open when you need guidance on Arrangement Mixer in Ableton Live.",
+      "keywords": ["Arrangement Mixer", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

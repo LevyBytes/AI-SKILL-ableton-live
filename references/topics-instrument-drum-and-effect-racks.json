@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Instrument Drum And Effect Racks",
+      "file": "references/instrument-drum-and-effect-racks.md",
+      "summary": "Open when you need guidance on Instrument Drum And Effect Racks in Ableton Live.",
+      "keywords": ["Instrument Drum And Effect Racks", "Ableton Live"]},
+    {
+      "topic": "Instrument Drum And Effect Rack Overview",
+      "file": "references/instrument-drum-and-effect-rack-overview.md",
+      "summary": "Open when you need guidance on Instrument Drum And Effect Rack Overview in Ableton Live.",
+      "keywords": ["Instrument Drum And Effect Rack Overview", "Ableton Live"]},
+    {
+      "topic": "Rack Types Overview",
+      "file": "references/rack-types-overview.md",
+      "summary": "Open when you need guidance on Rack Types Overview in Ableton Live.",
+      "keywords": ["Rack Types Overview", "Ableton Live"]},
+    {
+      "topic": "Rack Signal Flow And Macros",
+      "file": "references/rack-signal-flow-and-macros.md",
+      "summary": "Open when you need guidance on Rack Signal Flow And Macros in Ableton Live.",
+      "keywords": ["Rack Signal Flow And Macros", "Ableton Live"]},
+    {
+      "topic": "Rack Creation Layout And Chain List",
+      "file": "references/rack-creation-layout-and-chain-list.md",
+      "summary": "Open when you need guidance on Rack Creation Layout And Chain List in Ableton Live.",
+      "keywords": ["Rack Creation Layout And Chain List", "Ableton Live"]},
+    {
+      "topic": "Rack Chain Auto Select",
+      "file": "references/rack-chain-auto-select.md",
+      "summary": "Open when you need guidance on Rack Chain Auto Select in Ableton Live.",
+      "keywords": ["Rack Chain Auto Select", "Ableton Live"]},
+    {
+      "topic": "Rack Zones Overview",
+      "file": "references/rack-zones-overview.md",
+      "summary": "Open when you need guidance on Rack Zones Overview in Ableton Live.",
+      "keywords": ["Rack Zones Overview", "Ableton Live"]},
+    {
+      "topic": "Rack Key Velocity And Chain Zones",
+      "file": "references/rack-key-velocity-and-chain-zones.md",
+      "summary": "Open when you need guidance on Rack Key Velocity And Chain Zones in Ableton Live.",
+      "keywords": ["Rack Key Velocity And Chain Zones", "Ableton Live"]},
+    {
+      "topic": "Rack Chain Select Preset Banks",
+      "file": "references/rack-chain-select-preset-banks.md",
+      "summary": "Open when you need guidance on Rack Chain Select Preset Banks in Ableton Live.",
+      "keywords": ["Rack Chain Select Preset Banks", "Ableton Live"]},
+    {
+      "topic": "Drum Rack Overview",
+      "file": "references/drum-rack-overview.md",
+      "summary": "Open when you need guidance on Drum Rack Overview in Ableton Live.",
+      "keywords": ["Drum Rack Overview", "Ableton Live"]},
+    {
+      "topic": "Drum Rack Pad View",
+      "file": "references/drum-rack-pad-view.md",
+      "summary": "Open when you need guidance on Drum Rack Pad View in Ableton Live.",
+      "keywords": ["Drum Rack Pad View", "Ableton Live"]},
+    {
+      "topic": "Rack Macro Controls Overview",
+      "file": "references/rack-macro-controls-overview.md",
+      "summary": "Open when you need guidance on Rack Macro Controls Overview in Ableton Live.",
+      "keywords": ["Rack Macro Controls Overview", "Ableton Live"]},
+    {
+      "topic": "Rack Macro Mapping Variations And Mixing",
+      "file": "references/rack-macro-mapping-variations-and-mixing.md",
+      "summary": "Open when you need guidance on Rack Macro Mapping Variations And Mixing in Ableton Live.",
+      "keywords": ["Rack Macro Mapping Variations And Mixing", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Midi And Key Remote Control",
+      "file": "references/topics-midi-and-key-remote-control.json",
+      "summary": "Open when setting up control surfaces or mapping MIDI notes, controller messages, or computer keys to Live controls.",
+      "keywords": ["midi-and-key-remote-control", "reference"]},
+    {
+      "topic": "Synchronizing With Link Tempo Follower And Midi",
+      "file": "references/topics-synchronizing-with-link-tempo-follower-and-midi.json",
+      "summary": "Open when synchronizing Live through Link, Tempo Follower, MIDI clock, or MIDI Timecode, sharing Link Audio, or correcting sync delay.",
+      "keywords": ["synchronizing-with-link-tempo-follower-and-midi", "reference"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

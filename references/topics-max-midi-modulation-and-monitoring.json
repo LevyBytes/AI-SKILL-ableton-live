@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Max MIDI Modulation And Monitoring Routes",
+      "file": "references/max-midi-modulation-and-monitoring-routes.md",
+      "summary": "Open when choosing references for Max MIDI Modulation And Monitoring in Ableton Live.",
+      "keywords": ["Max MIDI Modulation And Monitoring Routes", "Ableton Live"]},
+    {
+      "topic": "Max Envelope MIDI And Expression Control",
+      "file": "references/max-envelope-midi-and-expression-control.md",
+      "summary": "Open when you need guidance on Max Envelope MIDI And Expression Control in Ableton Live.",
+      "keywords": ["Max Envelope MIDI And Expression Control", "Ableton Live"]},
+    {
+      "topic": "MIDI Monitor And MPE Control",
+      "file": "references/midi-monitor-and-mpe-control.md",
+      "summary": "Open when you need guidance on MIDI Monitor And MPE Control in Ableton Live.",
+      "keywords": ["MIDI Monitor And MPE Control", "Ableton Live"]},
+    {
+      "topic": "MPE Control Pressure Slide And Pitch",
+      "file": "references/mpe-control-pressure-slide-and-pitch.md",
+      "summary": "Open when you need guidance on MPE Control Pressure Slide And Pitch in Ableton Live.",
+      "keywords": ["MPE Control Pressure Slide And Pitch", "Ableton Live"]},
+    {
+      "topic": "Note Echo And Shaper MIDI",
+      "file": "references/note-echo-and-shaper-midi.md",
+      "summary": "Open when you need guidance on Note Echo And Shaper MIDI in Ableton Live.",
+      "keywords": ["Note Echo And Shaper MIDI", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

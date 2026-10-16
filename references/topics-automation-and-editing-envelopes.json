@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Automation And Editing Envelopes",
+      "file": "references/automation-and-editing-envelopes.md",
+      "summary": "Open when you need guidance on Automation And Editing Envelopes in Ableton Live.",
+      "keywords": ["Automation And Editing Envelopes", "Ableton Live"]},
+    {
+      "topic": "Automation Overview",
+      "file": "references/automation-overview.md",
+      "summary": "Open when you need guidance on Automation Overview in Ableton Live.",
+      "keywords": ["Automation Overview", "Ableton Live"]},
+    {
+      "topic": "Arrangement And Session Automation Recording",
+      "file": "references/arrangement-and-session-automation-recording.md",
+      "summary": "Open when you need guidance on Arrangement And Session Automation Recording in Ableton Live.",
+      "keywords": ["Arrangement And Session Automation Recording", "Ableton Live"]},
+    {
+      "topic": "Session Automation Recording Modes",
+      "file": "references/session-automation-recording-modes.md",
+      "summary": "Open when you need guidance on Session Automation Recording Modes in Ableton Live.",
+      "keywords": ["Session Automation Recording Modes", "Ableton Live"]},
+    {
+      "topic": "Automation Deletion Overrides And Editing",
+      "file": "references/automation-deletion-overrides-and-editing.md",
+      "summary": "Open when you need guidance on Automation Deletion Overrides And Editing in Ableton Live.",
+      "keywords": ["Automation Deletion Overrides And Editing", "Ableton Live"]},
+    {
+      "topic": "Automation Envelope Shaping",
+      "file": "references/automation-envelope-shaping.md",
+      "summary": "Open when you need guidance on Automation Envelope Shaping in Ableton Live.",
+      "keywords": ["Automation Envelope Shaping", "Ableton Live"]},
+    {
+      "topic": "Automation Edit Commands And Tempo",
+      "file": "references/automation-edit-commands-and-tempo.md",
+      "summary": "Open when you need guidance on Automation Edit Commands And Tempo in Ableton Live.",
+      "keywords": ["Automation Edit Commands And Tempo", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

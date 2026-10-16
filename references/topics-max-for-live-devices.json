@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Max For Live Devices",
+      "file": "references/max-for-live-devices.md",
+      "summary": "Open when you need guidance on Max For Live Devices in Ableton Live.",
+      "keywords": ["Max For Live Devices", "Ableton Live"]},
+    {
+      "topic": "Max Devices Overview",
+      "file": "references/max-devices-overview.md",
+      "summary": "Open when you need guidance on Max Devices Overview in Ableton Live.",
+      "keywords": ["Max Devices Overview", "Ableton Live"]},
+    {
+      "topic": "Max Instruments Overview",
+      "file": "references/max-instruments-overview.md",
+      "summary": "Open when you need guidance on Max Instruments Overview in Ableton Live.",
+      "keywords": ["Max Instruments Overview", "Ableton Live"]},
+    {
+      "topic": "Drum Synth Clang Clap Cymbal FM Hihat",
+      "file": "references/drum-synth-clang-clap-cymbal-fm-hihat.md",
+      "summary": "Open when you need guidance on Drum Synth Clang Clap Cymbal FM Hihat in Ableton Live.",
+      "keywords": ["Drum Synth Clang Clap Cymbal FM Hihat", "Ableton Live"]},
+    {
+      "topic": "Drum Synth Kick Snare And Tom",
+      "file": "references/drum-synth-kick-snare-and-tom.md",
+      "summary": "Open when you need guidance on Drum Synth Kick Snare And Tom in Ableton Live.",
+      "keywords": ["Drum Synth Kick Snare And Tom", "Ableton Live"]},
+    {
+      "topic": "Max Audio Effects Overview",
+      "file": "references/max-audio-effects-overview.md",
+      "summary": "Open when you need guidance on Max Audio Effects Overview in Ableton Live.",
+      "keywords": ["Max Audio Effects Overview", "Ableton Live"]},
+    {
+      "topic": "Max Align Delay And Envelope Follower",
+      "file": "references/max-align-delay-and-envelope-follower.md",
+      "summary": "Open when you need guidance on Max Align Delay And Envelope Follower in Ableton Live.",
+      "keywords": ["Max Align Delay And Envelope Follower", "Ableton Live"]},
+    {
+      "topic": "Max LFO And Shaper",
+      "file": "references/max-lfo-and-shaper.md",
+      "summary": "Open when you need guidance on Max LFO And Shaper in Ableton Live.",
+      "keywords": ["Max LFO And Shaper", "Ableton Live"]},
+    {
+      "topic": "Max MIDI Effects Overview",
+      "file": "references/max-midi-effects-overview.md",
+      "summary": "Open when you need guidance on Max MIDI Effects Overview in Ableton Live.",
+      "keywords": ["Max MIDI Effects Overview", "Ableton Live"]},
+    {
+      "topic": "Max Envelope MIDI And Expression Control",
+      "file": "references/max-envelope-midi-and-expression-control.md",
+      "summary": "Open when you need guidance on Max Envelope MIDI And Expression Control in Ableton Live.",
+      "keywords": ["Max Envelope MIDI And Expression Control", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

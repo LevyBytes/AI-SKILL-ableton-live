@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Amp Filter And Pan Routes",
+      "file": "references/amp-filter-and-pan-routes.md",
+      "summary": "Open when choosing references for Amp Filter And Pan in Ableton Live.",
+      "keywords": ["Amp Filter And Pan Routes", "Ableton Live"]},
+    {
+      "topic": "Audio Effects Overview",
+      "file": "references/audio-effects-overview.md",
+      "summary": "Open when you need guidance on Audio Effects Overview in Ableton Live.",
+      "keywords": ["Audio Effects Overview", "Ableton Live"]},
+    {
+      "topic": "Amp Models And Controls",
+      "file": "references/amp-models-and-controls.md",
+      "summary": "Open when you need guidance on Amp Models And Controls in Ableton Live.",
+      "keywords": ["Amp Models And Controls", "Ableton Live"]},
+    {
+      "topic": "Amp Cabinet And Instrument Techniques",
+      "file": "references/amp-cabinet-and-instrument-techniques.md",
+      "summary": "Open when you need guidance on Amp Cabinet And Instrument Techniques in Ableton Live.",
+      "keywords": ["Amp Cabinet And Instrument Techniques", "Ableton Live"]},
+    {
+      "topic": "Auto Filter Overview",
+      "file": "references/auto-filter-overview.md",
+      "summary": "Open when you need guidance on Auto Filter Overview in Ableton Live.",
+      "keywords": ["Auto Filter Overview", "Ableton Live"]},
+    {
+      "topic": "Auto Filter Types And Modulation",
+      "file": "references/auto-filter-types-and-modulation.md",
+      "summary": "Open when you need guidance on Auto Filter Types And Modulation in Ableton Live.",
+      "keywords": ["Auto Filter Types And Modulation", "Ableton Live"]},
+    {
+      "topic": "Auto Filter Circuits Global And Sidechain",
+      "file": "references/auto-filter-circuits-global-and-sidechain.md",
+      "summary": "Open when you need guidance on Auto Filter Circuits Global And Sidechain in Ableton Live.",
+      "keywords": ["Auto Filter Circuits Global And Sidechain", "Ableton Live"]},
+    {
+      "topic": "Auto Filter Mono Sidechain",
+      "file": "references/auto-filter-mono-sidechain.md",
+      "summary": "Open when you need guidance on Auto Filter Mono Sidechain in Ableton Live.",
+      "keywords": ["Auto Filter Mono Sidechain", "Ableton Live"]},
+    {
+      "topic": "Auto Pan Tremolo Controls",
+      "file": "references/auto-pan-tremolo-controls.md",
+      "summary": "Open when you need guidance on Auto Pan Tremolo Controls in Ableton Live.",
+      "keywords": ["Auto Pan Tremolo Controls", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

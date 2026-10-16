@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Spectral Analysis Utility And Vocoder Routes",
+      "file": "references/spectral-analysis-utility-and-vocoder-routes.md",
+      "summary": "Open when choosing references for Spectral Analysis Utility And Vocoder in Ableton Live.",
+      "keywords": ["Spectral Analysis Utility And Vocoder Routes", "Ableton Live"]},
+    {
+      "topic": "Spectral Resonator Percussion And Pitch Recipes",
+      "file": "references/spectral-resonator-percussion-and-pitch-recipes.md",
+      "summary": "Open when you need guidance on Spectral Resonator Percussion And Pitch Recipes in Ableton Live.",
+      "keywords": ["Spectral Resonator Percussion And Pitch Recipes", "Ableton Live"]},
+    {
+      "topic": "Spectral Time Overview",
+      "file": "references/spectral-time-overview.md",
+      "summary": "Open when you need guidance on Spectral Time Overview in Ableton Live.",
+      "keywords": ["Spectral Time Overview", "Ableton Live"]},
+    {
+      "topic": "Spectral Time Freezing Delay And Resolution",
+      "file": "references/spectral-time-freezing-delay-and-resolution.md",
+      "summary": "Open when you need guidance on Spectral Time Freezing Delay And Resolution in Ableton Live.",
+      "keywords": ["Spectral Time Freezing Delay And Resolution", "Ableton Live"]},
+    {
+      "topic": "Spectrum And Tuner",
+      "file": "references/spectrum-and-tuner.md",
+      "summary": "Open when you need guidance on Spectrum And Tuner in Ableton Live.",
+      "keywords": ["Spectrum And Tuner", "Ableton Live"]},
+    {
+      "topic": "Tuner Displays Pitch And Reference",
+      "file": "references/tuner-displays-pitch-and-reference.md",
+      "summary": "Open when you need guidance on Tuner Displays Pitch And Reference in Ableton Live.",
+      "keywords": ["Tuner Displays Pitch And Reference", "Ableton Live"]},
+    {
+      "topic": "Utility And Vinyl Distortion",
+      "file": "references/utility-and-vinyl-distortion.md",
+      "summary": "Open when you need guidance on Utility And Vinyl Distortion in Ableton Live.",
+      "keywords": ["Utility And Vinyl Distortion", "Ableton Live"]},
+    {
+      "topic": "Vocoder Carriers Bands And Controls",
+      "file": "references/vocoder-carriers-bands-and-controls.md",
+      "summary": "Open when you need guidance on Vocoder Carriers Bands And Controls in Ableton Live.",
+      "keywords": ["Vocoder Carriers Bands And Controls", "Ableton Live"]},
+    {
+      "topic": "Vocoder Singing Synth And Formants",
+      "file": "references/vocoder-singing-synth-and-formants.md",
+      "summary": "Open when you need guidance on Vocoder Singing Synth And Formants in Ableton Live.",
+      "keywords": ["Vocoder Singing Synth And Formants", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

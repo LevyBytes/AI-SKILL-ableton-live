@@ -1,6 +1,6 @@
-# Midi Fact Sheet
+# MIDI Fact Sheet
 
-> Ableton Live reference. Original prose; identifiers preserved verbatim.
+Open when you need guidance on MIDI Fact Sheet in Ableton Live.
 
 ### 39. MIDI Fact Sheet
 

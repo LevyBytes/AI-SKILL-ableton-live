@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Live Setup Routes",
+      "file": "references/live-setup-routes.md",
+      "summary": "Open when choosing references for Live Setup in Ableton Live.",
+      "keywords": ["Live Setup Routes", "Ableton Live"]},
+    {
+      "topic": "Welcome To Live Overview",
+      "file": "references/welcome-to-live-overview.md",
+      "summary": "Open when you need guidance on Welcome To Live Overview in Ableton Live.",
+      "keywords": ["Welcome To Live Overview", "Ableton Live"]},
+    {
+      "topic": "Installation Authorization And Learning",
+      "file": "references/installation-authorization-and-learning.md",
+      "summary": "Open when you need guidance on Installation Authorization And Learning in Ableton Live.",
+      "keywords": ["Installation Authorization And Learning", "Ableton Live"]},
+    {
+      "topic": "Learn View Info View And Resources",
+      "file": "references/learn-view-info-view-and-resources.md",
+      "summary": "Open when you need guidance on Learn View Info View And Resources in Ableton Live.",
+      "keywords": ["Learn View Info View And Resources", "Ableton Live"]},
+    {
+      "topic": "Live Settings Overview",
+      "file": "references/live-settings-overview.md",
+      "summary": "Open when you need guidance on Live Settings Overview in Ableton Live.",
+      "keywords": ["Live Settings Overview", "Ableton Live"]},
+    {
+      "topic": "Live Settings Pages",
+      "file": "references/live-settings-pages.md",
+      "summary": "Open when you need guidance on Live Settings Pages in Ableton Live.",
+      "keywords": ["Live Settings Pages", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

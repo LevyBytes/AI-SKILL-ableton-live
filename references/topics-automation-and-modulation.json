@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Automation And Editing Envelopes",
+      "file": "references/topics-automation-and-editing-envelopes.json",
+      "summary": "Open when recording, overriding, deleting, drawing, or editing automation in Session or Arrangement View.",
+      "keywords": ["automation-and-editing-envelopes", "reference"]},
+    {
+      "topic": "Clip Envelopes",
+      "file": "references/topics-clip-envelopes.json",
+      "summary": "Open when using clip envelopes to modulate audio, mixer, device, or MIDI controller parameters, including independently looping envelopes.",
+      "keywords": ["clip-envelopes", "reference"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

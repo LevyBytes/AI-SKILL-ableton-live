@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Push 1 Sequencing Mixing And Control Routes",
+      "file": "references/push-one-sequencing-mixing-and-control-routes.md",
+      "summary": "Open when choosing references for Push 1 Sequencing Mixing And Control in Ableton Live.",
+      "keywords": ["Push 1 Sequencing Mixing And Control Routes", "Ableton Live"]},
+    {
+      "topic": "Push 1 Melodic Grid And Sequencer",
+      "file": "references/push-one-melodic-grid-and-sequencer.md",
+      "summary": "Open when you need guidance on Push 1 Melodic Grid And Sequencer in Ableton Live.",
+      "keywords": ["Push 1 Melodic Grid And Sequencer", "Ableton Live"]},
+    {
+      "topic": "Push 1 Devices Mixing And Automation",
+      "file": "references/push-one-devices-mixing-and-automation.md",
+      "summary": "Open when you need guidance on Push 1 Devices Mixing And Automation in Ableton Live.",
+      "keywords": ["Push 1 Devices Mixing And Automation", "Ableton Live"]},
+    {
+      "topic": "Push 1 Note And Step Automation",
+      "file": "references/push-one-note-and-step-automation.md",
+      "summary": "Open when you need guidance on Push 1 Note And Step Automation in Ableton Live.",
+      "keywords": ["Push 1 Note And Step Automation", "Ableton Live"]},
+    {
+      "topic": "Push 1 Session Clips And Scenes",
+      "file": "references/push-one-session-clips-and-scenes.md",
+      "summary": "Open when you need guidance on Push 1 Session Clips And Scenes in Ableton Live.",
+      "keywords": ["Push 1 Session Clips And Scenes", "Ableton Live"]},
+    {
+      "topic": "Push 1 Session Overview Navigation",
+      "file": "references/push-one-session-overview-navigation.md",
+      "summary": "Open when you need guidance on Push 1 Session Overview Navigation in Ableton Live.",
+      "keywords": ["Push 1 Session Overview Navigation", "Ableton Live"]},
+    {
+      "topic": "Push 1 User Preferences",
+      "file": "references/push-one-user-preferences.md",
+      "summary": "Open when you need guidance on Push 1 User Preferences in Ableton Live.",
+      "keywords": ["Push 1 User Preferences", "Ableton Live"]},
+    {
+      "topic": "Push 1 Navigation Note And Selection Controls",
+      "file": "references/push-one-navigation-note-and-selection-controls.md",
+      "summary": "Open when you need guidance on Push 1 Navigation Note And Selection Controls in Ableton Live.",
+      "keywords": ["Push 1 Navigation Note And Selection Controls", "Ableton Live"]},
+    {
+      "topic": "Push 1 Display Tempo And Edit Controls",
+      "file": "references/push-one-display-tempo-and-edit-controls.md",
+      "summary": "Open when you need guidance on Push 1 Display Tempo And Edit Controls in Ableton Live.",
+      "keywords": ["Push 1 Display Tempo And Edit Controls", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

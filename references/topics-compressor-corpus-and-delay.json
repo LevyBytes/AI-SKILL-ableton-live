@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Compressor Corpus And Delay Routes",
+      "file": "references/compressor-corpus-and-delay-routes.md",
+      "summary": "Open when choosing references for Compressor Corpus And Delay in Ableton Live.",
+      "keywords": ["Compressor Corpus And Delay Routes", "Ableton Live"]},
+    {
+      "topic": "Compressor Controls And Sidechain",
+      "file": "references/compressor-controls-and-sidechain.md",
+      "summary": "Open when you need guidance on Compressor Controls And Sidechain in Ableton Live.",
+      "keywords": ["Compressor Controls And Sidechain", "Ableton Live"]},
+    {
+      "topic": "Compressor Voiceover And Dance Sidechaining",
+      "file": "references/compressor-voiceover-and-dance-sidechaining.md",
+      "summary": "Open when you need guidance on Compressor Voiceover And Dance Sidechaining in Ableton Live.",
+      "keywords": ["Compressor Voiceover And Dance Sidechaining", "Ableton Live"]},
+    {
+      "topic": "Corpus Overview",
+      "file": "references/corpus-overview.md",
+      "summary": "Open when you need guidance on Corpus Overview in Ableton Live.",
+      "keywords": ["Corpus Overview", "Ableton Live"]},
+    {
+      "topic": "Corpus Resonance Modulation And Output",
+      "file": "references/corpus-resonance-modulation-and-output.md",
+      "summary": "Open when you need guidance on Corpus Resonance Modulation And Output in Ableton Live.",
+      "keywords": ["Corpus Resonance Modulation And Output", "Ableton Live"]},
+    {
+      "topic": "Corpus MIDI Sidechain",
+      "file": "references/corpus-midi-sidechain.md",
+      "summary": "Open when you need guidance on Corpus MIDI Sidechain in Ableton Live.",
+      "keywords": ["Corpus MIDI Sidechain", "Ableton Live"]},
+    {
+      "topic": "Delay Time Feedback And Modulation",
+      "file": "references/delay-time-feedback-and-modulation.md",
+      "summary": "Open when you need guidance on Delay Time Feedback And Modulation in Ableton Live.",
+      "keywords": ["Delay Time Feedback And Modulation", "Ableton Live"]},
+    {
+      "topic": "Delay Transition And Quality Options",
+      "file": "references/delay-transition-and-quality-options.md",
+      "summary": "Open when you need guidance on Delay Transition And Quality Options in Ableton Live.",
+      "keywords": ["Delay Transition And Quality Options", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Push 1 Setup And Playing",
+      "file": "references/topics-push-one-setup-and-playing.json",
+      "summary": "Open when setting up Push 1, browsing sounds, playing or sequencing drums and melodies, or recording fixed-length clips.",
+      "keywords": ["Push 1 Setup And Playing", "Ableton Live"]},
+    {
+      "topic": "Push 1 Sequencing Mixing And Control",
+      "file": "references/topics-push-one-sequencing-mixing-and-control.json",
+      "summary": "Open when using Push 1's Melodic Sequencer + 32 Notes, controlling devices and mixing, recording automation, or navigating Session View.",
+      "keywords": ["Push 1 Sequencing Mixing And Control", "Ableton Live"]},
+    {
+      "topic": "Push 1 Transport Pads And Footswitches",
+      "file": "references/push-one-transport-pads-and-footswitches.md",
+      "summary": "Open when you need guidance on Push 1 Transport Pads And Footswitches in Ableton Live.",
+      "keywords": ["Push 1 Transport Pads And Footswitches", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

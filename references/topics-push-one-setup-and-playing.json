@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Push 1 Setup And Playing Routes",
+      "file": "references/push-one-setup-and-playing-routes.md",
+      "summary": "Open when choosing references for Push 1 Setup And Playing in Ableton Live.",
+      "keywords": ["Push 1 Setup And Playing Routes", "Ableton Live"]},
+    {
+      "topic": "Push 1 Overview",
+      "file": "references/push-one-overview.md",
+      "summary": "Open when you need guidance on Push 1 Overview in Ableton Live.",
+      "keywords": ["Push 1 Overview", "Ableton Live"]},
+    {
+      "topic": "Push 1 Setup Browser And Beats",
+      "file": "references/push-one-setup-browser-and-beats.md",
+      "summary": "Open when you need guidance on Push 1 Setup Browser And Beats in Ableton Live.",
+      "keywords": ["Push 1 Setup Browser And Beats", "Ableton Live"]},
+    {
+      "topic": "Push 1 Drum Layouts And Loading",
+      "file": "references/push-one-drum-layouts-and-loading.md",
+      "summary": "Open when you need guidance on Push 1 Drum Layouts And Loading in Ableton Live.",
+      "keywords": ["Push 1 Drum Layouts And Loading", "Ableton Live"]},
+    {
+      "topic": "Push 1 Drum Pad Duplication",
+      "file": "references/push-one-drum-pad-duplication.md",
+      "summary": "Open when you need guidance on Push 1 Drum Pad Duplication in Ableton Live.",
+      "keywords": ["Push 1 Drum Pad Duplication", "Ableton Live"]},
+    {
+      "topic": "Push 1 Drum Sequencing And Recording",
+      "file": "references/push-one-drum-sequencing-and-recording.md",
+      "summary": "Open when you need guidance on Push 1 Drum Sequencing And Recording in Ableton Live.",
+      "keywords": ["Push 1 Drum Sequencing And Recording", "Ableton Live"]},
+    {
+      "topic": "Push 1 Recording Options Overview",
+      "file": "references/push-one-recording-options-overview.md",
+      "summary": "Open when you need guidance on Push 1 Recording Options Overview in Ableton Live.",
+      "keywords": ["Push 1 Recording Options Overview", "Ableton Live"]},
+    {
+      "topic": "Push 1 Repeat Recording And Quantization",
+      "file": "references/push-one-repeat-recording-and-quantization.md",
+      "summary": "Open when you need guidance on Push 1 Repeat Recording And Quantization in Ableton Live.",
+      "keywords": ["Push 1 Repeat Recording And Quantization", "Ableton Live"]},
+    {
+      "topic": "Push 1 Melody And Harmony Playing",
+      "file": "references/push-one-melody-and-harmony-playing.md",
+      "summary": "Open when you need guidance on Push 1 Melody And Harmony Playing in Ableton Live.",
+      "keywords": ["Push 1 Melody And Harmony Playing", "Ableton Live"]},
+    {
+      "topic": "Push 1 Key And Scale Layouts",
+      "file": "references/push-one-key-and-scale-layouts.md",
+      "summary": "Open when you need guidance on Push 1 Key And Scale Layouts in Ableton Live.",
+      "keywords": ["Push 1 Key And Scale Layouts", "Ableton Live"]},
+    {
+      "topic": "Push 1 Melody Step Sequencing",
+      "file": "references/push-one-melody-step-sequencing.md",
+      "summary": "Open when you need guidance on Push 1 Melody Step Sequencing in Ableton Live.",
+      "keywords": ["Push 1 Melody Step Sequencing", "Ableton Live"]},
+    {
+      "topic": "Push 1 Sequencer Loop Length",
+      "file": "references/push-one-sequencer-loop-length.md",
+      "summary": "Open when you need guidance on Push 1 Sequencer Loop Length in Ableton Live.",
+      "keywords": ["Push 1 Sequencer Loop Length", "Ableton Live"]},
+    {
+      "topic": "Push 1 Melodic Grid And Sequencer",
+      "file": "references/push-one-melodic-grid-and-sequencer.md",
+      "summary": "Open when you need guidance on Push 1 Melodic Grid And Sequencer in Ableton Live.",
+      "keywords": ["Push 1 Melodic Grid And Sequencer", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

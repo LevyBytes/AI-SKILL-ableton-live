@@ -1,0 +1,18 @@
+# Clip Editing And Playback Routes
+
+Open when choosing references for Clip Editing And Playback in Ableton Live.
+
+<a id="clip-view-part-2"></a> [Audio Clip Warp Reverse And Playback](audio-clip-warp-reverse-and-playback.md#source-clip-view-part-2) — Open when you need guidance on Audio Clip Warp Reverse And Playback in Ableton Live.
+<a id="847-clip-gain-and-pitch"></a> [Audio Clip Gain And Pitch](audio-clip-gain-and-pitch.md#source-847-clip-gain-and-pitch) — Open when you need guidance on Audio Clip Gain And Pitch in Ableton Live.
+<a id="85-pitch-and-time-utilities-panel"></a> [MIDI Pitch Time Panel Overview](midi-pitch-time-panel-overview.md#source-85-pitch-and-time-utilities-panel) — Open when you need guidance on MIDI Pitch Time Panel Overview in Ableton Live.
+<a id="851-pitch-tools"></a> [MIDI Pitch And Time Panel Controls](midi-pitch-and-time-panel-controls.md#source-851-pitch-tools) — Open when you need guidance on MIDI Pitch And Time Panel Controls in Ableton Live.
+<a id="852-time-tools"></a> [MIDI Pitch And Time Panel Controls](midi-pitch-and-time-panel-controls.md#source-852-time-tools) — Open when you need guidance on MIDI Pitch And Time Panel Controls in Ableton Live.
+<a id="86-transform-and-generate-panels"></a> [Clip Transform Generation Navigation And Looping](clip-transform-generation-navigation-and-looping.md#source-86-transform-and-generate-panels) — Open when you need guidance on Clip Transform Generation Navigation And Looping in Ableton Live.
+<a id="87-zooming-and-scrolling-in-the-clip-views-editor"></a> [Clip Transform Generation Navigation And Looping](clip-transform-generation-navigation-and-looping.md#source-87-zooming-and-scrolling-in-the-clip-views-editor) — Open when you need guidance on Clip Transform Generation Navigation And Looping in Ableton Live.
+<a id="88-playing-and-scrubbing-clips"></a> [Clip Transform Generation Navigation And Looping](clip-transform-generation-navigation-and-looping.md#source-88-playing-and-scrubbing-clips) — Open when you need guidance on Clip Transform Generation Navigation And Looping in Ableton Live.
+<a id="89-looping-clips"></a> [Clip Transform Generation Navigation And Looping](clip-transform-generation-navigation-and-looping.md#source-89-looping-clips) — Open when you need guidance on Clip Transform Generation Navigation And Looping in Ableton Live.
+<a id="810-clip-view-sample-details"></a> [Clip Transform Generation Navigation And Looping](clip-transform-generation-navigation-and-looping.md#source-810-clip-view-sample-details) — Open when you need guidance on Clip Transform Generation Navigation And Looping in Ableton Live.
+<a id="811-cropping-clips"></a> [Clip Cropping Replacement And Defaults](clip-cropping-replacement-and-defaults.md#source-811-cropping-clips) — Open when you need guidance on Clip Cropping Replacement And Defaults in Ableton Live.
+<a id="812-replacing-and-editing-the-sample"></a> [Clip Cropping Replacement And Defaults](clip-cropping-replacement-and-defaults.md#source-812-replacing-and-editing-the-sample) — Open when you need guidance on Clip Cropping Replacement And Defaults in Ableton Live.
+<a id="813-editing-clip-properties-for-multiple-clips"></a> [Clip Cropping Replacement And Defaults](clip-cropping-replacement-and-defaults.md#source-813-editing-clip-properties-for-multiple-clips) — Open when you need guidance on Clip Cropping Replacement And Defaults in Ableton Live.
+<a id="814-clip-defaults-and-update-rate"></a> [Clip Cropping Replacement And Defaults](clip-cropping-replacement-and-defaults.md#source-814-clip-defaults-and-update-rate) — Open when you need guidance on Clip Cropping Replacement And Defaults in Ableton Live.

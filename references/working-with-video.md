@@ -1,6 +1,6 @@
 # Working With Video
 
-> Ableton Live reference. Original prose; identifiers preserved verbatim.
+Open when you need guidance on Working With Video in Ableton Live.
 
 ### 27. Working with Video
 

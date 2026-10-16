@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Audio Fact Sheet",
+      "file": "references/audio-fact-sheet.md",
+      "summary": "Open when you need guidance on Audio Fact Sheet in Ableton Live.",
+      "keywords": ["Audio Fact Sheet", "Ableton Live"]},
+    {
+      "topic": "Audio Signal Integrity Overview",
+      "file": "references/audio-signal-integrity-overview.md",
+      "summary": "Open when you need guidance on Audio Signal Integrity Overview in Ableton Live.",
+      "keywords": ["Audio Signal Integrity Overview", "Ableton Live"]},
+    {
+      "topic": "Audio Testing And Neutrality",
+      "file": "references/audio-testing-and-neutrality.md",
+      "summary": "Open when you need guidance on Audio Testing And Neutrality in Ableton Live.",
+      "keywords": ["Audio Testing And Neutrality", "Ableton Live"]},
+    {
+      "topic": "Neutral Audio Operations",
+      "file": "references/neutral-audio-operations.md",
+      "summary": "Open when you need guidance on Neutral Audio Operations in Ableton Live.",
+      "keywords": ["Neutral Audio Operations", "Ableton Live"]},
+    {
+      "topic": "Non Neutral Audio Overview",
+      "file": "references/non-neutral-audio-overview.md",
+      "summary": "Open when you need guidance on Non Neutral Audio Overview in Ableton Live.",
+      "keywords": ["Non Neutral Audio Overview", "Ableton Live"]},
+    {
+      "topic": "Audio Altering Operations",
+      "file": "references/audio-altering-operations.md",
+      "summary": "Open when you need guidance on Audio Altering Operations in Ableton Live.",
+      "keywords": ["Audio Altering Operations", "Ableton Live"]},
+    {
+      "topic": "Audio Quality Recording And Export",
+      "file": "references/audio-quality-recording-and-export.md",
+      "summary": "Open when you need guidance on Audio Quality Recording And Export in Ableton Live.",
+      "keywords": ["Audio Quality Recording And Export", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

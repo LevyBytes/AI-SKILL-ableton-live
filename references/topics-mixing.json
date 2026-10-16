@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Mixing",
+      "file": "references/mixing.md",
+      "summary": "Open when you need guidance on Mixing in Ableton Live.",
+      "keywords": ["Mixing", "Ableton Live"]},
+    {
+      "topic": "Mixing Overview",
+      "file": "references/mixing-overview.md",
+      "summary": "Open when you need guidance on Mixing Overview in Ableton Live.",
+      "keywords": ["Mixing Overview", "Ableton Live"]},
+    {
+      "topic": "Mixer Meters Gain And Track Controls",
+      "file": "references/mixer-meters-gain-and-track-controls.md",
+      "summary": "Open when you need guidance on Mixer Meters Gain And Track Controls in Ableton Live.",
+      "keywords": ["Mixer Meters Gain And Track Controls", "Ableton Live"]},
+    {
+      "topic": "Mixer Display And Pan Modes",
+      "file": "references/mixer-display-and-pan-modes.md",
+      "summary": "Open when you need guidance on Mixer Display And Pan Modes in Ableton Live.",
+      "keywords": ["Mixer Display And Pan Modes", "Ableton Live"]},
+    {
+      "topic": "Audio MIDI Group Return And Main Tracks",
+      "file": "references/audio-midi-group-return-and-main-tracks.md",
+      "summary": "Open when you need guidance on Audio MIDI Group Return And Main Tracks in Ableton Live.",
+      "keywords": ["Audio MIDI Group Return And Main Tracks", "Ableton Live"]},
+    {
+      "topic": "Crossfading Cueing And Track Latency",
+      "file": "references/crossfading-cueing-and-track-latency.md",
+      "summary": "Open when you need guidance on Crossfading Cueing And Track Latency in Ableton Live.",
+      "keywords": ["Crossfading Cueing And Track Latency", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

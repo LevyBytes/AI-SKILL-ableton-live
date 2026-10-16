@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Editing Midi (part 1)",
+      "file": "references/topics-editing-midi.json",
+      "summary": "Open when creating MIDI clips and drawing, selecting, moving, or resizing notes in the MIDI Note Editor.",
+      "keywords": ["editing-midi-part-1", "reference"]},
+    {
+      "topic": "MIDI Note Operations",
+      "file": "references/topics-midi-note-operations.json",
+      "summary": "Open when stretching or quantizing MIDI notes, editing velocity and probability, or applying note operations and pitch or time utilities.",
+      "keywords": ["MIDI Note Operations", "Ableton Live"]},
+    {
+      "topic": "MIDI Scales And Clips",
+      "file": "references/topics-midi-scales-and-clips.json",
+      "summary": "Open when folding MIDI pitches, cropping or looping MIDI clips, editing time, or editing multiple clips together.",
+      "keywords": ["MIDI Scales And Clips", "Ableton Live"]},
+    {
+      "topic": "Midi Tools (part 1)",
+      "file": "references/topics-midi-tools.json",
+      "summary": "Open when applying MIDI transformations such as Arpeggiate, Chop, Quantize, Strum, or Time Warp to existing notes.",
+      "keywords": ["midi-tools-part-1", "reference"]},
+    {
+      "topic": "MIDI Generation And Velocity",
+      "file": "references/topics-midi-generation-and-velocity.json",
+      "summary": "Open when shaping note velocities or generating MIDI patterns with Rhythm, Seed, Shape, Stacks, or Euclidean.",
+      "keywords": ["MIDI Generation And Velocity", "Ableton Live"]},
+    {
+      "topic": "MPE And Audio MIDI",
+      "file": "references/topics-mpe-and-audio-midi.json",
+      "summary": "Open when editing per-note MPE expression, configuring MPE channels, or converting and slicing audio into MIDI.",
+      "keywords": ["MPE And Audio MIDI", "Ableton Live"]},
+    {
+      "topic": "Grooves And Tuning",
+      "file": "references/topics-grooves-and-tuning.json",
+      "summary": "Open when applying or extracting grooves, adjusting the Groove Pool, or loading and configuring tuning systems.",
+      "keywords": ["Grooves And Tuning", "Ableton Live"]},
+    {
+      "topic": "Live Midi Effect Reference",
+      "file": "references/topics-live-midi-effect-reference.json",
+      "summary": "Open when processing incoming MIDI with Arpeggiator, CC Control, Chord, Note Length, Pitch, Random, Scale, or Velocity.",
+      "keywords": ["live-midi-effect-reference", "reference"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

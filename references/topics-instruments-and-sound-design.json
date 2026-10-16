@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Analog And Collision",
+      "file": "references/topics-analog-and-collision.json",
+      "summary": "Open when designing Analog synthesizer sounds or configuring Collision mallet and noise excitation.",
+      "keywords": ["Analog And Collision", "Ableton Live"]},
+    {
+      "topic": "Collision And Drift",
+      "file": "references/topics-collision-and-drift.json",
+      "summary": "Open when adjusting Collision resonators and expression or designing Drift oscillator, filter, envelope, and modulation settings.",
+      "keywords": ["Collision And Drift", "Ableton Live"]},
+    {
+      "topic": "Drift Drums Electric And External",
+      "file": "references/topics-drift-drums-electric-and-external.json",
+      "summary": "Open when setting Drift voice behavior, designing Drum Sampler or Electric sounds, connecting External Instrument, or loading Impulse samples.",
+      "keywords": ["Drift Drums Electric And External", "Ableton Live"]},
+    {
+      "topic": "Impulse And Meld",
+      "file": "references/topics-impulse-and-meld.json",
+      "summary": "Open when editing Impulse sample parameters and outputs or configuring Meld oscillators, modulation, expression, and filters.",
+      "keywords": ["Impulse And Meld", "Ableton Live"]},
+    {
+      "topic": "Meld And Operator",
+      "file": "references/topics-meld-and-operator.json",
+      "summary": "Open when adjusting Meld mixing and global behavior or programming Operator oscillators, envelopes, filters, and modulation.",
+      "keywords": ["Meld And Operator", "Ableton Live"]},
+    {
+      "topic": "Operator And Sampler",
+      "file": "references/topics-operator-and-sampler.json",
+      "summary": "Open when looking up Operator parameters and voice or CPU settings, or starting a Sampler instrument and multisampling workflow.",
+      "keywords": ["Operator And Sampler", "Ableton Live"]},
+    {
+      "topic": "Sampler Zones And Playback",
+      "file": "references/topics-sampler-zones-and-playback.json",
+      "summary": "Open when mapping Sampler zones, editing sample playback and loops, or configuring pitch and oscillator modulation.",
+      "keywords": ["Sampler Zones And Playback", "Ableton Live"]},
+    {
+      "topic": "Sampler Modulation And Simpler",
+      "file": "references/topics-sampler-modulation-and-simpler.json",
+      "summary": "Open when configuring Sampler filters, modulation, MIDI, or multisample imports, or choosing Simpler playback and warp modes.",
+      "keywords": ["Sampler Modulation And Simpler", "Ableton Live"]},
+    {
+      "topic": "Simpler And Tension",
+      "file": "references/topics-simpler-and-tension.json",
+      "summary": "Open when adjusting Simpler filters, envelopes, LFOs, and global settings, or designing Tension string excitation and damping.",
+      "keywords": ["Simpler And Tension", "Ableton Live"]},
+    {
+      "topic": "Tension And Wavetable",
+      "file": "references/topics-tension-and-wavetable.json",
+      "summary": "Open when shaping Tension pickup and filter behavior or programming Wavetable oscillators, filters, and modulation routing.",
+      "keywords": ["Tension And Wavetable", "Ableton Live"]},
+    {
+      "topic": "Wavetable Modulation MIDI And Unison",
+      "file": "references/wavetable-modulation-midi-and-unison.md",
+      "summary": "Open when you need guidance on Wavetable Modulation MIDI And Unison in Ableton Live.",
+      "keywords": ["Wavetable Modulation MIDI And Unison", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

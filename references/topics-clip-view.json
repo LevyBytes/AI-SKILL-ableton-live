@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Clip View",
+      "file": "references/clip-view.md",
+      "summary": "Open when you need guidance on Clip View in Ableton Live.",
+      "keywords": ["Clip View", "Ableton Live"]},
+    {
+      "topic": "Clip View Overview",
+      "file": "references/clip-view-overview.md",
+      "summary": "Open when you need guidance on Clip View Overview in Ableton Live.",
+      "keywords": ["Clip View Overview", "Ableton Live"]},
+    {
+      "topic": "Clip View Layout",
+      "file": "references/clip-view-layout.md",
+      "summary": "Open when you need guidance on Clip View Layout in Ableton Live.",
+      "keywords": ["Clip View Layout", "Ableton Live"]},
+    {
+      "topic": "Clip Title Bar Overview",
+      "file": "references/clip-title-bar-overview.md",
+      "summary": "Open when you need guidance on Clip Title Bar Overview in Ableton Live.",
+      "keywords": ["Clip Title Bar Overview", "Ableton Live"]},
+    {
+      "topic": "Clip Activation Names Colors And Defaults",
+      "file": "references/clip-activation-names-colors-and-defaults.md",
+      "summary": "Open when you need guidance on Clip Activation Names Colors And Defaults in Ableton Live.",
+      "keywords": ["Clip Activation Names Colors And Defaults", "Ableton Live"]},
+    {
+      "topic": "Clip Panels And Editor Modes",
+      "file": "references/clip-panels-and-editor-modes.md",
+      "summary": "Open when you need guidance on Clip Panels And Editor Modes in Ableton Live.",
+      "keywords": ["Clip Panels And Editor Modes", "Ableton Live"]},
+    {
+      "topic": "Main Clip Properties Overview",
+      "file": "references/main-clip-properties-overview.md",
+      "summary": "Open when you need guidance on Main Clip Properties Overview in Ableton Live.",
+      "keywords": ["Main Clip Properties Overview", "Ableton Live"]},
+    {
+      "topic": "Clip Loop Meter Groove And Scale",
+      "file": "references/clip-loop-meter-groove-and-scale.md",
+      "summary": "Open when you need guidance on Clip Loop Meter Groove And Scale in Ableton Live.",
+      "keywords": ["Clip Loop Meter Groove And Scale", "Ableton Live"]},
+    {
+      "topic": "Extended Clip Properties Overview",
+      "file": "references/extended-clip-properties-overview.md",
+      "summary": "Open when you need guidance on Extended Clip Properties Overview in Ableton Live.",
+      "keywords": ["Extended Clip Properties Overview", "Ableton Live"]},
+    {
+      "topic": "Clip Launch And MIDI Program Controls",
+      "file": "references/clip-launch-and-midi-program-controls.md",
+      "summary": "Open when you need guidance on Clip Launch And MIDI Program Controls in Ableton Live.",
+      "keywords": ["Clip Launch And MIDI Program Controls", "Ableton Live"]},
+    {
+      "topic": "Audio Clip Utilities Overview",
+      "file": "references/audio-clip-utilities-overview.md",
+      "summary": "Open when you need guidance on Audio Clip Utilities Overview in Ableton Live.",
+      "keywords": ["Audio Clip Utilities Overview", "Ableton Live"]},
+    {
+      "topic": "Audio Clip Warp Reverse And Playback",
+      "file": "references/audio-clip-warp-reverse-and-playback.md",
+      "summary": "Open when you need guidance on Audio Clip Warp Reverse And Playback in Ableton Live.",
+      "keywords": ["Audio Clip Warp Reverse And Playback", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Redux Resonators Reverb And Roar Routes",
+      "file": "references/redux-resonators-reverb-and-roar-routes.md",
+      "summary": "Open when choosing references for Redux Resonators Reverb And Roar in Ableton Live.",
+      "keywords": ["Redux Resonators Reverb And Roar Routes", "Ableton Live"]},
+    {
+      "topic": "Redux Downsampling Bit Depth And Mix",
+      "file": "references/redux-downsampling-bit-depth-and-mix.md",
+      "summary": "Open when you need guidance on Redux Downsampling Bit Depth And Mix in Ableton Live.",
+      "keywords": ["Redux Downsampling Bit Depth And Mix", "Ableton Live"]},
+    {
+      "topic": "Resonators And Reverb",
+      "file": "references/resonators-and-reverb.md",
+      "summary": "Open when you need guidance on Resonators And Reverb in Ableton Live.",
+      "keywords": ["Resonators And Reverb", "Ableton Live"]},
+    {
+      "topic": "Reverb Reflections Diffusion And Output",
+      "file": "references/reverb-reflections-diffusion-and-output.md",
+      "summary": "Open when you need guidance on Reverb Reflections Diffusion And Output in Ableton Live.",
+      "keywords": ["Reverb Reflections Diffusion And Output", "Ableton Live"]},
+    {
+      "topic": "Roar Overview",
+      "file": "references/roar-overview.md",
+      "summary": "Open when you need guidance on Roar Overview in Ableton Live.",
+      "keywords": ["Roar Overview", "Ableton Live"]},
+    {
+      "topic": "Roar Input And Gain Stages",
+      "file": "references/roar-input-and-gain-stages.md",
+      "summary": "Open when you need guidance on Roar Input And Gain Stages in Ableton Live.",
+      "keywords": ["Roar Input And Gain Stages", "Ableton Live"]},
+    {
+      "topic": "Roar Modulation Feedback And Global Controls",
+      "file": "references/roar-modulation-feedback-and-global-controls.md",
+      "summary": "Open when you need guidance on Roar Modulation Feedback And Global Controls in Ableton Live.",
+      "keywords": ["Roar Modulation Feedback And Global Controls", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

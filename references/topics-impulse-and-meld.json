@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Impulse And Meld Routes",
+      "file": "references/impulse-and-meld-routes.md",
+      "summary": "Open when choosing references for Impulse And Meld in Ableton Live.",
+      "keywords": ["Impulse And Meld Routes", "Ableton Live"]},
+    {
+      "topic": "Impulse Sample Loading And Preview",
+      "file": "references/impulse-sample-loading-and-preview.md",
+      "summary": "Open when you need guidance on Impulse Sample Loading And Preview in Ableton Live.",
+      "keywords": ["Impulse Sample Loading And Preview", "Ableton Live"]},
+    {
+      "topic": "Impulse Sample Shaping And Outputs",
+      "file": "references/impulse-sample-shaping-and-outputs.md",
+      "summary": "Open when you need guidance on Impulse Sample Shaping And Outputs in Ableton Live.",
+      "keywords": ["Impulse Sample Shaping And Outputs", "Ableton Live"]},
+    {
+      "topic": "Meld Overview",
+      "file": "references/meld-overview.md",
+      "summary": "Open when you need guidance on Meld Overview in Ableton Live.",
+      "keywords": ["Meld Overview", "Ableton Live"]},
+    {
+      "topic": "Meld Oscillators Macros And Envelopes",
+      "file": "references/meld-oscillators-macros-and-envelopes.md",
+      "summary": "Open when you need guidance on Meld Oscillators Macros And Envelopes in Ableton Live.",
+      "keywords": ["Meld Oscillators Macros And Envelopes", "Ableton Live"]},
+    {
+      "topic": "Meld LFO Matrix MIDI And Settings",
+      "file": "references/meld-lfo-matrix-midi-and-settings.md",
+      "summary": "Open when you need guidance on Meld LFO Matrix MIDI And Settings in Ableton Live.",
+      "keywords": ["Meld LFO Matrix MIDI And Settings", "Ableton Live"]},
+    {
+      "topic": "Meld Filters And Resonators",
+      "file": "references/meld-filters-and-resonators.md",
+      "summary": "Open when you need guidance on Meld Filters And Resonators in Ableton Live.",
+      "keywords": ["Meld Filters And Resonators", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

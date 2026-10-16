@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Tension And Wavetable Routes",
+      "file": "references/tension-and-wavetable-routes.md",
+      "summary": "Open when choosing references for Tension And Wavetable in Ableton Live.",
+      "keywords": ["Tension And Wavetable Routes", "Ableton Live"]},
+    {
+      "topic": "Tension Damper And String Termination",
+      "file": "references/tension-damper-and-string-termination.md",
+      "summary": "Open when you need guidance on Tension Damper And String Termination in Ableton Live.",
+      "keywords": ["Tension Damper And String Termination", "Ableton Live"]},
+    {
+      "topic": "Tension Pickup And Body Resonance",
+      "file": "references/tension-pickup-and-body-resonance.md",
+      "summary": "Open when you need guidance on Tension Pickup And Body Resonance in Ableton Live.",
+      "keywords": ["Tension Pickup And Body Resonance", "Ableton Live"]},
+    {
+      "topic": "Tension Filter Global And Sound Design",
+      "file": "references/tension-filter-global-and-sound-design.md",
+      "summary": "Open when you need guidance on Tension Filter Global And Sound Design in Ableton Live.",
+      "keywords": ["Tension Filter Global And Sound Design", "Ableton Live"]},
+    {
+      "topic": "Wavetable Overview",
+      "file": "references/wavetable-overview.md",
+      "summary": "Open when you need guidance on Wavetable Overview in Ableton Live.",
+      "keywords": ["Wavetable Overview", "Ableton Live"]},
+    {
+      "topic": "Wavetable Oscillators Sub And Filters",
+      "file": "references/wavetable-oscillators-sub-and-filters.md",
+      "summary": "Open when you need guidance on Wavetable Oscillators Sub And Filters in Ableton Live.",
+      "keywords": ["Wavetable Oscillators Sub And Filters", "Ableton Live"]},
+    {
+      "topic": "Wavetable Matrix And Envelope Modulation",
+      "file": "references/wavetable-matrix-and-envelope-modulation.md",
+      "summary": "Open when you need guidance on Wavetable Matrix And Envelope Modulation in Ableton Live.",
+      "keywords": ["Wavetable Matrix And Envelope Modulation", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

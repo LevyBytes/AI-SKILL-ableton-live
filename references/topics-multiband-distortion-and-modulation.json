@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Multiband Distortion And Modulation Routes",
+      "file": "references/multiband-distortion-and-modulation-routes.md",
+      "summary": "Open when choosing references for Multiband Distortion And Modulation in Ableton Live.",
+      "keywords": ["Multiband Distortion And Modulation Routes", "Ableton Live"]},
+    {
+      "topic": "Multiband Dynamics Theory And Band Controls",
+      "file": "references/multiband-dynamics-theory-and-band-controls.md",
+      "summary": "Open when you need guidance on Multiband Dynamics Theory And Band Controls in Ableton Live.",
+      "keywords": ["Multiband Dynamics Theory And Band Controls", "Ableton Live"]},
+    {
+      "topic": "Multiband Dynamics Sidechain",
+      "file": "references/multiband-dynamics-sidechain.md",
+      "summary": "Open when you need guidance on Multiband Dynamics Sidechain in Ableton Live.",
+      "keywords": ["Multiband Dynamics Sidechain", "Ableton Live"]},
+    {
+      "topic": "Multiband Compression Deessing And Uncompression",
+      "file": "references/multiband-compression-deessing-and-uncompression.md",
+      "summary": "Open when you need guidance on Multiband Compression Deessing And Uncompression in Ableton Live.",
+      "keywords": ["Multiband Compression Deessing And Uncompression", "Ableton Live"]},
+    {
+      "topic": "Overdrive And Pedal",
+      "file": "references/overdrive-and-pedal.md",
+      "summary": "Open when you need guidance on Overdrive And Pedal in Ableton Live.",
+      "keywords": ["Overdrive And Pedal", "Ableton Live"]},
+    {
+      "topic": "Pedal Placement And Distortion Recipes",
+      "file": "references/pedal-placement-and-distortion-recipes.md",
+      "summary": "Open when you need guidance on Pedal Placement And Distortion Recipes in Ableton Live.",
+      "keywords": ["Pedal Placement And Distortion Recipes", "Ableton Live"]},
+    {
+      "topic": "Phaser Flanger And Redux",
+      "file": "references/phaser-flanger-and-redux.md",
+      "summary": "Open when you need guidance on Phaser Flanger And Redux in Ableton Live.",
+      "keywords": ["Phaser Flanger And Redux", "Ableton Live"]},
+    {
+      "topic": "Redux Downsampling Bit Depth And Mix",
+      "file": "references/redux-downsampling-bit-depth-and-mix.md",
+      "summary": "Open when you need guidance on Redux Downsampling Bit Depth And Mix in Ableton Live.",
+      "keywords": ["Redux Downsampling Bit Depth And Mix", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

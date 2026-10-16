@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Live MIDI Effect Reference",
+      "file": "references/live-midi-effect-reference.md",
+      "summary": "Open when you need guidance on Live MIDI Effect Reference in Ableton Live.",
+      "keywords": ["Live MIDI Effect Reference", "Ableton Live"]},
+    {
+      "topic": "MIDI Effects Overview",
+      "file": "references/midi-effects-overview.md",
+      "summary": "Open when you need guidance on MIDI Effects Overview in Ableton Live.",
+      "keywords": ["MIDI Effects Overview", "Ableton Live"]},
+    {
+      "topic": "Arpeggiator And CC Control",
+      "file": "references/arpeggiator-and-cc-control.md",
+      "summary": "Open when you need guidance on Arpeggiator And CC Control in Ableton Live.",
+      "keywords": ["Arpeggiator And CC Control", "Ableton Live"]},
+    {
+      "topic": "Chord Note Length And Pitch",
+      "file": "references/chord-note-length-and-pitch.md",
+      "summary": "Open when you need guidance on Chord Note Length And Pitch in Ableton Live.",
+      "keywords": ["Chord Note Length And Pitch", "Ableton Live"]},
+    {
+      "topic": "Random Scale And Velocity",
+      "file": "references/random-scale-and-velocity.md",
+      "summary": "Open when you need guidance on Random Scale And Velocity in Ableton Live.",
+      "keywords": ["Random Scale And Velocity", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

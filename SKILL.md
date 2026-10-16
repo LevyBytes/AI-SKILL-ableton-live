@@ -1,33 +1,40 @@
 ---
 name: ableton-live
-description: Use when working with Ableton Live 12 (the DAW): the Arrangement and Session views; clips and the Clip View; audio warping and tempo; MIDI and MPE editing; MIDI tools; converting audio to MIDI; comping; stem separation; recording; routing and I/O; mixing; automation and clip envelopes; instrument/drum/effect racks; the browser and managing files/sets; Live's built-in instruments, audio effects, and MIDI effects; Max for Live; Push 1 and Push 2; Link/tempo sync; tuning systems; keyboard shortcuts; and accessibility. The official Live 12 Reference Manual. Not for other DAWs.
+description: >-
+  Use when working with Ableton Live 12 (the DAW): the Arrangement and Session views; clips and the Clip View; audio warping and tempo; MIDI and MPE editing; MIDI tools; converting audio to MIDI; comping; stem separation; recording; routing and I/O; mixing; automation and clip envelopes; instrument/drum/effect racks; the browser and managing files/sets; Live's built-in instruments, audio effects, and MIDI effects; Max for Live; Push 1 and Push 2; Link/tempo sync; tuning systems; keyboard shortcuts; and accessibility. The official Live 12 Reference Manual. Not for other DAWs.
+metadata:
+  last-updated: "2026-10-09"
 ---
 
-# Ableton Live 12 Reference
+# Context Router
 
-Faithful reference for Ableton Live 12, split into one focused file per subject across 78 reference files.
-Identifiers (API/type/function names, flags, paths, enums, numbers) are preserved verbatim.
+Choose references for the Live 12 task; match the Push generation and documented platform.
 
-## When to use this
+| Task | Read |
+| --- | --- |
+| Open when setting up Live, navigating its views, finding shortcuts, or using accessibility features. | [Getting started and navigation](references/topics-getting-started-and-navigation.json) |
+| Open when finding sounds and Packs, browsing libraries, or managing Live Sets and project files. | [Browser and project files](references/topics-browser-and-project-files.json) |
+| Open when arranging clips on the timeline, performing with Session clips, or configuring clip launch behavior. | [Arrangement and clip performance](references/arrangement-and-clip-performance-index.md) |
+| Open when editing audio clips, warping recordings, separating stems, or aligning video and audio. | [Audio clips and editing](references/topics-audio-clips-and-editing.json) |
+| Open when editing MIDI notes, applying MIDI tools or effects, or configuring MPE, grooves, and tuning. | [MIDI notes and expression](references/topics-midi-notes-and-expression.json) |
+| Open when recording performances, routing audio or MIDI, building a comp, or mixing tracks. | [Recording, routing, and mixing](references/recording-routing-and-mixing-index.md) |
+| Open when adding devices or plug-ins, building Racks, or mapping Macro Controls. | [Devices, racks, and plug-ins](references/devices-racks-and-plug-ins-index.md) |
+| Open when recording or editing automation, or modulating parameters with clip envelopes. | [Automation and modulation](references/automation-and-modulation-index.md) |
+| Open when selecting or configuring a built-in Live audio effect. | [Audio effects](references/topics-audio-effects.json) |
+| Open when configuring a built-in Live instrument or designing a synthesizer or sampler sound. | [Instruments and sound design](references/topics-instruments-and-sound-design.json) |
+| Open when setting up, editing, or using Max for Live devices and MIDI Tools. | [Max for Live](references/topics-max-for-live.json) |
+| Open when mapping external controllers or synchronizing Live with other devices and applications. | [Controllers and synchronization](references/topics-controllers-and-synchronization.json) |
+| Open when playing, sequencing, recording, or controlling Live with Push 1. | [Push 1](references/push-1-index.md) |
+| Open when playing, sequencing, editing samples, or controlling Live with Push 2. | [Push 2](references/push-2-index.md) |
+| Open when diagnosing CPU load, audio dropouts, signal changes, MIDI latency, or timing jitter. | [Performance and signal integrity](references/topics-performance-and-signal-integrity.json) |
+| Open when checking the manual contributors, copyright, version, or licensing notice. | [Manual attribution](references/topics-manual-attribution.json) |
 
-Use this skill when the task involves Ableton Live 12 — the Arrangement and Session views, clips, audio warping and tempo, MIDI and MPE editing, MIDI tools, audio-to-MIDI conversion, comping, stem separation, recording, routing and I/O, mixing, automation and clip envelopes, instrument/drum/effect racks, the browser and managing files and sets, the built-in instrument/audio-effect/MIDI-effect references, Max for Live, Push 1 and Push 2, Link and tempo sync, tuning systems, keyboard shortcuts, and accessibility.
+[Reference index](references/INDEX.md) / [Topic catalog](references/topics.json)
 
-## Workflow
+# Language Translations
 
-1. Open `references/INDEX.md` (or `references/topics.json`) and pick the one file that matches.
-2. Read only that file; open another only if the task spans subjects. Grep across files when needed: `rg -n "PATTERN" references/*.md`.
-3. Treat every identifier as an exact reference fact — never invent or paraphrase.
+[Reference Language Selection](references/languages.md)
 
-## Gotchas
+# Context For Open Source
 
-Recurring failure modes and what to do instead live in the sibling [GOTCHA.md](GOTCHA.md).
-
-## References
-
-All depth lives in `references/` — start at `references/INDEX.md`, metadata in `references/topics.json`. One subject per file.
-
-## Verification
-
-```powershell
-python .agents/skills/skill-drafting/scripts/validate_skill_package.py D:/dev/SKILLS/AI/work/recon-staged/working/ableton-live
-```
+Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://www.ableton.com/en/live-manual/12/) when dealing with defects or issues that may come up from interpreting this skill's references.

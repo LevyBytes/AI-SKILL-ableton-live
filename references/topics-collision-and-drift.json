@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Collision And Drift Routes",
+      "file": "references/collision-and-drift-routes.md",
+      "summary": "Open when choosing references for Collision And Drift in Ableton Live.",
+      "keywords": ["Collision And Drift Routes", "Ableton Live"]},
+    {
+      "topic": "Collision Mallet Noise And Architecture",
+      "file": "references/collision-mallet-noise-and-architecture.md",
+      "summary": "Open when you need guidance on Collision Mallet Noise And Architecture in Ableton Live.",
+      "keywords": ["Collision Mallet Noise And Architecture", "Ableton Live"]},
+    {
+      "topic": "Collision Resonator Models And Decay",
+      "file": "references/collision-resonator-models-and-decay.md",
+      "summary": "Open when you need guidance on Collision Resonator Models And Decay in Ableton Live.",
+      "keywords": ["Collision Resonator Models And Decay", "Ableton Live"]},
+    {
+      "topic": "Collision Resonator Tuning And Mixer",
+      "file": "references/collision-resonator-tuning-and-mixer.md",
+      "summary": "Open when you need guidance on Collision Resonator Tuning And Mixer in Ableton Live.",
+      "keywords": ["Collision Resonator Tuning And Mixer", "Ableton Live"]},
+    {
+      "topic": "Collision LFO MIDI And MPE",
+      "file": "references/collision-lfo-midi-and-mpe.md",
+      "summary": "Open when you need guidance on Collision LFO MIDI And MPE in Ableton Live.",
+      "keywords": ["Collision LFO MIDI And MPE", "Ableton Live"]},
+    {
+      "topic": "Collision Resonator Routing And Voices",
+      "file": "references/collision-resonator-routing-and-voices.md",
+      "summary": "Open when you need guidance on Collision Resonator Routing And Voices in Ableton Live.",
+      "keywords": ["Collision Resonator Routing And Voices", "Ableton Live"]},
+    {
+      "topic": "Collision Sound Design Techniques",
+      "file": "references/collision-sound-design-techniques.md",
+      "summary": "Open when you need guidance on Collision Sound Design Techniques in Ableton Live.",
+      "keywords": ["Collision Sound Design Techniques", "Ableton Live"]},
+    {
+      "topic": "Drift Overview",
+      "file": "references/drift-overview.md",
+      "summary": "Open when you need guidance on Drift Overview in Ableton Live.",
+      "keywords": ["Drift Overview", "Ableton Live"]},
+    {
+      "topic": "Drift Subtractive Synthesis And Oscillator Overview",
+      "file": "references/drift-subtractive-synthesis-and-oscillator-overview.md",
+      "summary": "Open when you need guidance on Drift Subtractive Synthesis And Oscillator Overview in Ableton Live.",
+      "keywords": ["Drift Subtractive Synthesis And Oscillator Overview", "Ableton Live"]},
+    {
+      "topic": "Drift Oscillators Pitch And Mixer",
+      "file": "references/drift-oscillators-pitch-and-mixer.md",
+      "summary": "Open when you need guidance on Drift Oscillators Pitch And Mixer in Ableton Live.",
+      "keywords": ["Drift Oscillators Pitch And Mixer", "Ableton Live"]},
+    {
+      "topic": "Drift Filter And Envelope Overview",
+      "file": "references/drift-filter-and-envelope-overview.md",
+      "summary": "Open when you need guidance on Drift Filter And Envelope Overview in Ableton Live.",
+      "keywords": ["Drift Filter And Envelope Overview", "Ableton Live"]},
+    {
+      "topic": "Drift Envelope Controls",
+      "file": "references/drift-envelope-controls.md",
+      "summary": "Open when you need guidance on Drift Envelope Controls in Ableton Live.",
+      "keywords": ["Drift Envelope Controls", "Ableton Live"]},
+    {
+      "topic": "Drift LFO Modulation And Global Controls",
+      "file": "references/drift-lfo-modulation-and-global-controls.md",
+      "summary": "Open when you need guidance on Drift LFO Modulation And Global Controls in Ableton Live.",
+      "keywords": ["Drift LFO Modulation And Global Controls", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

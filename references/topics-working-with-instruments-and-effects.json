@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Working With Instruments And Effects",
+      "file": "references/working-with-instruments-and-effects.md",
+      "summary": "Open when you need guidance on Working With Instruments And Effects in Ableton Live.",
+      "keywords": ["Working With Instruments And Effects", "Ableton Live"]},
+    {
+      "topic": "Instruments And Effects Overview",
+      "file": "references/instruments-and-effects-overview.md",
+      "summary": "Open when you need guidance on Instruments And Effects Overview in Ableton Live.",
+      "keywords": ["Instruments And Effects Overview", "Ableton Live"]},
+    {
+      "topic": "Device View And Device Chains",
+      "file": "references/device-view-and-device-chains.md",
+      "summary": "Open when you need guidance on Device View And Device Chains in Ableton Live.",
+      "keywords": ["Device View And Device Chains", "Ableton Live"]},
+    {
+      "topic": "Device Title A/B Comparison And Presets",
+      "file": "references/device-title-ab-comparison-and-presets.md",
+      "summary": "Open when you need guidance on Device Title A/B Comparison And Presets in Ableton Live.",
+      "keywords": ["Device Title A/B Comparison And Presets", "Ableton Live"]},
+    {
+      "topic": "Device Preset Hot Swapping",
+      "file": "references/device-preset-hot-swapping.md",
+      "summary": "Open when you need guidance on Device Preset Hot Swapping in Ableton Live.",
+      "keywords": ["Device Preset Hot Swapping", "Ableton Live"]},
+    {
+      "topic": "Drum And Sampler Sample Hot Swapping",
+      "file": "references/drum-and-sampler-sample-hot-swapping.md",
+      "summary": "Open when you need guidance on Drum And Sampler Sample Hot Swapping in Ableton Live.",
+      "keywords": ["Drum And Sampler Sample Hot Swapping", "Ableton Live"]},
+    {
+      "topic": "Preset Saving And Defaults",
+      "file": "references/preset-saving-and-defaults.md",
+      "summary": "Open when you need guidance on Preset Saving And Defaults in Ableton Live.",
+      "keywords": ["Preset Saving And Defaults", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

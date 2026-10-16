@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Sampler Modulation And Simpler Routes",
+      "file": "references/sampler-modulation-and-simpler-routes.md",
+      "summary": "Open when choosing references for Sampler Modulation And Simpler in Ableton Live.",
+      "keywords": ["Sampler Modulation And Simpler Routes", "Ableton Live"]},
+    {
+      "topic": "Sampler Modulation Oscillator",
+      "file": "references/sampler-modulation-oscillator.md",
+      "summary": "Open when you need guidance on Sampler Modulation Oscillator in Ableton Live.",
+      "keywords": ["Sampler Modulation Oscillator", "Ableton Live"]},
+    {
+      "topic": "Sampler Pitch Envelope",
+      "file": "references/sampler-pitch-envelope.md",
+      "summary": "Open when you need guidance on Sampler Pitch Envelope in Ableton Live.",
+      "keywords": ["Sampler Pitch Envelope", "Ableton Live"]},
+    {
+      "topic": "Sampler Filter Volume Envelope And Globals",
+      "file": "references/sampler-filter-volume-envelope-and-globals.md",
+      "summary": "Open when you need guidance on Sampler Filter Volume Envelope And Globals in Ableton Live.",
+      "keywords": ["Sampler Filter Volume Envelope And Globals", "Ableton Live"]},
+    {
+      "topic": "Sampler Auxiliary Envelope And LFOs",
+      "file": "references/sampler-auxiliary-envelope-and-lfos.md",
+      "summary": "Open when you need guidance on Sampler Auxiliary Envelope And LFOs in Ableton Live.",
+      "keywords": ["Sampler Auxiliary Envelope And LFOs", "Ableton Live"]},
+    {
+      "topic": "Sampler MIDI And Multisample Imports",
+      "file": "references/sampler-midi-and-multisample-imports.md",
+      "summary": "Open when you need guidance on Sampler MIDI And Multisample Imports in Ableton Live.",
+      "keywords": ["Sampler MIDI And Multisample Imports", "Ableton Live"]},
+    {
+      "topic": "Simpler Overview",
+      "file": "references/simpler-overview.md",
+      "summary": "Open when you need guidance on Simpler Overview in Ableton Live.",
+      "keywords": ["Simpler Overview", "Ableton Live"]},
+    {
+      "topic": "Simpler Playback Modes Overview",
+      "file": "references/simpler-playback-modes-overview.md",
+      "summary": "Open when you need guidance on Simpler Playback Modes Overview in Ableton Live.",
+      "keywords": ["Simpler Playback Modes Overview", "Ableton Live"]},
+    {
+      "topic": "Simpler Classic One Shot And Slicing",
+      "file": "references/simpler-classic-one-shot-and-slicing.md",
+      "summary": "Open when you need guidance on Simpler Classic One Shot And Slicing in Ableton Live.",
+      "keywords": ["Simpler Classic One Shot And Slicing", "Ableton Live"]},
+    {
+      "topic": "Simpler Warp Controls And Filter Overview",
+      "file": "references/simpler-warp-controls-and-filter-overview.md",
+      "summary": "Open when you need guidance on Simpler Warp Controls And Filter Overview in Ableton Live.",
+      "keywords": ["Simpler Warp Controls And Filter Overview", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

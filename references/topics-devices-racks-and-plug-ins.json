@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Working With Instruments And Effects (part 1)",
+      "file": "references/topics-working-with-instruments-and-effects.json",
+      "summary": "Open when adding or arranging devices, comparing A/B settings, hot-swapping sounds, or saving presets and defaults.",
+      "keywords": ["working-with-instruments-and-effects-part-1", "reference"]},
+    {
+      "topic": "Device Presets And Plug In",
+      "file": "references/topics-device-presets-and-plug-in.json",
+      "summary": "Open when configuring VST plug-ins or macOS Audio Units, exposing plug-in parameters, using sidechains, or handling device delay compensation.",
+      "keywords": ["Device Presets And Plug In", "Ableton Live"]},
+    {
+      "topic": "Instrument Drum And Effect Racks (part 1)",
+      "file": "references/topics-instrument-drum-and-effect-racks.json",
+      "summary": "Open when building Instrument, Drum, or Effect Racks with parallel chains, key or velocity zones, and Macro Controls.",
+      "keywords": ["instrument-drum-and-effect-racks-part-1", "reference"]},
+    {
+      "topic": "Rack Macro Mapping Variations And Mixing",
+      "file": "references/rack-macro-mapping-variations-and-mixing.md",
+      "summary": "Open when you need guidance on Rack Macro Mapping Variations And Mixing in Ableton Live.",
+      "keywords": ["Rack Macro Mapping Variations And Mixing", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

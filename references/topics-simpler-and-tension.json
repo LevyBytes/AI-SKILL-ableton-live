@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Simpler And Tension Routes",
+      "file": "references/simpler-and-tension-routes.md",
+      "summary": "Open when choosing references for Simpler And Tension in Ableton Live.",
+      "keywords": ["Simpler And Tension Routes", "Ableton Live"]},
+    {
+      "topic": "Simpler Filter Types And Controls",
+      "file": "references/simpler-filter-types-and-controls.md",
+      "summary": "Open when you need guidance on Simpler Filter Types And Controls in Ableton Live.",
+      "keywords": ["Simpler Filter Types And Controls", "Ableton Live"]},
+    {
+      "topic": "Simpler Envelopes LFO And Global Controls",
+      "file": "references/simpler-envelopes-lfo-and-global-controls.md",
+      "summary": "Open when you need guidance on Simpler Envelopes LFO And Global Controls in Ableton Live.",
+      "keywords": ["Simpler Envelopes LFO And Global Controls", "Ableton Live"]},
+    {
+      "topic": "Tension Overview",
+      "file": "references/tension-overview.md",
+      "summary": "Open when you need guidance on Tension Overview in Ableton Live.",
+      "keywords": ["Tension Overview", "Ableton Live"]},
+    {
+      "topic": "Tension Architecture And String Tab",
+      "file": "references/tension-architecture-and-string-tab.md",
+      "summary": "Open when you need guidance on Tension Architecture And String Tab in Ableton Live.",
+      "keywords": ["Tension Architecture And String Tab", "Ableton Live"]},
+    {
+      "topic": "Tension String Excitation",
+      "file": "references/tension-string-excitation.md",
+      "summary": "Open when you need guidance on Tension String Excitation in Ableton Live.",
+      "keywords": ["Tension String Excitation", "Ableton Live"]},
+    {
+      "topic": "Tension Damper And String Termination",
+      "file": "references/tension-damper-and-string-termination.md",
+      "summary": "Open when you need guidance on Tension Damper And String Termination in Ableton Live.",
+      "keywords": ["Tension Damper And String Termination", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

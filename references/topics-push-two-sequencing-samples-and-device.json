@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Push 2 Sequencing Samples And Device Routes",
+      "file": "references/push-two-sequencing-samples-and-device-routes.md",
+      "summary": "Open when choosing references for Push 2 Sequencing Samples And Device in Ableton Live.",
+      "keywords": ["Push 2 Sequencing Samples And Device Routes", "Ableton Live"]},
+    {
+      "topic": "Push 2 Melody Sequencing And Loop Length",
+      "file": "references/push-two-melody-sequencing-and-loop-length.md",
+      "summary": "Open when you need guidance on Push 2 Melody Sequencing And Loop Length in Ableton Live.",
+      "keywords": ["Push 2 Melody Sequencing And Loop Length", "Ableton Live"]},
+    {
+      "topic": "Push 2 Melodic Grid Overview",
+      "file": "references/push-two-melodic-grid-overview.md",
+      "summary": "Open when you need guidance on Push 2 Melodic Grid Overview in Ableton Live.",
+      "keywords": ["Push 2 Melodic Grid Overview", "Ableton Live"]},
+    {
+      "topic": "Push 2 Melodic Grid And Sequencer",
+      "file": "references/push-two-melodic-grid-and-sequencer.md",
+      "summary": "Open when you need guidance on Push 2 Melodic Grid And Sequencer in Ableton Live.",
+      "keywords": ["Push 2 Melodic Grid And Sequencer", "Ableton Live"]},
+    {
+      "topic": "Push 2 Sample Playing Overview",
+      "file": "references/push-two-sample-playing-overview.md",
+      "summary": "Open when you need guidance on Push 2 Sample Playing Overview in Ableton Live.",
+      "keywords": ["Push 2 Sample Playing Overview", "Ableton Live"]},
+    {
+      "topic": "Push 2 Sample Classic And One Shot",
+      "file": "references/push-two-sample-classic-and-one-shot.md",
+      "summary": "Open when you need guidance on Push 2 Sample Classic And One Shot in Ableton Live.",
+      "keywords": ["Push 2 Sample Classic And One Shot", "Ableton Live"]},
+    {
+      "topic": "Push 2 Sample Legato Repitching",
+      "file": "references/push-two-sample-legato-repitching.md",
+      "summary": "Open when you need guidance on Push 2 Sample Legato Repitching in Ableton Live.",
+      "keywords": ["Push 2 Sample Legato Repitching", "Ableton Live"]},
+    {
+      "topic": "Push 2 Sample Slicing",
+      "file": "references/push-two-sample-slicing.md",
+      "summary": "Open when you need guidance on Push 2 Sample Slicing in Ableton Live.",
+      "keywords": ["Push 2 Sample Slicing", "Ableton Live"]},
+    {
+      "topic": "Push 2 Note Navigation And Device Controls",
+      "file": "references/push-two-note-navigation-and-device-controls.md",
+      "summary": "Open when you need guidance on Push 2 Note Navigation And Device Controls in Ableton Live.",
+      "keywords": ["Push 2 Note Navigation And Device Controls", "Ableton Live"]},
+    {
+      "topic": "Push 2 Device Add Delete And Reorder",
+      "file": "references/push-two-device-add-delete-and-reorder.md",
+      "summary": "Open when you need guidance on Push 2 Device Add Delete And Reorder in Ableton Live.",
+      "keywords": ["Push 2 Device Add Delete And Reorder", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

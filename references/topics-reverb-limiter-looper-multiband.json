@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Reverb Limiter Looper Multiband Routes",
+      "file": "references/reverb-limiter-looper-multiband-routes.md",
+      "summary": "Open when choosing references for Reverb Limiter Looper Multiband in Ableton Live.",
+      "keywords": ["Reverb Limiter Looper Multiband Routes", "Ableton Live"]},
+    {
+      "topic": "Hybrid Reverb Dark Hall And Quartz",
+      "file": "references/hybrid-reverb-dark-hall-and-quartz.md",
+      "summary": "Open when you need guidance on Hybrid Reverb Dark Hall And Quartz in Ableton Live.",
+      "keywords": ["Hybrid Reverb Dark Hall And Quartz", "Ableton Live"]},
+    {
+      "topic": "Hybrid Reverb Shimmer Tides And Prism",
+      "file": "references/hybrid-reverb-shimmer-tides-and-prism.md",
+      "summary": "Open when you need guidance on Hybrid Reverb Shimmer Tides And Prism in Ableton Live.",
+      "keywords": ["Hybrid Reverb Shimmer Tides And Prism", "Ableton Live"]},
+    {
+      "topic": "Hybrid Reverb EQ And Output",
+      "file": "references/hybrid-reverb-eq-and-output.md",
+      "summary": "Open when you need guidance on Hybrid Reverb EQ And Output in Ableton Live.",
+      "keywords": ["Hybrid Reverb EQ And Output", "Ableton Live"]},
+    {
+      "topic": "Limiter And Looper Controls",
+      "file": "references/limiter-and-looper-controls.md",
+      "summary": "Open when you need guidance on Limiter And Looper Controls in Ableton Live.",
+      "keywords": ["Limiter And Looper Controls", "Ableton Live"]},
+    {
+      "topic": "Looper Feedback Routing",
+      "file": "references/looper-feedback-routing.md",
+      "summary": "Open when you need guidance on Looper Feedback Routing in Ableton Live.",
+      "keywords": ["Looper Feedback Routing", "Ableton Live"]},
+    {
+      "topic": "Multiband Dynamics Overview",
+      "file": "references/multiband-dynamics-overview.md",
+      "summary": "Open when you need guidance on Multiband Dynamics Overview in Ableton Live.",
+      "keywords": ["Multiband Dynamics Overview", "Ableton Live"]},
+    {
+      "topic": "Multiband Dynamics Theory And Band Controls",
+      "file": "references/multiband-dynamics-theory-and-band-controls.md",
+      "summary": "Open when you need guidance on Multiband Dynamics Theory And Band Controls in Ableton Live.",
+      "keywords": ["Multiband Dynamics Theory And Band Controls", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

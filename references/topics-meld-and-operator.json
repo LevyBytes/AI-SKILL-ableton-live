@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Meld And Operator Routes",
+      "file": "references/meld-and-operator-routes.md",
+      "summary": "Open when choosing references for Meld And Operator in Ableton Live.",
+      "keywords": ["Meld And Operator Routes", "Ableton Live"]},
+    {
+      "topic": "Meld Filters And Resonators",
+      "file": "references/meld-filters-and-resonators.md",
+      "summary": "Open when you need guidance on Meld Filters And Resonators in Ableton Live.",
+      "keywords": ["Meld Filters And Resonators", "Ableton Live"]},
+    {
+      "topic": "Meld Mixing And Global Controls",
+      "file": "references/meld-mixing-and-global-controls.md",
+      "summary": "Open when you need guidance on Meld Mixing And Global Controls in Ableton Live.",
+      "keywords": ["Meld Mixing And Global Controls", "Ableton Live"]},
+    {
+      "topic": "Operator Overview",
+      "file": "references/operator-overview.md",
+      "summary": "Open when you need guidance on Operator Overview in Ableton Live.",
+      "keywords": ["Operator Overview", "Ableton Live"]},
+    {
+      "topic": "Operator Architecture And Oscillators",
+      "file": "references/operator-architecture-and-oscillators.md",
+      "summary": "Open when you need guidance on Operator Architecture And Oscillators in Ableton Live.",
+      "keywords": ["Operator Architecture And Oscillators", "Ableton Live"]},
+    {
+      "topic": "Operator Waveforms Harmonics And Aliasing",
+      "file": "references/operator-waveforms-harmonics-and-aliasing.md",
+      "summary": "Open when you need guidance on Operator Waveforms Harmonics And Aliasing in Ableton Live.",
+      "keywords": ["Operator Waveforms Harmonics And Aliasing", "Ableton Live"]},
+    {
+      "topic": "Operator LFO Envelopes And Filters",
+      "file": "references/operator-lfo-envelopes-and-filters.md",
+      "summary": "Open when you need guidance on Operator LFO Envelopes And Filters in Ableton Live.",
+      "keywords": ["Operator LFO Envelopes And Filters", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

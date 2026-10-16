@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Max For Live",
+      "file": "references/max-for-live.md",
+      "summary": "Open when you need guidance on Max For Live in Ableton Live.",
+      "keywords": ["Max For Live", "Ableton Live"]},
+    {
+      "topic": "Max For Live Devices (part 1)",
+      "file": "references/topics-max-for-live-devices.json",
+      "summary": "Open when using DS drum instruments, Align Delay, Envelope Follower, LFO, Shaper, Envelope MIDI, or Expression Control.",
+      "keywords": ["max-for-live-devices-part-1", "reference"]},
+    {
+      "topic": "Max MIDI Modulation And Monitoring",
+      "file": "references/topics-max-midi-modulation-and-monitoring.json",
+      "summary": "Open when shaping Expression Control responses, monitoring MIDI, transforming MPE, or using Note Echo and Shaper MIDI.",
+      "keywords": ["Max MIDI Modulation And Monitoring", "Ableton Live"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "references/languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}
