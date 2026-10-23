@@ -13,10 +13,10 @@ Press and hold the Select button as you tap a pad to select it without sounding 
 
 Here is what the pad colors mean:
 
-- The track’s color — the note is the scale's root.
-- Lighter version of the track’s color — the pad is selected.
-- Green — the pad is sounding at the moment.
-- White — the note belongs to the scale but isn't the root.
+- The track’s color: the note is the scale's root.
+- Lighter version of the track’s color: the pad is selected.
+- Green: the pad is sounding at the moment.
+- White: the note belongs to the scale but isn't the root.
 
 The Octave Up or Down button moves the reachable note range up or down. Holding the Shift key as you work the touch strip moves that range in octave jumps. To shift by a single scale step, hold the Shift key while pressing the Octave buttons. The display flashes the current range briefly while you adjust it.
 
@@ -33,12 +33,12 @@ Hold several steps at once and the selected notes land on all of them. With Dupl
 
 These are the meanings of the pad colors in the step sequencer:
 
-- The clip’s color — the step holds a note.
-- Green — the step is playing right now.
-- White — the step is selected.
-- Light gray — the step holds a note, but that note is muted.
-- Gray — the pad has nothing on it.
-- Unlit — when triplets are chosen as the step size, the rightmost two pad columns go dark. Those pads do nothing in that case; only the first six pads of each step row remain usable.
+- The clip’s color: the step holds a note.
+- Green: the step is playing right now.
+- White: the step is selected.
+- Light gray: the step holds a note, but that note is muted.
+- Gray: the pad has nothing on it.
+- Unlit: when triplets are chosen as the step size, the rightmost two pad columns go dark. Those pads do nothing in that case; only the first six pads of each step row remain usable.
   Loop Length Pads in the Melodic Sequencer + 32 Notes Layout.
 
 The [loop length pads](https://www.ableton.com/en/live-manual/12/using-push-2/#adjusting-the-loop-length) handle changing the loop length and opening further step sequencing pages. Holding the Layout button briefly surfaces those loop length pads along the fifth row.

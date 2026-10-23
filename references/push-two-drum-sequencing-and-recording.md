@@ -29,10 +29,10 @@ Delete Button.
 
 Within the step sequencer section, the pad colors signify the following:
 
-- Gray — no note sits under this step.
-- The clip’s color — a note sits here; brighter pads stand for stronger velocities.
-- Lighter version of the clip’s color — a note sits here, yet that note is muted.
-- Unlit — picking triplets for the step size leaves the rightmost pair of pad columns dark. Those pads then do nothing; usable steps stop after the first six pads along each step row.
+- Gray: no note sits under this step.
+- The clip’s color: a note sits here; brighter pads stand for stronger velocities.
+- Lighter version of the clip’s color: a note sits here, yet that note is muted.
+- Unlit: picking triplets for the step size leaves the rightmost pair of pad columns dark. Those pads then do nothing; usable steps stop after the first six pads along each step row.
   When Triplets are Selected, the Unlit Steps are Unavailable.
 
 To read more about working the loop length pads, turn to the section titled [Adjusting the Loop Length](https://www.ableton.com/en/live-manual/12/using-push-2/#adjusting-the-loop-length).

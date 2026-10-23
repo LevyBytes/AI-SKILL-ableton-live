@@ -7,4 +7,4 @@ Context: [Instrument, Drum and Effect Racks](instrument-drum-and-effect-racks.md
 <a id="source-241-an-overview-of-racks"></a>
 ### 24.1 An Overview of Racks
 
-- [Rack Signal Flow And Macros](rack-signal-flow-and-macros.md) — Open when you need guidance on Rack Signal Flow And Macros in Ableton Live.
+- [Rack Signal Flow And Macros](rack-signal-flow-and-macros.md) - Open when you need guidance on Rack Signal Flow And Macros in Ableton Live.

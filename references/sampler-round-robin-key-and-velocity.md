@@ -21,13 +21,13 @@ After it's active, whichever samples in the [sample layer list](https://www.able
 
 The Round Robin Mode chooser lets you pick how those samples get triggered:
 
-_Forward_ — Steps through samples in sequence, beginning at the top of the sample layer list and moving downward. After the final sample sounds, the sequence loops back around to the uppermost sample.
+_Forward_: Steps through samples in sequence, beginning at the top of the sample layer list and moving downward. After the final sample sounds, the sequence loops back around to the uppermost sample.
 
-_Backward_ — Steps through samples in sequence, beginning at the bottom of the sample layer list and working upward. After the topmost sample plays, the sequence starts over.
+_Backward_: Steps through samples in sequence, beginning at the bottom of the sample layer list and working upward. After the topmost sample plays, the sequence starts over.
 
-_Other_ — Draws samples in random order, but guarantees the same sample is never fired two times back-to-back.
+_Other_: Draws samples in random order, but guarantees the same sample is never fired two times back-to-back.
 
-_Random_ — Draws samples in random order, and here the same sample may indeed repeat several times in succession.
+_Random_: Draws samples in random order, and here the same sample may indeed repeat several times in succession.
 
 The Round Robin Mode Chooser.
 
@@ -44,35 +44,35 @@ Every sample held within the multisample you currently have loaded shows up here
 
 A right-click anywhere in the sample layer list brings up a context menu with choices for ordering and presenting the layers, spreading them across the keyboard, and assorted other sample-management and “housekeeping“ tasks.
 
-_Delete_ — Removes whichever sample(s) you currently have selected.
+_Delete_: Removes whichever sample(s) you currently have selected.
 
-_Duplicate_ — Makes a copy of whichever sample(s) you currently have selected.
+_Duplicate_: Makes a copy of whichever sample(s) you currently have selected.
 
-_Rename_ — Gives the chosen sample a new name.
+_Rename_: Gives the chosen sample a new name.
 
-_Distribute Ranges Equally_ — Spreads samples uniformly across the editor’s full MIDI note range (C-2 to G8).
+_Distribute Ranges Equally_: Spreads samples uniformly across the editor’s full MIDI note range (C-2 to G8).
 
-_Distribute Ranges Around Root Key_ — When layers carry differing root keys, this choice spaces their ranges as evenly as it can around each root key while avoiding any overlap. When layers share one root key, their ranges come out evenly spaced.
+_Distribute Ranges Around Root Key_: When layers carry differing root keys, this choice spaces their ranges as evenly as it can around each root key while avoiding any overlap. When layers share one root key, their ranges come out evenly spaced.
 
-_Small/Medium/Large_ — Changes how far the Zone Editor is zoomed.
+_Small/Medium/Large_: Changes how far the Zone Editor is zoomed.
 
-_Show in Browser_ — Jumps to the chosen sample within the browser and highlights it.
+_Show in Browser_: Jumps to the chosen sample within the browser and highlights it.
 
-_Manage Sample_ — Brings up the File Manager with the chosen sample selected.
+_Manage Sample_: Brings up the File Manager with the chosen sample selected.
 
-_Normalize Volume_ — Tunes Sampler’s Volume control so that the loudest peak in each selected sample fills the full available headroom.
+_Normalize Volume_: Tunes Sampler’s Volume control so that the loudest peak in each selected sample fills the full available headroom.
 
-_Normalize Pan_ — Tunes Sampler’s Pan control so each selected sample carries matching volume on both sides of the stereo field. Keep in mind this won't always recenter panned stereo samples; instead, Live works out a pan setting that yields a balanced stereo spread.
+_Normalize Pan_: Tunes Sampler’s Pan control so each selected sample carries matching volume on both sides of the stereo field. Keep in mind this won't always recenter panned stereo samples; instead, Live works out a pan setting that yields a balanced stereo spread.
 
-_Select All With Same Range_ — Highlights every layer sharing the zone range of the layer you've currently selected. What you get back varies with whichever Zone Editor (Key, Velocity or Sample Select) happens to be active.
+_Select All With Same Range_: Highlights every layer sharing the zone range of the layer you've currently selected. What you get back varies with whichever Zone Editor (Key, Velocity or Sample Select) happens to be active.
 
-_Sort Alphabetically (Ascending and Descending)_ — Orders samples by name in alphabetical sequence.
+_Sort Alphabetically (Ascending and Descending)_: Orders samples by name in alphabetical sequence.
 
-_Sort by Key (Ascending and Descending)_ — Orders key zones either ascending or descending.
+_Sort by Key (Ascending and Descending)_: Orders key zones either ascending or descending.
 
-_Sort by Velocity (Ascending and Descending)_ — Orders velocity zones either ascending or descending.
+_Sort by Velocity (Ascending and Descending)_: Orders velocity zones either ascending or descending.
 
-_Sort by Selector (Ascending and Descending)_ — Orders sample select zones either ascending or descending.
+_Sort by Selector (Ascending and Descending)_: Orders sample select zones either ascending or descending.
 
 <a id="source-301053-key-zones"></a>
 #### 30.10.5.3 Key Zones

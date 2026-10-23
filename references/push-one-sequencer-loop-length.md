@@ -15,10 +15,10 @@ Keep in mind that the page you _see_ need not be the page you _hear_. As you set
 
 Within the loop length section, the pad colors stand for the following:
 
-- Unlit — this page falls outside the loop.
-- White — this page lies inside the loop yet isn't on view at present in the step sequencer section.
-- Dull yellow — this page is on view in the step sequencer section but isn't playing at present.
-- Green — this is the page playing right now.
+- Unlit: this page falls outside the loop.
+- White: this page lies inside the loop yet isn't on view at present in the step sequencer section.
+- Dull yellow: this page is on view in the step sequencer section but isn't playing at present.
+- Green: this is the page playing right now.
 
 Should you need the loop length pads on hand often, you can pin them in place. For that, hold Shift and tap the Note button. Be aware that Push 1 retains this locked/unlocked state per track. Press the Note button again to release the loop length pads.
 

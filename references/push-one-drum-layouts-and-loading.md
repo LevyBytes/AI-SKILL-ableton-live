@@ -13,12 +13,12 @@ The Pad Grid When Working With Drums
 
 Mirroring Live’s Drum Rack, the 16 Drum Rack pads sit in the familiar 4x4 grid, which supports playing in real time. Here is what the Drum Rack pad colors mean:
 
-- Bright yellow — a sound sits on this pad.
-- Dull yellow — nothing is on this pad.
-- Green — this pad is sounding right now.
-- Light Blue — this is the chosen pad.
-- Dark blue — this pad has solo active.
-- Orange— this pad is silenced.
+- Bright yellow: a sound sits on this pad.
+- Dull yellow: nothing is on this pad.
+- Green: this pad is sounding right now.
+- Light Blue: this is the chosen pad.
+- Dark blue: this pad has solo active.
+- Orange: this pad is silenced.
 
 For Drum Racks holding a greater number of pads, reach for the touch strip on Push 1 or, alternatively, the Octave Up and Octave Down keys, shifting up or down in steps of 16 pads. Keep Shift held as you use the touch strip or Octave keys to advance one row at a time.
 

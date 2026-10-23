@@ -13,7 +13,7 @@ Spectrum carries out live frequency analysis on the audio arriving at it. Its fi
 
 How many samples get examined per measurement is governed by the Block chooser. Larger settings sharpen accuracy while loading the CPU more heavily.
 
-Channel picks which channel gets analyzed — left, right, or both.
+Channel picks which channel gets analyzed: left, right, or both.
 
 How frequently Spectrum runs an analysis comes from the Refresh slider. Like the Block parameter, it trades accuracy against CPU load. Quicker response brings more accuracy yet leans harder on the CPU.
 

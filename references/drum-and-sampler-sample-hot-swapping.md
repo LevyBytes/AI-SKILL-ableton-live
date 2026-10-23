@@ -11,11 +11,11 @@ Beyond trading whole presets, you can also swap the loaded samples in [Drum Rack
 
 To do this, click the _Hot-Swap Sample_ button, which shows up in these spots:
 
-- Drum Rack pads — At the bottom right of each pad.
-- Drum Sampler — At the bottom right of the Waveform Display.
-- Impulse — At the bottom right of each sample slot.
-- Sampler — In the Zone Editor’s upper-left area once it has been expanded.
-- Simpler — At the bottom right of the Sample Display.
+- Drum Rack pads: At the bottom right of each pad.
+- Drum Sampler: At the bottom right of the Waveform Display.
+- Impulse: At the bottom right of each sample slot.
+- Sampler: In the Zone Editor’s upper-left area once it has been expanded.
+- Simpler: At the bottom right of the Sample Display.
 
 Note that the button shows up only while you hover over the matching area (Sampler being the exception, where it stays visible). In Drum Sampler, for instance, hovering over the Waveform Display brings up the button.
 

@@ -26,8 +26,8 @@ MIDI Controller Takeover Mode.
 
 Whenever MIDI controls that emit absolute values (faders, say) sit in a bank-switching arrangement, where every controller bank points them at a different destination parameter, you’ll have to settle on how Live should cope with the abrupt value leaps that crop up the first time you nudge a control after a bank change. There are three takeover modes to pick from:
 
-_None_ — The instant you move the physical control, its fresh value goes straight to the destination parameter, which generally causes jarring value jumps.
+_None_: The instant you move the physical control, its fresh value goes straight to the destination parameter, which generally causes jarring value jumps.
 
-_Pick-Up_ — Nothing happens when you move the physical control until it catches up to the destination parameter’s value. Once the two match, the destination follows the control’s value 1:1. The upside is smooth value changes, though it’s hard to judge precisely where the pick-up occurs.
+_Pick-Up_: Nothing happens when you move the physical control until it catches up to the destination parameter’s value. Once the two match, the destination follows the control’s value 1:1. The upside is smooth value changes, though it’s hard to judge precisely where the pick-up occurs.
 
-_Value Scaling_ — Picking this guarantees gradual value transitions. It weighs the physical control’s value against the destination parameter’s and works out a smooth convergence between them while you move the control. The moment they line up, the destination value follows the control’s value 1:1.
+_Value Scaling_: Picking this guarantees gradual value transitions. It weighs the physical control’s value against the destination parameter’s and works out a smooth convergence between them while you move the control. The moment they line up, the destination value follows the control’s value 1:1.

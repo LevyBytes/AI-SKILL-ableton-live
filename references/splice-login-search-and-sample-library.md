@@ -77,9 +77,9 @@ Loading samples into your Set automatically [licenses](https://support.splice.co
 
 By default, anything you download from Splice lands in the User Library under the Splice sub-folder inside the Samples folder, but the Library Settings let you choose your own destination for Splice samples. These choices are on offer:
 
-- User Library — saves the samples to User Library/Samples/Splice.
-- Current Project — saves the samples to Current Project/Samples/Splice.
-- Custom Folder — saves the samples to any location of your choosing.
+- User Library: saves the samples to User Library/Samples/Splice.
+- Current Project: saves the samples to Current Project/Samples/Splice.
+- Custom Folder: saves the samples to any location of your choosing.
   Set the Download Folder for Splice Samples.
 
 <a id="source-4734-splice-library"></a>

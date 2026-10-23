@@ -9,10 +9,10 @@ Context: [Managing Files and Sets](managing-files-and-sets.md#5-managing-files-a
 
 Rather than tackling these snags mid-flow while you’re feeling creative, you might rather set aside a block of dedicated housekeeping time and clear them all at once. With Live’s File Manager you can hunt down missing files and gather external ones not just for the current Live Set, but equally for:
 
-- _The User Library_ — pick the Manage Files command in the File menu, after which you press the Manage User Library button.
-- _The current Live Project_ — pick the Manage Files command in the File menu, after which you press the Manage Project button.
-- _Any Live Project_ — within the browser’s content pane, right-click a Project and pick the Manage Project option.
-- _Any selection of Live Sets, Live Clips, Live Presets_ — right-click whichever items apply in the browser, then pick the Manage Files command.
+- _The User Library_: pick the Manage Files command in the File menu, after which you press the Manage User Library button.
+- _The current Live Project_: pick the Manage Files command in the File menu, after which you press the Manage Project button.
+- _Any Live Project_: within the browser’s content pane, right-click a Project and pick the Manage Project option.
+- _Any selection of Live Sets, Live Clips, Live Presets_: right-click whichever items apply in the browser, then pick the Manage Files command.
 
 Don’t forget to press the Collect and Save button down at the foot of the File Manager once you’ve wrapped up. If you skip it, what you changed gets thrown away.
 

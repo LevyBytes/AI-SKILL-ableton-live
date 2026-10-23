@@ -25,7 +25,7 @@ flowchart LR
 
 An organized reference companion for music production in Ableton Live 12. Task-focused catalogs connect recording, clip editing, instruments, effects and mixing with the controls and terminology documented in the Live manual.
 
-Use when working with Ableton Live 12 (the DAW): the Arrangement and Session views; clips and the Clip View; audio warping and tempo; MIDI and MPE editing; MIDI tools; converting audio to MIDI; comping; stem separation; recording; routing and I/O; mixing; automation and clip envelopes; instrument/drum/effect racks; the browser and managing files/sets; Live's built-in instruments, audio effects, and MIDI effects; Max for Live; Push 1 and Push 2; Link/tempo sync; tuning systems; keyboard shortcuts; and accessibility. The official Live 12 Reference Manual. Not for other DAWs.
+Use for Ableton Live 12 (the DAW): Arrangement and Session views, clips and Clip View, warping and tempo, MIDI and MPE editing, MIDI tools, audio-to-MIDI, comping, stem separation, recording, routing and I/O, mixing, automation and clip envelopes, instrument/drum/effect racks, browser and file management, built-in instruments and effects, Max for Live, Push 1 and 2, Link, tuning systems, shortcuts and accessibility. Not for other DAWs.
 
 ## What this skill helps with
 
@@ -50,4 +50,4 @@ The package targets the Live 12 manual and includes separate [Push 1](references
 
 Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://www.ableton.com/en/live-manual/12/) when dealing with defects or issues that may come up from interpreting this skill's references.
 
-Licensed under **AGPL-3.0**; see [LICENSE](LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.
+Licensed under **Apache-2.0**; see [LICENSE](LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.

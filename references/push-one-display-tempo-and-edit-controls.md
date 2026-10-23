@@ -47,9 +47,9 @@ Clip Mode With a MIDI Clip Selected.
 
 Tempo Section.
 
-Tap Tempo — Press it once per beat and the Live Set’s tempo tracks your tapping. With the “Start Playback with Tap Tempo” button turned on under Live’s Record, Warp & Launch Settings, your tapping can also serve as a count-in: in a 4/4 signature, four taps are needed before song playback kicks off at the tapped tempo.
+Tap Tempo: Press it once per beat and the Live Set’s tempo tracks your tapping. With the “Start Playback with Tap Tempo” button turned on under Live’s Record, Warp & Launch Settings, your tapping can also serve as a count-in: in a 4/4 signature, four taps are needed before song playback kicks off at the tapped tempo.
 
-Metronome — Switches Live’s metronome on or off.
+Metronome: Switches Live’s metronome on or off.
 
 The left encoder nudges Live’s tempo by one BPM per step. Keeping Shift held while you turn it instead nudges the tempo by .1 BPM per step.
 

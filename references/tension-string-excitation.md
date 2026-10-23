@@ -18,13 +18,13 @@ A switch beside its name turns the Exciter section on or off. While it's off, on
 
 Four options appear in the Exciter Type chooser - _Bow, Hammer, Hammer (bouncing)_ and _Plectrum_.
 
-_Bow_ — tied to bowed instruments like the violin, viola or cello, this exciter drives the string into continuous oscillation. As the bow hair travels over the string, friction makes the string repeatedly cling to the hair and then release. How frequently that stick-and-slip cycle repeats sets the fundamental pitch. Keep in mind the Damping knob is disabled while the Bow exciter is chosen.
+_Bow_: tied to bowed instruments like the violin, viola or cello, this exciter drives the string into continuous oscillation. As the bow hair travels over the string, friction makes the string repeatedly cling to the hair and then release. How frequently that stick-and-slip cycle repeats sets the fundamental pitch. Keep in mind the Damping knob is disabled while the Bow exciter is chosen.
 
-_Hammer_ — this exciter recreates the action of soft hammers or mallets. Hammer simulates a hammer sitting beneath the string that strikes it a single time, then drops away. A piano is one place this kind of mechanism turns up.
+_Hammer_: this exciter recreates the action of soft hammers or mallets. Hammer simulates a hammer sitting beneath the string that strikes it a single time, then drops away. A piano is one place this kind of mechanism turns up.
 
 _Hammer (bouncing)_ - this exciter resembles _Hammer_, but it instead simulates a hammer positioned over the string and let fall onto it, so it may rebound off the string several times. A hammered dulcimer is one instrument where this playing style appears.
 
-_Plectrum_ — a plectrum, or “pick“, goes with instruments like guitars and harpsichords. Picture it as a slanted object tucked beneath the string that flicks the string into motion.
+_Plectrum_: a plectrum, or “pick“, goes with instruments like guitars and harpsichords. Picture it as a slanted object tucked beneath the string that flicks the string into motion.
 
 <a id="source-301223-exciter-parameters"></a>
 #### 30.12.2.3 Exciter Parameters

@@ -1,9 +1,9 @@
 ---
 name: ableton-live
-description: >-
-  Use when working with Ableton Live 12 (the DAW): the Arrangement and Session views; clips and the Clip View; audio warping and tempo; MIDI and MPE editing; MIDI tools; converting audio to MIDI; comping; stem separation; recording; routing and I/O; mixing; automation and clip envelopes; instrument/drum/effect racks; the browser and managing files/sets; Live's built-in instruments, audio effects, and MIDI effects; Max for Live; Push 1 and Push 2; Link/tempo sync; tuning systems; keyboard shortcuts; and accessibility. The official Live 12 Reference Manual. Not for other DAWs.
+description: "Use for Ableton Live 12 (the DAW): Arrangement and Session views, clips and Clip View, warping and tempo, MIDI and MPE editing, MIDI tools, audio-to-MIDI, comping, stem separation, recording, routing and I/O, mixing, automation and clip envelopes, instrument/drum/effect racks, browser and file management, built-in instruments and effects, Max for Live, Push 1 and 2, Link, tuning systems, shortcuts and accessibility. Not for other DAWs."
+license: Apache-2.0
 metadata:
-  last-updated: "2026-10-09"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router
@@ -27,7 +27,6 @@ Choose references for the Live 12 task; match the Push generation and documented
 | Open when playing, sequencing, recording, or controlling Live with Push 1. | [Push 1](references/push-1-index.md) |
 | Open when playing, sequencing, editing samples, or controlling Live with Push 2. | [Push 2](references/push-2-index.md) |
 | Open when diagnosing CPU load, audio dropouts, signal changes, MIDI latency, or timing jitter. | [Performance and signal integrity](references/topics-performance-and-signal-integrity.json) |
-| Open when checking the manual contributors, copyright, version, or licensing notice. | [Manual attribution](references/topics-manual-attribution.json) |
 
 [Reference index](references/INDEX.md) / [Topic catalog](references/topics.json)
 

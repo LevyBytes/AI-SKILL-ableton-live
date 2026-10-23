@@ -19,5 +19,4 @@ Open the topic group that matches the task, then select its reference. Every rou
 | [Push 1](push-1-index.md) | Open when playing, sequencing, recording, or controlling Live with Push 1. |
 | [Push 2](push-2-index.md) | Open when playing, sequencing, editing samples, or controlling Live with Push 2. |
 | [Performance and signal integrity](topics-performance-and-signal-integrity.json) | Open when diagnosing CPU load, audio dropouts, signal changes, MIDI latency, or timing jitter. |
-| [Manual attribution](topics-manual-attribution.json) | Open when checking the manual contributors, copyright, version, or licensing notice. |
 | [Reference Language Selection](languages.md) | Open when you need a language version of this skill's references other than English. |

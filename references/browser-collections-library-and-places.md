@@ -34,20 +34,20 @@ Note that the moment a hidden, unassigned color gets attached to a browser item,
 
 A range of labels makes up the Library section, each gathering different browser items grouped by type. The search bar or the filters let you track down and dig through every instrument and sound your library offers. Here is how the Library section breaks down:
 
-- _All_ — every item drawn from each browser label in one combined list, devices leading and file types trailing.
-- _Sounds_ — the whole of your [Instrument Racks](https://www.ableton.com/en/live-manual/12/instrument-drum-and-effect-racks/#instrument-drum-and-effect-racks) and instrument presets, plus any instrument preset carrying a tag out of the Sounds filter group.
-- _Drums_ — the whole of your drum presets. That covers default drum devices, drum presets (complete Drum Racks alongside single drum hits), and drum samples (loops as well as one shots). On top of that, anything tagged with the Drums.
-- _Instruments_ — Live's default instruments together with their presets, plus the whole of your Instrument Racks. The grouping here is by device rather than by sound type.
-- _Audio Effects_ — Live's default audio effect devices and their presets, plus the whole of your Audio Effect Racks, grouped by device.
-- _MIDI Effects_ — Live's default MIDI effect devices and their presets, plus the whole of your MIDI Effect Racks, grouped by device.
-- _Modulators_ — Live's default modulator devices, plus any device carrying the Modulator tag from the Devices filter group.
-- _Max for Live_ — the whole of your [Max for Live](https://www.ableton.com/en/live-manual/12/max-for-live/#max-for-live) devices and presets, plus any Racks assembled from those devices.
-- _Plug-Ins_ — your third-party [VST and/or Audio Units plug-ins](https://www.ableton.com/en/live-manual/12/working-with-instruments-and-effects/#using-plug-ins).
-- _Clips_ — the whole of your Live Clips.
-- _Samples_ — the whole of your raw audio samples.
-- _Grooves_ — the whole of your [grooves](https://www.ableton.com/en/live-manual/12/using-grooves/#using-grooves).
-- _Templates_ — the whole of your [template Live Sets](https://www.ableton.com/en/live-manual/12/managing-files-and-sets/#template-sets).
-- _Tunings_ — every [tuning system](https://www.ableton.com/en/live-manual/12/using-tuning-systems/#using-tuning-systems) in the Core Library plus user-saved .ascl or .scl files.
+- _All_: every item drawn from each browser label in one combined list, devices leading and file types trailing.
+- _Sounds_: the whole of your [Instrument Racks](https://www.ableton.com/en/live-manual/12/instrument-drum-and-effect-racks/#instrument-drum-and-effect-racks) and instrument presets, plus any instrument preset carrying a tag out of the Sounds filter group.
+- _Drums_: the whole of your drum presets. That covers default drum devices, drum presets (complete Drum Racks alongside single drum hits), and drum samples (loops as well as one shots). On top of that, anything tagged with the Drums.
+- _Instruments_: Live's default instruments together with their presets, plus the whole of your Instrument Racks. The grouping here is by device rather than by sound type.
+- _Audio Effects_: Live's default audio effect devices and their presets, plus the whole of your Audio Effect Racks, grouped by device.
+- _MIDI Effects_: Live's default MIDI effect devices and their presets, plus the whole of your MIDI Effect Racks, grouped by device.
+- _Modulators_: Live's default modulator devices, plus any device carrying the Modulator tag from the Devices filter group.
+- _Max for Live_: the whole of your [Max for Live](https://www.ableton.com/en/live-manual/12/max-for-live/#max-for-live) devices and presets, plus any Racks assembled from those devices.
+- _Plug-Ins_: your third-party [VST and/or Audio Units plug-ins](https://www.ableton.com/en/live-manual/12/working-with-instruments-and-effects/#using-plug-ins).
+- _Clips_: the whole of your Live Clips.
+- _Samples_: the whole of your raw audio samples.
+- _Grooves_: the whole of your [grooves](https://www.ableton.com/en/live-manual/12/using-grooves/#using-grooves).
+- _Templates_: the whole of your [template Live Sets](https://www.ableton.com/en/live-manual/12/managing-files-and-sets/#template-sets).
+- _Tunings_ - every [tuning system](https://www.ableton.com/en/live-manual/12/using-tuning-systems/#using-tuning-systems) in the Core Library plus user-saved .ascl or .scl files.
 
 Out of the box, all of the Library labels show in the browser. Tailor which ones appear by clicking the Edit button that surfaces on hover to the right of the Library header, then ticking or unticking labels.
 
@@ -62,11 +62,11 @@ Held within the Places labels are your Live Packs, User Library, Current Project
 
 What the Places section actually holds shifts according to how you have set up your library. Labels you may see include:
 
-- _Packs_ — holds Live's Core Library, any extra Packs you have installed on your own, plus Pack updates and downloads on offer.
-- _Splice_ — shows the Splice sample catalog, out of which you can drag samples into Live.
-- _Cloud_ — shows synced Sets from Note and Move once Ableton Cloud is switched on in Live.
-- _Push_ — lists every file from Push 3 while it is hooked up in Standalone Mode.
-- _User Library_ — holds the items you have stored yourself, among them default presets, grooves, your own Rack and device presets, samples, Live Clips, and so on.
-- _Current Project_ — lists all the files tied to the [Project](https://www.ableton.com/en/live-manual/12/managing-files-and-sets/#live-projects) presently open.
-- _User Folder_ — lists particular folders from any of your disks that you have brought into Live's browser.
-- _Add Folder…_ — brings up a window for picking a folder on any of your disks to add into Places.
+- _Packs_: holds Live's Core Library, any extra Packs you have installed on your own, plus Pack updates and downloads on offer.
+- _Splice_: shows the Splice sample catalog, out of which you can drag samples into Live.
+- _Cloud_: shows synced Sets from Note and Move once Ableton Cloud is switched on in Live.
+- _Push_: lists every file from Push 3 while it is hooked up in Standalone Mode.
+- _User Library_: holds the items you have stored yourself, among them default presets, grooves, your own Rack and device presets, samples, Live Clips, and so on.
+- _Current Project_: lists all the files tied to the [Project](https://www.ableton.com/en/live-manual/12/managing-files-and-sets/#live-projects) presently open.
+- _User Folder_: lists particular folders from any of your disks that you have brought into Live's browser.
+- _Add Folder…_: brings up a window for picking a folder on any of your disks to add into Places.

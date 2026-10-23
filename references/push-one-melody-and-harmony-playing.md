@@ -25,10 +25,10 @@ C Major Scale.
 
 The pad colors keep you oriented while you play:
 
-- Blue — this note is the key's root note (e.g., C).
-- White — this note belongs to the scale but isn't the root.
-- Green — the note sounding right now (any other pads sounding that same note go green too).
-- Red — the note sounding right now while recording.
+- Blue: this note is the key's root note (e.g., C).
+- White: this note belongs to the scale but isn't the root.
+- Green: the note sounding right now (any other pads sounding that same note go green too).
+- Red: the note sounding right now while recording.
 
 For triads, give the following shape a try at any spot on the grid:
 

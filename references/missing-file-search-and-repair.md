@@ -16,12 +16,12 @@ For mending file references, Live includes a handy automatic search routine. Kic
 
 Automatic Repair Options in the File Manager.
 
-- _Search Folder_ — brings a folder of your choosing, plus all of its sub-folders, into the search. Pick that folder by pressing the matching Set Folder button.
-- _Search Project_ — brings this Set’s project folder into the search.
-- _Search Library_ — brings the Live Library into the search.
+- _Search Folder_: brings a folder of your choosing, plus all of its sub-folders, into the search. Pick that folder by pressing the matching Set Folder button.
+- _Search Project_: brings this Set’s project folder into the search.
+- _Search Library_: brings the Live Library into the search.
 
 The automatic search routine might turn up any quantity of matches for each absent file. The various outcomes to weigh are:
 
-- _No candidate found_ — pick a different folder and have another go, or track the sample down by hand.
-- _One candidate found_ — Live takes the match and treats the matter as resolved.
-- _Several candidates found_ — Live needs you to help out: press the Hot-Swap button (that’s the very first item on each row of the missing-files roster) so the browser shows the matches in Hot-Swap Mode. From there you can double-click the matches in the browser to load them, with playback running if that suits you.
+- _No candidate found_: pick a different folder and have another go, or track the sample down by hand.
+- _One candidate found_: Live takes the match and treats the matter as resolved.
+- _Several candidates found_: Live needs you to help out: press the Hot-Swap button (that’s the very first item on each row of the missing-files roster) so the browser shows the matches in Hot-Swap Mode. From there you can double-click the matches in the browser to load them, with playback running if that suits you.

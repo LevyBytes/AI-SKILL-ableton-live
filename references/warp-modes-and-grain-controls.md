@@ -13,9 +13,9 @@ Use the _Preserve_ control to hold onto divisions within the sample — the mark
 
 Use the _Transient Loop Mode_ selector to define how the audio’s transients behave when looped:
 
-_Loop Off_ — Every slice of audio bounded by transients runs through once and then halts. Whatever gap is left over until the following transient stays silent.
+_Loop Off_: Every slice of audio bounded by transients runs through once and then halts. Whatever gap is left over until the following transient stays silent.
 
-_Loop Forward_ — Every slice bounded by transients runs to completion, after which playback leaps back to a zero-crossing roughly at the slice’s midpoint and keeps cycling there until the following transient arrives.
+_Loop Forward_: Every slice bounded by transients runs to completion, after which playback leaps back to a zero-crossing roughly at the slice’s midpoint and keeps cycling there until the following transient arrives.
 
 _Loop Back-and-Forth_ — Every slice bounded by transients runs to completion, then playback rewinds as far as a zero-crossing near the slice’s center before advancing once more toward the slice’s end. That oscillation repeats up until the following transient. Paired with preserved transients, this setting frequently produces a clean, polished tone — particularly at reduced tempos.
 

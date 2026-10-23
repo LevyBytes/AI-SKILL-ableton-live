@@ -20,10 +20,10 @@ If you want to mark a pad without sounding it, keep the Select button held down 
 
 What the pad colors mean is as follows:
 
-- Blue — marks the root note of the scale.
-- Blue-Green — marks a pad that is selected.
-- Green — marks a pad that is sounding right now.
-- White — a note belonging to the scale that is not the root.
+- Blue: marks the root note of the scale.
+- Blue-Green: marks a pad that is selected.
+- Green: marks a pad that is sounding right now.
+- White: a note belonging to the scale that is not the root.
 
 Tapping the Octave Up or Down button moves the band of notes you can reach. If you keep the Shift key held while you drag the touch strip, the band moves by whole octaves. Holding Shift as you tap the Octave buttons instead nudges the band by a single scale step. While you change it, the display flashes the range that is currently reachable.
 
@@ -40,12 +40,12 @@ Hold several steps at once and the selected notes are written into all of them. 
 
 Within the step sequencer, here is what the pad colors signify:
 
-- Blue — a step holding a note.
-- Green — a step that is sounding right now.
-- White — a step that is selected.
-- Dull Yellow — a step that holds a note whose note is muted.
-- Gray — an empty pad.
-- Light Red — when triplets are picked as the step size, the rightmost two columns of pads stay dark. Those pads do nothing in that case; only the leading six pads of each step row remain usable.
+- Blue: a step holding a note.
+- Green: a step that is sounding right now.
+- White: a step that is selected.
+- Dull Yellow: a step that holds a note whose note is muted.
+- Gray: an empty pad.
+- Light Red: when triplets are picked as the step size, the rightmost two columns of pads stay dark. Those pads do nothing in that case; only the leading six pads of each step row remain usable.
 
 If you leave the sequencer at its default 16th note resolution, you get two pages of steps on hand simultaneously, which adds up to two bars. To set the loop length and reach further step sequencing pages, use the [loop length pads](https://www.ableton.com/en/live-manual/12/using-push-1/#adjusting-the-loop-length). You can briefly summon the loop length pads into the fifth row by keeping the Note button held.
 

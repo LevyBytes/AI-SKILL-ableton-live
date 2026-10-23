@@ -42,11 +42,11 @@ Reselecting the current loop is all it takes to switch auto-follow back on. Bear
 
 These are the meanings of the pad colors within the loop length section:
 
-- Unlit — the page sits beyond the loop.
-- Gray — the page belongs to the loop, yet isn't on screen in the step sequencer section at the moment.
-- White — the page is shown in the step sequencer section but isn't playing right now.
-- Green — this page is the one currently playing.
-- Red — this page is the one currently recording.
+- Unlit: the page sits beyond the loop.
+- Gray: the page belongs to the loop, yet isn't on screen in the step sequencer section at the moment.
+- White: the page is shown in the step sequencer section but isn't playing right now.
+- Green: this page is the one currently playing.
+- Red: this page is the one currently recording.
 
 When you reach for the loop length pads a lot, pinning them in place helps. Hold Shift and tap the Layout button to do that. Push tracks this locked-or-unlocked setting separately for every track. Press the Layout button a second time to free the loop length pads again. The Page Left/Right buttons also move you back a page or forward a page.
 

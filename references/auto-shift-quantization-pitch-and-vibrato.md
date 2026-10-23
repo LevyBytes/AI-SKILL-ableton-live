@@ -81,9 +81,9 @@ Controls for adding vibrato to the arriving audio, plus the overall blend of dry
 
 Three core vibrato controls are on hand:
 
-- Vibrato Amount — sets the vibrato depth across a 0 to 200 cents range.
-- Vibrato Rate — sets the vibrato speed, anywhere from 2 to 15 Hz.
-- Vibrato Fade In — sets, in milliseconds, how long the vibrato takes to fade in.
+- Vibrato Amount: sets the vibrato depth across a 0 to 200 cents range.
+- Vibrato Rate: sets the vibrato speed, anywhere from 2 to 15 Hz.
+- Vibrato Fade In: sets, in milliseconds, how long the vibrato takes to fade in.
 
 Turn on the Natural Vibrato toggle and slight fluctuations enter the vibrato’s rate and depth, lending it a more believable feel.
 

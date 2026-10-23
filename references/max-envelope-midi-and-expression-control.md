@@ -27,10 +27,10 @@ Once Remote Control is active, the mapped values are fixed entirely by Envelope 
 
 The Loop Mode drop-down offers four choices: Free, Sync, Loop, and Echo.
 
-- Free — Every note that plays fires the envelope once.
-- Sync — The envelope retriggers on the beat division chosen in the Sync Rate drop-down.
-- Loop — The envelope repeats at the rate the Global Time control specifies.
-- Echo — The envelope spawns echoes spaced by the Env Echo Time control. How much of each echo carries into the following one is set by the Env Feedback control, which in turn governs how long the echoes linger; raising feedback yields longer-lasting repeats.
+- Free: Every note that plays fires the envelope once.
+- Sync: The envelope retriggers on the beat division chosen in the Sync Rate drop-down.
+- Loop: The envelope repeats at the rate the Global Time control specifies.
+- Echo: The envelope spawns echoes spaced by the Env Echo Time control. How much of each echo carries into the following one is set by the Env Feedback control, which in turn governs how long the echoes linger; raising feedback yields longer-lasting repeats.
 
 Each time the envelope fires, the LED beside the Loop Mode drop-down flashes.
 

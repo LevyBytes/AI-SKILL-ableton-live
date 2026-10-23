@@ -42,9 +42,9 @@ To add swing, pick a groove from the Groove chooser. The way grooves behave in A
 
 Depending on which Retrigger option you pick, the figure can restart at chosen points:
 
-- Off — The figure never restarts.
-- Note — A fresh incoming note restarts the figure.
-- Beat — The figure restarts on a chosen bar or beat, governed by the Interval control.
+- Off: The figure never restarts.
+- Note: A fresh incoming note restarts the figure.
+- Beat: The figure restarts on a chosen bar or beat, governed by the Interval control.
 
 Each restart of the figure is signaled by the LED beside the Retrigger controls flashing.
 

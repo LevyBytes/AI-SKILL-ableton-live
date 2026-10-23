@@ -30,11 +30,11 @@ The Modulation Amount slider sets how much modulation reaches the target.
 
 Beyond the standard device [context menu](https://www.ableton.com/en/live-manual/12/live-keyboard-shortcuts/#using-lives-context-menu) entries, a couple of choices belong specifically to Drum Sampler.
 
-_Enable Per-Note Pitch Bend_ — This lets Drum Sampler take in per-note pitch bend messages, and it is on by default.
+_Enable Per-Note Pitch Bend_: This lets Drum Sampler take in per-note pitch bend messages, and it is on by default.
 
-_Envelope Follows Pitch_ — This sizes the amplitude envelope according to the sample's pitch. With it on, the envelope keeps affecting the identical part of the sample even as the pitch gets transposed.
+_Envelope Follows Pitch_: This sizes the amplitude envelope according to the sample's pitch. With it on, the envelope keeps affecting the identical part of the sample even as the pitch gets transposed.
 
-_Drum Sampler > Simpler_ — This swaps Drum Sampler for Simpler while keeping the sample's start and length positions.
+_Drum Sampler > Simpler_: This swaps Drum Sampler for Simpler while keeping the sample's start and length positions.
 
 While working with [Drum Racks](https://www.ableton.com/en/live-manual/12/instrument-drum-and-effect-racks/#drum-racks), the _Save as Default Pad_ option on a pad's context menu makes Drum Sampler the default for incoming samples.
 

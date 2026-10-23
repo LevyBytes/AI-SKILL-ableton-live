@@ -48,9 +48,9 @@ When the device fires from a Note Off event (the instant a note is let go), an i
 
 Working with Note Off messages unlocks three extra parameters:
 
-- Release Velocity — Sets the output note's velocity. The percentage strikes a balance between the incoming note's Note On and Note Off velocities. Should your keyboard lack MIDI Note Off velocity, this can stay at 0%.
-- Decay Time — Sets how long an incoming note's velocity needs to fall to zero. Decay kicks off the moment the device gets a Note On message. Whatever value stands at the Note Off point becomes the output note's velocity.
-- Key Scale — Changes output-note length according to the incoming notes' pitch. With positive settings, notes under C3 grow gradually longer while notes over C3 shorten. Negative settings flip that around.
+- Release Velocity: Sets the output note's velocity. The percentage strikes a balance between the incoming note's Note On and Note Off velocities. Should your keyboard lack MIDI Note Off velocity, this can stay at 0%.
+- Decay Time: Sets how long an incoming note's velocity needs to fall to zero. Decay kicks off the moment the device gets a Note On message. Whatever value stands at the Note Off point becomes the output note's velocity.
+- Key Scale: Changes output-note length according to the incoming notes' pitch. With positive settings, notes under C3 grow gradually longer while notes over C3 shorten. Negative settings flip that around.
 
 Switching on the Latch toggle turns on note latching. Under Note On messages, a triggered note keeps sounding until the next Note On arrives. Under Note Off messages, notes fire once every key (or a connected sustain pedal) is released and a new Note Off message comes in. Either way, the Gate and Length controls go inactive, because the Note On/Off messages now dictate triggered-note length. On top of that, the Release Velocity, Decay Time, and Key Scale controls switch off for Note Off messages.
 

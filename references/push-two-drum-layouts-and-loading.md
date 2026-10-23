@@ -13,12 +13,12 @@ The Pad Grid with the Loop Selector Layout
 
 Mirroring Live’s own Drum Rack, the 16 Drum Rack pads sit in the familiar 4x4 grid that supports playing in real time. Both the display readouts and the Drum Rack pads pick up the track’s color, with small shifts in tone that clue you in to the current state. What the Drum Rack pad colors tell you is this:
 
-- The track’s color — this pad contains a sound.
-- Lighter version of the track’s color — this pad is empty.
-- Green — this pad is currently-playing.
-- White — this pad is selected.
-- Dark blue — this pad is soloed.
-- Gray— this pad is muted.
+- The track’s color: this pad contains a sound.
+- Lighter version of the track’s color: this pad is empty.
+- Green: this pad is currently-playing.
+- White: this pad is selected.
+- Dark blue: this pad is soloed.
+- Gray: this pad is muted.
 
 Should a Drum Rack hold more pads than usual, the touch strip on the unit, or the Octave Up and Octave Down buttons, will shift you 16 pads at a time. Keep Shift held as you work the touch strip or Octave buttons and the movement drops to one row per step.
 

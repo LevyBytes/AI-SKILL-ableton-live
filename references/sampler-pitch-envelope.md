@@ -13,14 +13,14 @@ The Amount slider sits at the lower-left corner of the Pitch Envelope section. I
 
 Along the right edge of this section sit five sliders plus a single chooser; none of them belong to the Pitch Envelope, yet each can shape Sampler’s overall output:
 
-_Spread_ — Turning on Spread spawns a pair of detuned voices for every note. The trade-off is that CPU usage is doubled as well.
+_Spread_: Turning on Spread spawns a pair of detuned voices for every note. The trade-off is that CPU usage is doubled as well.
 
-_Transpose (Transp)_ — Overall transpose value, given in semitones.
+_Transpose (Transp)_: Overall transpose value, given in semitones.
 
-_Detune_ — Overall detune value, given in cents.
+_Detune_: Overall detune value, given in cents.
 
-_Key Zone Shift (Zn Shft)_ — This shifts MIDI notes within the Key Zone Editor alone, letting alternate samples be picked for playback while still tracking the pitch you play. Handy for coaxing unusual textures out of multisamples.
+_Key Zone Shift (Zn Shft)_: This shifts MIDI notes within the Key Zone Editor alone, letting alternate samples be picked for playback while still tracking the pitch you play. Handy for coaxing unusual textures out of multisamples.
 
-_Glide_ — The overall Glide mode, paired with the Time parameter so pitches slide smoothly into one another. ’Glide’ behaves as a conventional monophonic slide, whereas ’Portamento’ operates across polyphony.
+_Glide_: The overall Glide mode, paired with the Time parameter so pitches slide smoothly into one another. ’Glide’ behaves as a conventional monophonic slide, whereas ’Portamento’ operates across polyphony.
 
-_Time_ — Switching on a Glide mode causes the pitch of successive notes to slide rather than jump. The duration of that slide is governed by this parameter.
+_Time_: Switching on a Glide mode causes the pitch of successive notes to slide rather than jump. The duration of that slide is governed by this parameter.

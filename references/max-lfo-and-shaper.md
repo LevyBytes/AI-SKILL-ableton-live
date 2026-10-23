@@ -84,9 +84,9 @@ You Can Shift the Center Point of the Envelope Output Using Offset.
 
 Three trigger modes are available in Shaper: Loop, 1-Shot, and Manual. Switching among them is done with the matching toggles.
 
-- Loop — The envelope cycles without pause at whatever rate the Rate control specifies.
-- 1-Shot — A single pass of the envelope is fired off using the mappable T button.
-- Manual — You scrub the envelope back and forth by hand with the Manual control.
+- Loop: The envelope cycles without pause at whatever rate the Rate control specifies.
+- 1-Shot: A single pass of the envelope is fired off using the mappable T button.
+- Manual: You scrub the envelope back and forth by hand with the Manual control.
 
 The envelope rate is set by the Rate control. The Time Mode toggles switch between frequencies in Hertz and tempo-synced beat divisions.
 

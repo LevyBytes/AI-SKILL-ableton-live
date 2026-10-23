@@ -27,10 +27,10 @@ Delete Button.
 
 Within the step sequencer section, the pad colors stand for the following:
 
-- Unlit — no note sits on this step.
-- Blue — a note sits on this step. Deeper blues point to higher velocities.
-- Dull yellow — a note sits on this step, yet that note is muted.
-- Light Red — should triplets be picked as the step size, the rightmost two columns of pads go red. When that happens, those pads are inactive; only the first six pads of each row of steps remain usable.
+- Unlit: no note sits on this step.
+- Blue: a note sits on this step. Deeper blues point to higher velocities.
+- Dull yellow: a note sits on this step, yet that note is muted.
+- Light Red: should triplets be picked as the step size, the rightmost two columns of pads go red. When that happens, those pads are inactive; only the first six pads of each row of steps remain usable.
   When Triplets are Selected, the Red Steps are Unavailable.
 
 For a thorough rundown on setting the loop length pads, turn to the section titled [Adjusting the Loop Length](https://www.ableton.com/en/live-manual/12/using-push-1/#adjusting-the-loop-length).

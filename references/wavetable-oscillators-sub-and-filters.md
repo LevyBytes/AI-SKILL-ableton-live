@@ -34,9 +34,9 @@ The wavetable visualization switch flips between two available visualization sty
 
 Plentiful as the wavetable selection is, you can also reshape any wavetable’s sound itself using oscillator effects. Choose one of three effects in the chooser, then tune their parameters with the sliders on the right. These oscillator effects are:
 
-- FM — Imposes frequency modulation on the oscillator. The Amt slider scales how strong that frequency modulation is, while the Tune slider sets the pitch of the modulating oscillator. At a tuning of 50% (and -50%) the modulating oscillator lands an octave above (or below) the main one. At 100% (and -100%) it sits two octaves above (or below). Anywhere in between leaves the modulating oscillator at inharmonic ratios, perfect for spawning gritty overtones.
-- Classic — Offers two modulation flavors familiar from vintage analog synths. PW changes the waveform’s pulse width. Bear in mind that hardware synths usually only let you vary pulse width on square waves, whereas Wavetable allows it across every wavetable. Sync brings in a “hidden” oscillator that resets the phase of the one you hear, reshaping its timbre.
-- Modern — Supplies two more ways to warp the waveform’s shape. Warp behaves much like pulse width, and Fold introduces wavefolding distortion.
+- FM: Imposes frequency modulation on the oscillator. The Amt slider scales how strong that frequency modulation is, while the Tune slider sets the pitch of the modulating oscillator. At a tuning of 50% (and -50%) the modulating oscillator lands an octave above (or below) the main one. At 100% (and -100%) it sits two octaves above (or below). Anywhere in between leaves the modulating oscillator at inharmonic ratios, perfect for spawning gritty overtones.
+- Classic: Offers two modulation flavors familiar from vintage analog synths. PW changes the waveform’s pulse width. Bear in mind that hardware synths usually only let you vary pulse width on square waves, whereas Wavetable allows it across every wavetable. Sync brings in a “hidden” oscillator that resets the phase of the one you hear, reshaping its timbre.
+- Modern: Supplies two more ways to warp the waveform’s shape. Warp behaves much like pulse width, and Fold introduces wavefolding distortion.
 
 Keep in mind that switching the effect type leaves the two effect parameter values where they are. That lets you hop between effects and audition how each process colors the timbre using identical settings.
 
@@ -78,6 +78,6 @@ For the Morph filter there’s an added Morph control that continuously glides t
 
 Filter routing lets you wire the filters together in different layouts for wildly varied sculpting approaches. Three routings are on offer:
 
-- Serial — Sends every oscillator into Filter 1, then feeds Filter 1 into Filter 2. Sub goes to both filters.
-- Parallel — Feeds the two main oscillators separately into Filter 1 and Filter 2. Sub goes to both filters.
-- Split — Routes Oscillator 1 into Filter 1, while Oscillator 2 heads into Filter 2. Sub gets divided in two and supplied to both filters. Should either filter be switched off, you’ll still hear the matching oscillator’s signal. Split lets you process each filter on its own, which is handy when you’re after layered synth tones. And with the main oscillators turned off while both filters stay active, Split doubles as a way to lavish extra processing on the Sub oscillator.
+- Serial: Sends every oscillator into Filter 1, then feeds Filter 1 into Filter 2. Sub goes to both filters.
+- Parallel: Feeds the two main oscillators separately into Filter 1 and Filter 2. Sub goes to both filters.
+- Split: Routes Oscillator 1 into Filter 1, while Oscillator 2 heads into Filter 2. Sub gets divided in two and supplied to both filters. Should either filter be switched off, you’ll still hear the matching oscillator’s signal. Split lets you process each filter on its own, which is handy when you’re after layered synth tones. And with the main oscillators turned off while both filters stay active, Split doubles as a way to lavish extra processing on the Sub oscillator.

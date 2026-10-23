@@ -77,11 +77,6 @@
       "summary": "Open when diagnosing CPU load, audio dropouts, signal changes, MIDI latency, or timing jitter.",
       "keywords": ["Performance and signal integrity"]},
     {
-      "topic": "Manual attribution",
-      "file": "references/topics-manual-attribution.json",
-      "summary": "Open when checking the manual contributors, copyright, version, or licensing notice.",
-      "keywords": ["Manual attribution"]},
-    {
       "topic": "Reference Language Selection",
       "file": "references/languages.md",
       "summary": "Open when you need a language version of this skill's references other than English.",
